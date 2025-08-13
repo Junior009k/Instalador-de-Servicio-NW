@@ -1,0 +1,121 @@
+INFO:root: 2023-12-08 09:49:23.990606: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 09:51:15.053151: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 09:52:06.101480: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 09:52:06.351335: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 09:52:14.235217: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 09:52:36.826119: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 09:52:37.163026: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 09:52:43.826481: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 09:55:09.552637: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 09:57:37.552808: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 10:02:11.014764: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 10:05:31.891248: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 10:07:21.643341: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 10:07:45.590998: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 10:33:39.131408: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 10:33:39.490153: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 10:44:52.351896: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 10:45:50.354743: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 10:47:19.468969: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 10:55:27.882579: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 10:59:23.026146: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:00:02.605408: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:05:15.634035: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:05:24.375281: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-12-08 11:05:28.704048: Se selecciono el directorio C:/Instalador de Servicio/Instalador Servicio Unicos V2.0/Frame/Plantilla
+INFO:root: 2023-12-08 11:06:15.732865: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:06:19.390774: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-12-08 11:06:21.942292: Se selecciono el directorio C:/Instalador de Servicio/Instalador Servicio Unicos V2.0/Frame/Plantilla
+INFO:root: 2023-12-08 11:06:33.071270: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:06:37.211978: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-12-08 11:06:40.539109: Se selecciono el directorio C:/Instalador de Servicio/Instalador Servicio Unicos V2.0/Frame/Plantilla
+INFO:root: 2023-12-08 11:25:12.792992: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:27:02.612115: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:27:08.730088: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-12-08 11:27:17.076709: Se selecciono el directorio C:/Sidesys
+INFO:root: 2023-12-08 11:27:30.427776: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:27:35.353382: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-12-08 11:27:38.815906: Se selecciono el directorio C:/Sidesys
+INFO:root: 2023-12-08 11:27:40.521850: Se comienza a instalar los dll
+INFO:root: 2023-12-08 11:29:03.760464: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:29:07.943227: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-12-08 11:29:10.787065: Se selecciono el directorio C:/Sidesys
+INFO:root: 2023-12-08 11:29:12.266491: Se comienza a instalar los dll
+INFO:root: 2023-12-08 11:29:12.266491: Inicializacion el instalador de DLL
+INFO:root: 2023-12-08 11:29:12.266491: C:\Sidesys\MultimediaService\bin\Sidesys.eFlow.ClientService.exe install
+INFO:root: 2023-12-08 11:29:13.337641: regsvr32.exe "C:\Sidesys\e-Flow\SSPrinter\SSPrinter.dll"
+INFO:root: 2023-12-08 11:29:26.471440: regasm.exe C:\Sidesys\e-Flow\media\queue\SSVoice\Sidesys.SSVoice.dll" /codebase
+INFO:root: 2023-12-08 11:29:30.635106: Fin de la instalacion de DLL
+INFO:root: 2023-12-08 11:31:17.115199: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:31:22.729948: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-12-08 11:31:25.653064: Se selecciono el directorio C:/Sidesys
+INFO:root: 2023-12-08 11:31:27.237827: Se comienza a instalar los dll
+INFO:root: 2023-12-08 11:31:27.237827: Inicializacion el instalador de DLL
+INFO:root: 2023-12-08 11:31:27.237827: C:\Sidesys\MultimediaService\bin\Sidesys.eFlow.ClientService.exe install
+INFO:root: 2023-12-08 11:31:27.782755: regsvr32.exe "C:\Sidesys\e-Flow\SSPrinter\SSPrinter.dll"
+INFO:root: 2023-12-08 11:31:29.982157: regasm.exe C:\Sidesys\e-Flow\media\queue\SSVoice\Sidesys.SSVoice.dll" /codebase
+INFO:root: 2023-12-08 11:31:34.912330: Fin de la instalacion de DLL
+INFO:root: 2023-12-08 11:33:09.134390: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:33:13.800990: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-12-08 11:33:16.389404: Se selecciono el directorio C:/Sidesys
+INFO:root: 2023-12-08 11:33:17.800842: Se comienza a instalar los dll
+INFO:root: 2023-12-08 11:33:17.816377: Inicializacion el instalador de DLL
+INFO:root: 2023-12-08 11:33:17.816377: C:\Sidesys\MultimediaService\bin\Sidesys.eFlow.ClientService.exe install
+INFO:root: 2023-12-08 11:33:18.349613: regsvr32.exe "C:\Sidesys\e-Flow\SSPrinter\SSPrinter.dll"
+INFO:root: 2023-12-08 11:33:20.888724: C:\Windows\Microsoft.NET\Framework4.0.30319egasm.exe regasm.exe C:\Sidesys\e-Flow\media\queue\SSVoice\Sidesys.SSVoice.dll" /codebase
+INFO:root: 2023-12-08 11:33:20.955266: Fin de la instalacion de DLL
+INFO:root: 2023-12-08 11:33:42.998206: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:33:49.180618: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-12-08 11:33:52.370801: Se selecciono el directorio C:/Sidesys
+INFO:root: 2023-12-08 11:33:54.027250: Se comienza a instalar los dll
+INFO:root: 2023-12-08 11:33:54.027250: Inicializacion el instalador de DLL
+INFO:root: 2023-12-08 11:33:54.027250: C:\Sidesys\MultimediaService\bin\Sidesys.eFlow.ClientService.exe install
+INFO:root: 2023-12-08 11:33:54.467051: regsvr32.exe "C:\Sidesys\e-Flow\SSPrinter\SSPrinter.dll"
+INFO:root: 2023-12-08 11:33:57.058557: C:\Windows\Microsoft.NET\Framework4.0.30319egasm.exe regasm.exe C:\Sidesys\e-Flow\media\queue\SSVoice\Sidesys.SSVoice.dll" /codebase
+INFO:root: 2023-12-08 11:33:57.145840: Fin de la instalacion de DLL
+INFO:root: 2023-12-08 11:36:49.101829: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:36:56.597481: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-12-08 11:36:59.012073: Se selecciono el directorio C:/Sidesys
+INFO:root: 2023-12-08 11:37:00.964233: Se comienza a instalar los dll
+INFO:root: 2023-12-08 11:37:00.964233: Inicializacion el instalador de DLL
+INFO:root: 2023-12-08 11:37:00.964233: C:\Sidesys\MultimediaService\bin\Sidesys.eFlow.ClientService.exe install
+INFO:root: 2023-12-08 11:37:01.467195: regsvr32.exe "C:\Sidesys\e-Flow\SSPrinter\SSPrinter.dll"
+INFO:root: 2023-12-08 11:37:03.814845: C:\Windows\Microsoft.NET\Framework4.0.30319egasm.exe regasm.exe C:\Sidesys\e-Flow\media\queue\SSVoice\Sidesys.SSVoice.dll" /codebase
+INFO:root: 2023-12-08 11:37:04.202889: Fin de la instalacion de DLL
+INFO:root: 2023-12-08 11:38:52.473449: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:38:58.963989: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-12-08 11:39:01.121574: Se selecciono el directorio C:/Sidesys
+INFO:root: 2023-12-08 11:39:02.399341: Se comienza a instalar los dll
+INFO:root: 2023-12-08 11:39:02.399341: Inicializacion el instalador de DLL
+INFO:root: 2023-12-08 11:39:02.399341: C:\Sidesys\MultimediaService\bin\Sidesys.eFlow.ClientService.exe install
+INFO:root: 2023-12-08 11:39:02.852377: regsvr32.exe "C:\Sidesys\e-Flow\SSPrinter\SSPrinter.dll"
+INFO:root: 2023-12-08 11:39:04.556076: C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe C:\Sidesys\e-Flow\media\queue\SSVoice\Sidesys.SSVoice.dll" /codebase
+INFO:root: 2023-12-08 11:39:04.859639: Fin de la instalacion de DLL
+INFO:root: 2023-12-08 11:39:42.063532: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:39:46.934140: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-12-08 11:39:49.197590: Se selecciono el directorio C:/Sidesys
+INFO:root: 2023-12-08 11:39:50.318454: Se comienza a instalar los dll
+INFO:root: 2023-12-08 11:39:50.318454: Inicializacion el instalador de DLL
+INFO:root: 2023-12-08 11:39:50.318454: C:\Sidesys\MultimediaService\bin\Sidesys.eFlow.ClientService.exe install
+INFO:root: 2023-12-08 11:39:50.935096: regsvr32.exe "C:\Sidesys\e-Flow\SSPrinter\SSPrinter.dll"
+INFO:root: 2023-12-08 11:39:53.003762: C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe "C:\Sidesys\e-Flow\media\queue\SSVoice\Sidesys.SSVoice.dll" /codebase
+INFO:root: 2023-12-08 11:39:54.197917: Fin de la instalacion de DLL
+INFO:root: 2023-12-08 11:41:59.304391: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 11:42:07.567154: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-12-08 11:42:10.001116: Se selecciono el directorio C:/Sidesys
+INFO:root: 2023-12-08 11:42:11.407309: Se comienza a instalar los dll
+INFO:root: 2023-12-08 11:42:11.407309: Inicializacion el instalador de DLL
+INFO:root: 2023-12-08 11:42:11.407309: "C:\Sidesys\MultimediaService\bin\Sidesys.eFlow.ClientService.exe" install
+INFO:root: 2023-12-08 11:42:11.909154: regsvr32.exe "C:\Sidesys\e-Flow\SSPrinter\SSPrinter.dll"
+INFO:root: 2023-12-08 11:42:14.766851: C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe "C:\Sidesys\e-Flow\media\queue\SSVoice\Sidesys.SSVoice.dll" /codebase
+INFO:root: 2023-12-08 11:42:15.293362: Fin de la instalacion de DLL
+INFO:root: 2023-12-08 15:04:05.835545: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 15:05:45.520282: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 15:09:44.483098: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 15:09:44.789574: Se comienza a instalar los dll
+ERROR:root: 2023-12-08 15:09:44.789574: No se puede modificar los dll sin especificar el nombre la ruta
+INFO:root: 2023-12-08 15:10:09.600834: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 15:13:34.588158: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 15:14:02.143893: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 15:17:19.515255: Inicializacion de la Aplicacion
+INFO:root: 2023-12-08 15:37:36.276279: Inicializacion de la Aplicacion

@@ -1,0 +1,123 @@
+INFO:root: 2024-10-28 10:49:05.663741: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 10:49:06.274052: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 10:49:06.274052: assert\QRes.exe /l
+INFO:root: 2024-10-28 10:49:06.309132: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 10:49:06.309132: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:33:13.113530: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 11:33:13.351847: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:33:13.351847: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:33:13.381195: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:33:13.381195: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:34:49.333144: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 11:34:49.525620: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:34:49.525620: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:34:49.564180: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:34:49.565170: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:35:25.711939: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 11:35:25.909518: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:35:25.909518: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:35:25.950599: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:35:25.950599: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:38:13.168278: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 11:38:13.367119: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:38:13.367119: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:38:13.401777: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:38:13.401777: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:40:03.187197: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 11:40:03.359859: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:40:03.359859: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:40:03.388660: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:40:03.388660: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:41:32.339583: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 11:41:32.521927: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:41:32.523434: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:41:32.548221: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:41:32.549220: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:52:10.926400: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 11:52:11.201950: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:52:11.201950: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:52:11.238894: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:52:11.238894: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:52:19.340977: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-10-28 11:52:22.056795: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.275/Codigo Fuente/Middleware
+INFO:root: 2024-10-28 11:53:25.105898: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 11:53:25.272056: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:53:25.272056: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:53:25.298317: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 11:53:25.298317: assert\QRes.exe /l
+INFO:root: 2024-10-28 11:53:31.091263: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-10-28 11:53:33.447997: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.275/Codigo Fuente/Middleware
+INFO:root: 2024-10-28 14:51:58.527474: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 14:51:59.066829: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 14:51:59.066829: assert\QRes.exe /l
+INFO:root: 2024-10-28 14:51:59.093719: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 14:51:59.093719: assert\QRes.exe /l
+INFO:root: 2024-10-28 14:52:26.949734: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.300/Codigo Fuente donde se identificaran los reportes
+INFO:root: 2024-10-28 14:53:00.815728: Se comienza a modificar  suite
+ERROR:root: 2024-10-28 14:53:00.815728: No se puede modificar suite sin especificar el nombre del servidor
+ERROR:root: 2024-10-28 14:53:02.937137: No se puede modificar suite sin especificar el nombre del sitio de suite
+ERROR:root: 2024-10-28 14:53:04.598074: No se puede modificar suite sin especificar el nombre del sitio de im
+ERROR:root: 2024-10-28 14:53:05.301012: No se puede modificar suite sin especificar el nombre la ruta
+INFO:root: 2024-10-28 15:06:30.321361: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 15:06:30.488832: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 15:06:30.488832: assert\QRes.exe /l
+INFO:root: 2024-10-28 15:06:30.518420: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 15:06:30.518420: assert\QRes.exe /l
+INFO:root: 2024-10-28 15:06:45.856035: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.300/Codigo Fuente donde se identificaran los reportes
+INFO:root: 2024-10-28 15:06:48.017138: Se comienza a modificar  suite
+ERROR:root: 2024-10-28 15:06:48.017138: No se puede modificar suite sin especificar el nombre del servidor
+ERROR:root: 2024-10-28 15:06:53.121110: No se puede modificar suite sin especificar el nombre del sitio de suite
+ERROR:root: 2024-10-28 15:06:54.746846: No se puede modificar suite sin especificar el nombre del sitio de im
+ERROR:root: 2024-10-28 15:06:55.772695: No se puede modificar suite sin especificar el nombre la ruta
+INFO:root: 2024-10-28 15:08:55.964709: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 15:08:56.201102: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 15:08:56.201102: assert\QRes.exe /l
+INFO:root: 2024-10-28 15:08:56.248131: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 15:08:56.248131: assert\QRes.exe /l
+INFO:root: 2024-10-28 15:09:04.651372: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.300/Codigo Fuente donde se identificaran los reportes
+INFO:root: 2024-10-28 15:09:09.550185: Se comienza a modificar  la bbdd
+INFO:root: 2024-10-28 15:09:58.336903: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 15:09:58.510812: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 15:09:58.510812: assert\QRes.exe /l
+INFO:root: 2024-10-28 15:09:58.535916: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 15:09:58.535916: assert\QRes.exe /l
+INFO:root: 2024-10-28 15:10:08.947245: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.300/Codigo Fuente donde se identificaran los reportes
+INFO:root: 2024-10-28 15:10:12.430513: Se comienza a modificar  la bbdd
+INFO:root: 2024-10-28 15:10:12.430513: Validando configuracion de la bbdd de suite
+INFO:root: 2024-10-28 15:20:18.506305: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 15:20:18.686202: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 15:20:18.687203: assert\QRes.exe /l
+INFO:root: 2024-10-28 15:20:18.709777: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 15:20:18.709777: assert\QRes.exe /l
+INFO:root: 2024-10-28 15:20:28.123917: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.300/Codigo Fuente donde se identificaran los reportes
+INFO:root: 2024-10-28 15:20:51.592026: Se comienza a modificar  la bbdd
+INFO:root: 2024-10-28 15:20:51.592026: Validando configuracion de la bbdd de suite
+INFO:root: 2024-10-28 15:20:51.592026: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.300\Codigo Fuente/Middleware/Appointment/ConfigFiles/IMIntegration.config
+INFO:root: 2024-10-28 15:20:51.594036: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.300\Codigo Fuente\Middleware\Appointment\ConfigFiles\IMIntegration.config de forma exitosa
+INFO:root: 2024-10-28 15:20:51.594036: Se cambio la cadena de texto <identityManager>http://192.168.145.200/castalosa-im/</identityManager>
+INFO:root: 2024-10-28 15:20:51.594036: por la cadena de texto <identityManager>1</identityManager>
+INFO:root: 2024-10-28 15:20:51.594036: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.300\Codigo Fuente/Middleware/Appointment/ConfigFiles/IMIntegration.config
+INFO:root: 2024-10-28 15:20:51.605574: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.300\Codigo Fuente\Middleware\Appointment\ConfigFiles\IMIntegration.config de forma exitosa
+INFO:root: 2024-10-28 15:20:51.605574: Se cambio la cadena de texto <tenantAppointment>ECD1A089-6A09-B4FE-331F-3A1545AE6238</tenantAppointment>
+INFO:root: 2024-10-28 15:20:51.606593: por la cadena de texto <tenantAppointment>3</tenantAppointment>
+INFO:root: 2024-10-28 15:20:51.606593: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.300\Codigo Fuente/Middleware/Appointment/ConfigFiles/IMIntegration.config
+INFO:root: 2024-10-28 15:20:51.620608: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.300\Codigo Fuente\Middleware\Appointment\ConfigFiles\IMIntegration.config de forma exitosa
+INFO:root: 2024-10-28 15:20:51.620608: Se cambio la cadena de texto <UserNameAdminTenant>[Correo del usuario Tenant]</UserNameAdminTenant>
+INFO:root: 2024-10-28 15:20:51.620608: por la cadena de texto <UserNameAdminTenant>5</UserNameAdminTenant>
+INFO:root: 2024-10-28 15:20:51.620608: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.300\Codigo Fuente/Middleware/Appointment/ConfigFiles/IMIntegration.config
+INFO:root: 2024-10-28 15:20:51.637163: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.300\Codigo Fuente\Middleware\Appointment\ConfigFiles\IMIntegration.config de forma exitosa
+INFO:root: 2024-10-28 15:20:51.637163: Se cambio la cadena de texto <PasswordAdminTenant>[ContraseÃ±a del usuario Tenant]</PasswordAdminTenant>
+INFO:root: 2024-10-28 15:20:51.637163: por la cadena de texto <PasswordAdminTenant>2</PasswordAdminTenant>
+INFO:root: 2024-10-28 15:20:51.637163: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.300\Codigo Fuente/Middleware/Appointment/ConfigFiles/IMIntegration.config
+INFO:root: 2024-10-28 15:20:51.649071: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.300\Codigo Fuente\Middleware\Appointment\ConfigFiles\IMIntegration.config de forma exitosa
+INFO:root: 2024-10-28 15:20:51.649071: Se cambio la cadena de texto <ClientIdAppointment>Citas_399e78b6_ecd1a089</ClientIdAppointment>
+INFO:root: 2024-10-28 15:20:51.649071: por la cadena de texto <ClientIdAppointment>4</ClientIdAppointment>
+INFO:root: 2024-10-28 15:20:51.649071: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.300\Codigo Fuente/Middleware/Appointment/ConfigFiles/IMIntegration.config
+INFO:root: 2024-10-28 15:20:51.662704: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.300\Codigo Fuente\Middleware\Appointment\ConfigFiles\IMIntegration.config de forma exitosa
+INFO:root: 2024-10-28 15:20:51.662704: Se cambio la cadena de texto <ClientSecretAppointment>Citas*8326ea54-8326ea54+</ClientSecretAppointment>
+INFO:root: 2024-10-28 15:20:51.662704: por la cadena de texto <ClientSecretAppointment>6</ClientSecretAppointment>
+INFO:root: 2024-10-28 16:36:33.234016: Inicializacion de la Aplicacion
+INFO:root: 2024-10-28 16:36:33.416688: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 16:36:33.416688: assert\QRes.exe /l
+INFO:root: 2024-10-28 16:36:33.448713: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-28 16:36:33.448713: assert\QRes.exe /l

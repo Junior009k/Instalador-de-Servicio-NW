@@ -1,0 +1,37 @@
+INFO:root: 2024-11-22 13:32:33.044137: Inicializacion de la Aplicacion
+INFO:root: 2024-11-22 13:32:33.368439: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-22 13:32:33.368439: assert\QRes.exe /l
+INFO:root: 2024-11-22 13:32:33.424129: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-22 13:32:33.424129: assert\QRes.exe /l
+INFO:root: 2024-11-22 13:35:04.089602: Inicializacion de la Aplicacion
+INFO:root: 2024-11-22 13:35:04.331964: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-22 13:35:04.331964: assert\QRes.exe /l
+INFO:root: 2024-11-22 13:35:04.372591: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-22 13:35:04.377117: assert\QRes.exe /l
+INFO:root: 2024-11-22 13:35:48.569924: Inicializacion de la Aplicacion
+INFO:root: 2024-11-22 13:35:48.798069: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-22 13:35:48.798069: assert\QRes.exe /l
+INFO:root: 2024-11-22 13:35:48.838779: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-22 13:35:48.838779: assert\QRes.exe /l
+INFO:root: 2024-11-22 13:36:26.149000: Inicializacion de la Aplicacion
+INFO:root: 2024-11-22 13:36:26.360581: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-22 13:36:26.360581: assert\QRes.exe /l
+INFO:root: 2024-11-22 13:36:26.401314: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-22 13:36:26.401314: assert\QRes.exe /l
+INFO:root: 2024-11-22 13:36:52.242116: Inicializacion de la Aplicacion
+INFO:root: 2024-11-22 13:36:52.470643: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-22 13:36:52.475644: assert\QRes.exe /l
+INFO:root: 2024-11-22 13:36:52.517413: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-22 13:36:52.518127: assert\QRes.exe /l
+INFO:root: 2024-11-22 13:37:10.166175: Inicializacion de la Aplicacion
+INFO:root: 2024-11-22 13:37:10.379519: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-22 13:37:10.380518: assert\QRes.exe /l
+INFO:root: 2024-11-22 13:37:10.420585: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-22 13:37:10.420585: assert\QRes.exe /l
+INFO:root: 2024-11-22 13:37:27.563949: guardando los datos de configuracion
+INFO:root:2024-11-22 13:37:27.564967: Estableciendo color Rojo al frame 1 id del color 1
+INFO:root:2024-11-22 13:37:27.564967: Estableciendo color Verde al frame 2 id del color 2
+INFO:root:2024-11-22 13:37:27.564967: Estableciendo color Verde al frame 3 id del color 2
+INFO:root:2024-11-22 13:37:27.564967: Estableciendo color Amarillo al frame 4 id del color 5
+INFO:root:2024-11-22 13:37:27.564967: Estableciendo color Crema al frame 5 id del color 7
+INFO:root:2024-11-22 13:37:27.564967: actualizando la tabla estadoColor en el frame 1 actualiza el valor del campo idColor con 1)

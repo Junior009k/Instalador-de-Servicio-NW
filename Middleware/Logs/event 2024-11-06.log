@@ -1,0 +1,51 @@
+INFO:root: 2024-11-06 18:17:25.692994: Inicializacion de la Aplicacion
+INFO:root: 2024-11-06 18:17:26.006532: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-06 18:17:26.006532: assert\QRes.exe /l
+INFO:root: 2024-11-06 18:17:26.047515: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-06 18:17:26.048517: assert\QRes.exe /l
+INFO:root: 2024-11-06 18:17:33.605100: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-11-06 18:17:35.648110: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.500/Codigo Fuente/Middleware
+INFO:root: 2024-11-06 18:23:21.432421: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-11-06 18:23:23.413589: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.500/Codigo Fuente/Middleware
+INFO:root:2024-11-06 18:23:26.127789: Se comienza a modificar los UDLS
+INFO:root: 2024-11-06 18:23:26.127789: Comenzando a modificar el udl
+ERROR:root: 2024-11-06 18:23:28.674739: No se encontraron los udls
+INFO:root: 2024-11-06 18:23:32.577838: Se comienza a modificar la ejecucion de la consola de sesion
+ERROR:root: 2024-11-06 18:23:32.577838: No se puede modificar el horario de el tiempo de ejecucion de tiempo de consola sin especificar el nombre la ruta
+INFO:root: 2024-11-06 18:23:40.585415: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-11-06 18:23:42.369858: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.500/Codigo Fuente/Middleware
+INFO:root: 2024-11-06 18:23:43.608238: Se comienza a modificar  NCache
+ERROR:root: 2024-11-06 18:23:43.609253: La carpeta Middleware no existe
+ERROR:root: 2024-11-06 18:23:43.609253: No se puede modificar NCache sin especificar el nombre tiene que estar en la carpeta del aplicativo
+INFO:root: 2024-11-06 18:28:18.637929: Se ejecuta el metodo startingTest
+INFO:root: 2024-11-06 18:28:18.637929: Inicializacion del tnc
+INFO:root: 2024-11-06 18:28:18.637929:empezando la consulta en poweshell
+INFO:root: 2024-11-06 18:28:18.637929:powershell tnc localhost -port 80
+INFO:root: 2024-11-06 18:28:28.933614: powershell tnc localhost -port 80
+INFO:root: 2024-11-06 18:28:28.933614: 
+
+ComputerName     : localhost
+RemoteAddress    : ::1
+RemotePort       : 80
+InterfaceAlias   : Loopback Pseudo-Interface 1
+SourceAddress    : ::1
+TcpTestSucceeded : True
+
+
+
+
+INFO:root: 2024-11-06 18:28:28.933614: Finalizacion del tnc
+INFO:root: 2024-11-06 18:36:45.233159: Inicializacion de la Aplicacion
+INFO:root: 2024-11-06 18:36:45.519090: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-06 18:36:45.519090: assert\QRes.exe /l
+INFO:root: 2024-11-06 18:36:45.565055: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-06 18:36:45.565055: assert\QRes.exe /l
+INFO:root: 2024-11-06 18:39:09.693405: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-11-06 18:39:11.710809: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.500/Codigo Fuente/Middleware
+INFO:root: 2024-11-06 18:40:28.773609: Inicializacion de la Aplicacion
+INFO:root: 2024-11-06 18:40:28.971558: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-06 18:40:28.971558: assert\QRes.exe /l
+INFO:root: 2024-11-06 18:40:29.010877: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-06 18:40:29.010877: assert\QRes.exe /l
+INFO:root: 2024-11-06 18:40:36.571006: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-11-06 18:40:38.742253: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.500/Codigo Fuente/Middleware

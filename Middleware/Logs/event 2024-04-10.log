@@ -1,0 +1,264 @@
+INFO:root: 2024-04-10 08:09:21.860292: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 08:09:22.215047: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 08:09:22.215047: assert\QRes.exe /l
+INFO:root: 2024-04-10 08:09:22.235115: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 08:09:22.235115: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:06:55.834320: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:06:56.261071: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:06:56.262071: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:06:56.281119: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:06:56.281119: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:07:14.522614: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:07:14.631251: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:07:14.631251: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:07:14.650366: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:07:14.651366: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:07:23.290871: Se comienza a automatizar el aplicativo
+ERROR:root: 2024-04-10 11:07:23.290871: No se puede modificar el aplicativo sin especificar el nombre el nombre del servidor de base de datos
+ERROR:root: 2024-04-10 11:07:25.883182: No se puede modificar el aplicativo sin especificar el nombre el nombre del servidor de la aplicaciones
+ERROR:root: 2024-04-10 11:07:26.850945: No se puede modificar el aplicativo sin especificar el nombre el nombre del aplicativo
+ERROR:root: 2024-04-10 11:07:27.531337: No se puede modificar el aplicativo sin especificar el nombre la ruta
+ERROR:root: 2024-04-10 11:07:28.244217: La carpeta Middleware no existe
+ERROR:root: 2024-04-10 11:07:28.244217: No se puede automatizar el aplicativo ,tiene que estar en la carpeta del aplicativo
+INFO:root: 2024-04-10 11:08:15.511560: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:08:15.621414: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:08:15.621414: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:08:15.640942: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:08:15.640942: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:08:20.418842: Se comienza a automatizar el aplicativo
+ERROR:root: 2024-04-10 11:08:20.418842: No se puede modificar el aplicativo sin especificar el nombre el nombre del servidor de base de datos
+ERROR:root: 2024-04-10 11:08:21.620030: No se puede modificar el aplicativo sin especificar el nombre el nombre del servidor de la aplicaciones
+ERROR:root: 2024-04-10 11:08:22.260605: No se puede modificar el aplicativo sin especificar el nombre el nombre del aplicativo
+ERROR:root: 2024-04-10 11:08:23.169805: No se puede modificar el aplicativo sin especificar el nombre la ruta
+ERROR:root: 2024-04-10 11:08:23.774643: La carpeta Middleware no existe
+ERROR:root: 2024-04-10 11:08:23.774643: No se puede automatizar el aplicativo ,tiene que estar en la carpeta del aplicativo
+INFO:root: 2024-04-10 11:08:24.490162: Inicializacion De la creacion de la aplicacion -STE 
+INFO:root: 2024-04-10 11:08:24.490162:empezando la consulta en poweshell
+INFO:root: 2024-04-10 11:08:24.490162: New-Item 'IIS:\Sites\Default Web Site\-STE' -physicalPath '\FrontEnd\STE' -type Application
+INFO:root: 2024-04-10 11:08:27.031432: 
+Name             Application pool   Protocols    Physical Path                                      
+----             ----------------   ---------    -------------                                      
+-STE             DefaultAppPool     http         \FrontEnd\STE                                      
+
+
+ 
+ERROR:root: 2024-04-10 11:08:27.032073: La carpeta -STE no existe
+ERROR:root: 2024-04-10 11:08:27.032073: Error al crear la aplicacion -STE, valide que sea administrador
+INFO:root: 2024-04-10 11:08:27.032073: Inicializacion De la creacion de la aplicacion -Appointment 
+INFO:root: 2024-04-10 11:08:27.032073:empezando la consulta en poweshell
+INFO:root: 2024-04-10 11:08:27.032073: New-Item 'IIS:\Sites\Default Web Site\-Appointment' -physicalPath '\FrontEnd\Appointment' -type Application
+INFO:root: 2024-04-10 11:08:28.588163: 
+Name             Application pool   Protocols    Physical Path                                      
+----             ----------------   ---------    -------------                                      
+-Appointment     DefaultAppPool     http         \FrontEnd\Appointment                              
+
+
+ 
+ERROR:root: 2024-04-10 11:08:28.588163: La carpeta -Appointment no existe
+ERROR:root: 2024-04-10 11:08:28.588163: Error al crear la aplicacion -Appointment, valide que sea administrador
+INFO:root: 2024-04-10 11:08:28.588163: Inicializacion De la creacion de la aplicacion -AppointmentWeb 
+INFO:root: 2024-04-10 11:08:28.588163:empezando la consulta en poweshell
+INFO:root: 2024-04-10 11:08:28.588163: New-Item 'IIS:\Sites\Default Web Site\-AppointmentWeb' -physicalPath '\FrontEnd\AppointmentWeb' -type Application
+INFO:root: 2024-04-10 11:08:30.143912: 
+Name             Application pool   Protocols    Physical Path                                      
+----             ----------------   ---------    -------------                                      
+-AppointmentWeb  DefaultAppPool     http         \FrontEnd\AppointmentWeb                           
+
+
+ 
+ERROR:root: 2024-04-10 11:08:30.143912: La carpeta -AppointmentWeb no existe
+ERROR:root: 2024-04-10 11:08:30.144912: Error al crear la aplicacion -AppointmentWeb, valide que sea administrador
+INFO:root: 2024-04-10 11:08:30.144912: Inicializacion De la creacion de la aplicacion -AppointmentWebService 
+INFO:root: 2024-04-10 11:08:30.144912:empezando la consulta en poweshell
+INFO:root: 2024-04-10 11:08:30.144912: New-Item 'IIS:\Sites\Default Web Site\-AppointmentWebService' -physicalPath '\FrontEnd\AppointmentWebService' -type Application
+INFO:root: 2024-04-10 11:08:31.721638: 
+Name             Application pool   Protocols    Physical Path                                      
+----             ----------------   ---------    -------------                                      
+-AppointmentWebS DefaultAppPool     http         \FrontEnd\AppointmentWebService                    
+ervice                                                                                              
+
+
+ 
+ERROR:root: 2024-04-10 11:08:31.722637: La carpeta -AppointmentWebService no existe
+ERROR:root: 2024-04-10 11:08:31.722637: Error al crear la aplicacion -AppointmentWebService, valide que sea administrador
+INFO:root: 2024-04-10 11:08:31.722637: Inicializacion De la creacion de la aplicacion -OpinionPoll 
+INFO:root: 2024-04-10 11:08:31.722637:empezando la consulta en poweshell
+INFO:root: 2024-04-10 11:08:31.722637: New-Item 'IIS:\Sites\Default Web Site\-OpinionPoll' -physicalPath '\FrontEnd\OpinionPoll' -type Application
+INFO:root: 2024-04-10 11:08:33.211074: 
+Name             Application pool   Protocols    Physical Path                                      
+----             ----------------   ---------    -------------                                      
+-OpinionPoll     DefaultAppPool     http         \FrontEnd\OpinionPoll                              
+
+
+ 
+ERROR:root: 2024-04-10 11:08:33.211074: La carpeta -OpinionPoll no existe
+ERROR:root: 2024-04-10 11:08:33.211074: Error al crear la aplicacion -OpinionPoll, valide que sea administrador
+INFO:root: 2024-04-10 11:08:33.211074: Comenzando a modificar el udl
+INFO:root: 2024-04-10 11:08:33.211074: Comenzando a modificar el udl de STE
+INFO:root: 2024-04-10 11:08:35.407799: Se comienza a automatizar el aplicativo
+ERROR:root: 2024-04-10 11:08:35.407980: No se puede modificar el aplicativo sin especificar el nombre el nombre del servidor de base de datos
+ERROR:root: 2024-04-10 11:08:37.249041: No se puede modificar el aplicativo sin especificar el nombre el nombre del servidor de la aplicaciones
+ERROR:root: 2024-04-10 11:08:38.164809: No se puede modificar el aplicativo sin especificar el nombre el nombre del aplicativo
+ERROR:root: 2024-04-10 11:08:39.085656: No se puede modificar el aplicativo sin especificar el nombre la ruta
+ERROR:root: 2024-04-10 11:08:40.652169: La carpeta Middleware no existe
+ERROR:root: 2024-04-10 11:08:40.652169: No se puede automatizar el aplicativo ,tiene que estar en la carpeta del aplicativo
+INFO:root: 2024-04-10 11:08:41.966851: Inicializacion De la creacion de la aplicacion -STE 
+INFO:root: 2024-04-10 11:08:41.967853:empezando la consulta en poweshell
+INFO:root: 2024-04-10 11:08:41.967853: New-Item 'IIS:\Sites\Default Web Site\-STE' -physicalPath '\FrontEnd\STE' -type Application
+ERROR:root: 2024-04-10 11:08:43.663918:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\-STE' -physicalPath ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemp 
+   lazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-04-10 11:08:43.664951:  
+ERROR:root: 2024-04-10 11:08:43.664951: La carpeta -STE no existe
+ERROR:root: 2024-04-10 11:08:43.664951: Error al crear la aplicacion -STE, valide que sea administrador
+INFO:root: 2024-04-10 11:08:43.664951: Inicializacion De la creacion de la aplicacion -Appointment 
+INFO:root: 2024-04-10 11:08:43.664951:empezando la consulta en poweshell
+INFO:root: 2024-04-10 11:08:43.664951: New-Item 'IIS:\Sites\Default Web Site\-Appointment' -physicalPath '\FrontEnd\Appointment' -type Application
+ERROR:root: 2024-04-10 11:08:45.214684:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\-Appointment' -phys ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemp 
+   lazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-04-10 11:08:45.214684:  
+ERROR:root: 2024-04-10 11:08:45.214684: La carpeta -Appointment no existe
+ERROR:root: 2024-04-10 11:08:45.214684: Error al crear la aplicacion -Appointment, valide que sea administrador
+INFO:root: 2024-04-10 11:08:45.214684: Inicializacion De la creacion de la aplicacion -AppointmentWeb 
+INFO:root: 2024-04-10 11:08:45.214684:empezando la consulta en poweshell
+INFO:root: 2024-04-10 11:08:45.214684: New-Item 'IIS:\Sites\Default Web Site\-AppointmentWeb' -physicalPath '\FrontEnd\AppointmentWeb' -type Application
+ERROR:root: 2024-04-10 11:08:46.815361:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\-AppointmentWeb' -p ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemp 
+   lazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-04-10 11:08:46.815361:  
+ERROR:root: 2024-04-10 11:08:46.815952: La carpeta -AppointmentWeb no existe
+ERROR:root: 2024-04-10 11:08:46.816007: Error al crear la aplicacion -AppointmentWeb, valide que sea administrador
+INFO:root: 2024-04-10 11:08:46.816007: Inicializacion De la creacion de la aplicacion -AppointmentWebService 
+INFO:root: 2024-04-10 11:08:46.816007:empezando la consulta en poweshell
+INFO:root: 2024-04-10 11:08:46.816007: New-Item 'IIS:\Sites\Default Web Site\-AppointmentWebService' -physicalPath '\FrontEnd\AppointmentWebService' -type Application
+ERROR:root: 2024-04-10 11:08:48.384830:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\-AppointmentWebServ ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemp 
+   lazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-04-10 11:08:48.384830:  
+ERROR:root: 2024-04-10 11:08:48.384830: La carpeta -AppointmentWebService no existe
+ERROR:root: 2024-04-10 11:08:48.384830: Error al crear la aplicacion -AppointmentWebService, valide que sea administrador
+INFO:root: 2024-04-10 11:08:48.384830: Inicializacion De la creacion de la aplicacion -OpinionPoll 
+INFO:root: 2024-04-10 11:08:48.384830:empezando la consulta en poweshell
+INFO:root: 2024-04-10 11:08:48.385831: New-Item 'IIS:\Sites\Default Web Site\-OpinionPoll' -physicalPath '\FrontEnd\OpinionPoll' -type Application
+ERROR:root: 2024-04-10 11:08:50.036508:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\-OpinionPoll' -phys ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemp 
+   lazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-04-10 11:08:50.037505:  
+ERROR:root: 2024-04-10 11:08:50.037505: La carpeta -OpinionPoll no existe
+ERROR:root: 2024-04-10 11:08:50.037505: Error al crear la aplicacion -OpinionPoll, valide que sea administrador
+INFO:root: 2024-04-10 11:08:50.037505: Comenzando a modificar el udl
+INFO:root: 2024-04-10 11:08:50.037505: Comenzando a modificar el udl de STE
+INFO:root: 2024-04-10 11:09:42.896337: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:09:43.004976: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:09:43.004976: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:09:43.024500: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:09:43.024500: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:09:48.313520: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:11:03.158141: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:11:03.268363: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:11:03.268868: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:11:03.289418: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:11:03.289982: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:11:08.025823: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:11:11.583812: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:12:28.149317: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:12:28.259956: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:12:28.259956: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:12:28.279470: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:12:28.280475: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:12:32.425465: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:12:34.941302: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:12:39.219122: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:12:42.310315: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:12:43.246870: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:12:43.442009: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:12:43.662093: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:12:43.930118: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:12:45.646595: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:19:57.060676: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:19:57.175110: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:19:57.175110: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:19:57.196133: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:19:57.196133: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:20:03.146225: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:20:05.898582: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:20:57.109556: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:20:57.218049: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:20:57.218049: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:20:57.239209: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:20:57.239209: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:21:04.576400: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:21:22.637125: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:21:22.796908: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:21:22.796908: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:21:22.815912: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:21:22.815912: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:21:30.631870: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:21:34.034222: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:21:36.909922: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:22:47.887593: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:22:47.997940: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:22:47.998940: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:22:48.017464: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:22:48.018463: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:22:53.495859: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:22:56.131887: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:22:58.228110: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:22:58.668124: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:22:59.355575: Se comienza a automatizar el aplicativo
+INFO:root: 2024-04-10 11:23:23.754422: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:23:23.868776: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:23:23.868776: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:23:23.887782: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:23:23.887782: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:23:53.507622: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:23:53.615680: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:23:53.615680: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:23:53.635688: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:23:53.635688: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:24:13.154238: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:24:13.264100: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:24:13.264100: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:24:13.283467: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:24:13.283467: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:24:32.313843: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:24:32.422496: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:24:32.423493: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:24:32.442500: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:24:32.442797: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:25:04.183557: Inicializacion de la Aplicacion
+INFO:root: 2024-04-10 11:25:04.297448: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:25:04.297448: assert\QRes.exe /l
+INFO:root: 2024-04-10 11:25:04.317421: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-10 11:25:04.318383: assert\QRes.exe /l

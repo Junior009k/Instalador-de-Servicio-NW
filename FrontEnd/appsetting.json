@@ -1,0 +1,341 @@
+{
+    "Aplication": 
+    {
+        "Ventana":
+        {
+            "size": "500x350",
+            "resizable":"False",
+
+        },
+        "Modulos Generales": 
+        {
+            "mail": 
+            {
+                "name": "Configuracion de un correo",
+                "BackgroundColor": "#02F",
+            },
+            "Service": 
+            {
+                "name": "Instalador de servicios Unicos",
+                "BackgroundColor": "#02F",
+            },
+            "iis": 
+            {
+                "sub-menu iis":
+                {
+                   "name": "sub-menu iis"
+                },
+                "Creador de aplicaciones en IIS":
+                { 
+                   "name": "Creador de aplicaciones en IIS"
+                },
+                "Creador de Sites en IIS":
+                { 
+                   "name": "Creador de Sites en IIS"
+                },
+                "BackgroundColor": "#2DA",
+            },
+            "udl": 
+            {
+                "name": "Configurador de udls",
+                "BackgroundColor": "#A3D",
+            },
+            "port": 
+            {
+                "name": "Modificador de puertos",
+                "BackgroundColor": "#afa",
+            },
+            "ncache": 
+            {
+                "name": "Configurador de NCache",
+                "BackgroundColor": "#afa",
+            },
+            "nme": 
+            {
+                "Sub menu NME":
+                {
+                   "name": "Sub menu NME"
+                },
+                "Configurador de NME":
+                {
+                   "name": "Configurador de NME"
+                },
+                "Configurador de Citas NME":
+                {
+                   "name": "Configurador de Citas NME"
+                },
+                "Configurador de NME por Site":
+                {
+                   "name": "Configurador de NME por Site"
+                },
+                "Emission.config":
+                {
+                   "name": "Emission.config"
+                },
+                "BackgroundColor": "#afa",
+            },
+            "Citas2": 
+            {
+                "name": "Configurador de citas",
+                "BackgroundColor": "#02F",
+            },
+            "RHI": 
+            {
+                "name": "Configurador de horario procesamiento historico",
+                "BackgroundColor": "#02F",
+            },
+            "Encuesta": 
+            {
+                "name": "Configurador de Encuesta",
+                "BackgroundColor": "#02F",
+            },
+            "ConfTimeSesionConsole": 
+            {
+                "name": "Configurador de tiempo de sesion",
+                "BackgroundColor": "#02F",
+            },
+            "Nodo.xml": 
+            {
+                "name": "Nodo.xml",
+                "BackgroundColor": "#02F",
+            },
+            "Automatizador": 
+            {
+                "name": "Automatizador",
+                "BackgroundColor": "#02F",
+            },
+            "Reporteria": 
+            {
+                "name": "Reporteria",
+                "BackgroundColor": "#02F",
+            },
+            "Reporteria e-Flow": 
+            {
+                "name": "Reporteria e-Flow",
+                "BackgroundColor": "#02F",
+            },
+            "Reporteria Citas": 
+            {
+                "name": "Reporteria Citas",
+                "BackgroundColor": "#02F",
+            },
+            "Reporte Virtual Queue": 
+            {
+                "name": "Reporte Virtual Queue",
+                "BackgroundColor": "#02F",
+            },
+            "Reporte Citas: Configuraciones basicas": 
+            {
+                "name": "Reporte Citas: Configuraciones basicas",
+                "BackgroundColor": "#02F",
+            },
+            "Reporte Citas: MSMQ": 
+            {
+                "name": "Reporte Citas: MSMQ",
+                "BackgroundColor": "#02F",
+            },
+            "Reporte Citas: More Config": 
+            {
+                "name": "Reporte Citas: More Config",
+                "BackgroundColor": "#02F",
+            },
+            "Reporte Encuesta": 
+            {
+                "name": "Reporte Encuesta",
+                "BackgroundColor": "#02F",
+            },
+            "Reporte Encuesta: Configuraciones basicas": 
+            {
+                "name": "Reporte Encuesta: Configuraciones basicas",
+                "BackgroundColor": "#02F",
+            },
+            "Reporte Virtual Queue2": 
+            {
+                "name": "Reporte Virtual Queue",
+                "BackgroundColor": "#02F",
+            },
+            "Instalador DLL": 
+            {
+                "name": "Instalador DLL",
+                "BackgroundColor": "#02F",
+            },
+            "Internet option": 
+            {
+                "name": "Internet option",
+                "BackgroundColor": "#02F",
+            },
+            "Ticket Printing service": 
+            {
+                "name": "Ticket Printing service",
+                "BackgroundColor": "#02F",
+            },
+            "Autoplaylist": 
+            {
+                "name": "Autoplaylist",
+                "BackgroundColor": "#02F",
+            },
+            "Ajustar resolucion": 
+            {
+                "name": "Ajustar resolucion",
+                "BackgroundColor": "#02F",
+            },
+            "AutoLogon": 
+            {
+                "name": "AutoLogon",
+                "BackgroundColor": "#02F",
+            },
+            "nameMenuResolution": 
+            {
+                "name": "Script de inicio",
+                "BackgroundColor": "#02F",
+            },
+            "Modiificador de puertos Citas": 
+            {
+                "name": "Modiificador de puertos",
+                "BackgroundColor": "#02F",
+            },
+            "Diagnosticador de MSMQ": 
+            {
+                "name": "Diagnosticador de MSMQ",
+                "BackgroundColor": "#02F",
+            },
+            "unblock Folder": 
+            {
+                "name": "unblock Folder",
+                "BackgroundColor": "#02F",
+            },
+            "TNC": 
+            {
+                "name": "TNC",
+                "BackgroundColor": "#02F",
+            },
+            "Diagnosticador Dinamico": 
+            {
+                "name": "Diagnosticador Dinamico",
+                "BackgroundColor": "#02F",
+            },
+            "Configuration": 
+            {
+                "Configuracion de los colores principales":
+                {
+                   "name": "Configuracion de los colores principales"
+                },
+                "Configuracion de los colores secundario":
+                {
+                   "name": "Configuracion de los colores secundario"
+                },
+                "BackgroundColor": "#02F",
+            },
+        },
+
+        "Menu Principal": 
+        {
+            "name": "Menu Principal",
+            "BackgroundColor": "#00F",
+            "font":"Helvetica",
+            "width": "425",
+            "height": "350",
+        },
+        "Menu e-Flow": 
+        {
+            "name": "Menu e-Flow",
+            "BackgroundColor": "#00F",
+            "font": "Helvfont",
+            "width": "425",
+            "height": "350",
+        },
+        "Menu Client": 
+        {
+            "name": "Menu Client",
+            "BackgroundColor": "#F00",
+            "font": "Helvfont",
+            "width": "425",
+            "height": "350",
+        },
+        "Menu Citas": 
+        {
+            "name": "Menu Citas",
+            "BackgroundColor": "#F00",
+            "font": "Helvfont",
+            "width": "425",
+            "height": "350",
+        },
+        "Menu Encuestas": 
+        {
+            "name": "Menu Encuesta" ,
+            "BackgroundColor": "#F00",
+            "font": "Helvfont",
+            "width": "425",
+            "height": "350",
+        },
+        "Menu Reportes": 
+        {
+            "name": "Menu Reportes" ,
+            "BackgroundColor": "#0f0",
+            "font": "Helvfont",
+            "width": "425",
+            "height": "350",
+        },
+        "Menu Automatizacion": 
+        {
+            "name": "Menu Automatico",
+            "BackgroundColor": "#AAF",
+            "font": "Helvfont",
+            "width": "425",
+            "height": "350",
+        },
+        "Menu Diagnostico": 
+        {
+            "name": "Menu Diagnostico",
+            "BackgroundColor": "#AAF",
+            "font": "Helvfont",
+            "width": "425",
+            "height": "350",
+        },
+        "Menu Api": 
+        {
+            
+            "name": "Menu Api",
+            "BackgroundColor": "#AAF",
+            "font": "Helvfont",
+            "width": "425",
+            "height": "350",
+
+            "Configurador Api": 
+            {
+                "name": "Configurador Api",
+                "BackgroundColor": "#02F",
+            },
+            "apiSucursales": 
+            {
+                "name": "Sucursales",
+                "BackgroundColor": "#02F",
+            },
+        },
+        "Menu Suite": 
+        {
+            "name": "Menu Suite",
+            "BackgroundColor": "#AAF",
+            "font": "Helvfont",
+            "width": "425",
+            "height": "350",
+
+            "Configurador Suite": 
+            {
+                "name": "Configurador Suite",
+                "BackgroundColor": "#02F",
+            },
+            "Configurador BBDD": 
+            {
+                "name": "Configurador BBDD",
+                "BackgroundColor": "#02F",
+            },
+            "Configurador Im-Citas": 
+            {
+                "name": "Configurador Im-Citas",
+                "BackgroundColor": "#02F",
+            },
+            
+        },
+    }
+}

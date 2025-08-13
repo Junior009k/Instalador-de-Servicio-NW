@@ -1,0 +1,127 @@
+INFO:root: 2024-11-09 16:17:27.079737: Inicializacion de la Aplicacion
+INFO:root: 2024-11-09 16:17:27.516074: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-09 16:17:27.516074: assert\QRes.exe /l
+INFO:root: 2024-11-09 16:17:27.561399: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-09 16:17:27.562400: assert\QRes.exe /l
+INFO:root: 2024-11-09 16:20:09.695906: Inicializacion de la Aplicacion
+INFO:root: 2024-11-09 16:20:09.910828: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-09 16:20:09.910828: assert\QRes.exe /l
+INFO:root: 2024-11-09 16:20:09.951806: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-09 16:20:09.951806: assert\QRes.exe /l
+INFO:root: 2024-11-09 16:20:43.733401: Se comienza a diagnosticar el MailServer
+INFO:root: 2024-11-09 16:20:46.888469: Se comienza a Diagnosticar el mail server
+INFO:root: 2024-11-09 16:20:46.888469: Inicializacion del tnc
+INFO:root: 2024-11-09 16:20:46.888469:empezando la consulta en poweshell
+INFO:root: 2024-11-09 16:20:46.888469:powershell tnc localhost -port 80
+INFO:root: 2024-11-09 16:20:58.000306: powershell tnc localhost -port 80
+INFO:root: 2024-11-09 16:20:58.000306: 
+
+ComputerName     : localhost
+RemoteAddress    : ::1
+RemotePort       : 80
+InterfaceAlias   : Loopback Pseudo-Interface 1
+SourceAddress    : ::1
+TcpTestSucceeded : True
+
+
+
+
+INFO:root: 2024-11-09 16:20:58.000306: Finalizacion del tnc
+INFO:root: 2024-11-09 16:20:58.005347:empezando la consulta en poweshell
+INFO:root: 2024-11-09 16:20:58.005347:
+                       $SMTPServer = "localhost"
+                       $SMTPPort =80
+                       $Username = "s"
+                       $Password = "d"
+                       $From = "s"
+                       $To = "f"
+                       $Subject = "Correo enviado desde el instalador de servicio"
+                       $Body = "Configuracion de correo exitosa"
+
+                       # Crear las credenciales
+                       $SecurePassword = ConvertTo-SecureString $Password -AsPlainText -Force
+                       $Credential = New-Object System.Management.Automation.PSCredential($Username, $SecurePassword)
+
+                       # Enviar el correo
+                       Send-MailMessage -SmtpServer $SMTPServer -Port $SMTPPort -Credential $Credential -From $From -To $To -Subject $Subject -Body $Body -UseSsl
+                       
+                       
+ERROR:root: 2024-11-09 16:21:00.992627:error al realizar la consulta en powershell Send-MailMessage : La cadena especificada no tiene la forma obligatoria para una direcci¢n de correo electr¢nico.
+En l¡nea: 17 Car cter: 24
++ ...             Send-MailMessage -SmtpServer $SMTPServer -Port $SMTPPort  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidType: (s:String) [Send-MailMessage], FormatException
+    + FullyQualifiedErrorId : FormatException,Microsoft.PowerShell.Commands.SendMailMessage
+ 
+
+INFO:root: 2024-11-09 16:21:14.617635: Se comienza a diagnosticar el MailServer
+INFO:root: 2024-11-09 16:21:21.299623: Se comienza a Diagnosticar el mail server
+INFO:root: 2024-11-09 16:21:21.300619: Inicializacion del tnc
+INFO:root: 2024-11-09 16:21:21.300619:empezando la consulta en poweshell
+INFO:root: 2024-11-09 16:21:21.300619:powershell tnc localhost -port 805
+INFO:root: 2024-11-09 16:21:34.979589: powershell tnc localhost -port 805
+INFO:root: 2024-11-09 16:21:34.979589: ADVERTENCIA: TCP connect to (::1 : 805) failed
+ADVERTENCIA: TCP connect to (127.0.0.1 : 805) failed
+
+
+ComputerName           : localhost
+RemoteAddress          : ::1
+RemotePort             : 805
+InterfaceAlias         : Loopback Pseudo-Interface 1
+SourceAddress          : ::1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 0 ms
+TcpTestSucceeded       : False
+
+
+
+
+INFO:root: 2024-11-09 16:21:34.979589: Finalizacion del tnc
+INFO:root: 2024-11-09 16:21:34.982598:empezando la consulta en poweshell
+INFO:root: 2024-11-09 16:21:34.982598:
+                       $SMTPServer = "localhost"
+                       $SMTPPort =805
+                       $Username = "s"
+                       $Password = "d"
+                       $From = "s"
+                       $To = "5"
+                       $Subject = "Correo enviado desde el instalador de servicio"
+                       $Body = "Configuracion de correo exitosa"
+
+                       # Crear las credenciales
+                       $SecurePassword = ConvertTo-SecureString $Password -AsPlainText -Force
+                       $Credential = New-Object System.Management.Automation.PSCredential($Username, $SecurePassword)
+
+                       # Enviar el correo
+                       Send-MailMessage -SmtpServer $SMTPServer -Port $SMTPPort -Credential $Credential -From $From -To $To -Subject $Subject -Body $Body -UseSsl
+                       
+                       
+ERROR:root: 2024-11-09 16:21:37.845167:error al realizar la consulta en powershell Send-MailMessage : La cadena especificada no tiene la forma obligatoria para una direcci¢n de correo electr¢nico.
+En l¡nea: 17 Car cter: 24
++ ...             Send-MailMessage -SmtpServer $SMTPServer -Port $SMTPPort  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidType: (s:String) [Send-MailMessage], FormatException
+    + FullyQualifiedErrorId : FormatException,Microsoft.PowerShell.Commands.SendMailMessage
+ 
+
+INFO:root: 2024-11-09 16:26:55.774160: Inicializacion de la Aplicacion
+INFO:root: 2024-11-09 16:26:55.971974: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-09 16:26:55.971974: assert\QRes.exe /l
+INFO:root: 2024-11-09 16:26:56.019071: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-09 16:26:56.019071: assert\QRes.exe /l
+INFO:root: 2024-11-09 16:34:17.853636: Inicializacion de la Aplicacion
+INFO:root: 2024-11-09 16:34:18.080921: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-09 16:34:18.080921: assert\QRes.exe /l
+INFO:root: 2024-11-09 16:34:18.129545: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-09 16:34:18.130068: assert\QRes.exe /l
+INFO:root: 2024-11-09 16:42:03.343831: Inicializacion de la Aplicacion
+INFO:root: 2024-11-09 16:42:03.538175: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-09 16:42:03.539178: assert\QRes.exe /l
+INFO:root: 2024-11-09 16:42:03.577882: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-09 16:42:03.577882: assert\QRes.exe /l
+INFO:root: 2024-11-09 16:43:33.156434: Inicializacion de la Aplicacion
+INFO:root: 2024-11-09 16:43:33.386829: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-09 16:43:33.387353: assert\QRes.exe /l
+INFO:root: 2024-11-09 16:43:33.435598: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-09 16:43:33.435598: assert\QRes.exe /l
+INFO:root: 2024-11-09 16:43:37.571063: Se empezo el request

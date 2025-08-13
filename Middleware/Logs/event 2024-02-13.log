@@ -1,0 +1,28 @@
+INFO:root: 2024-02-13 11:19:57.117100: Inicializacion de la Aplicacion
+INFO:root: 2024-02-13 11:19:58.004253: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-13 11:19:58.005251: assert\QRes.exe /l
+INFO:root: 2024-02-13 11:19:58.468094: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-13 11:19:58.468094: assert\QRes.exe /l
+INFO:root: 2024-02-13 11:20:43.802660: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2024-02-13 11:20:43.802660: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-13 11:20:43.802660:valor x:640 y:400
+INFO:root: 2024-02-13 11:20:45.435449: assert\QRes.exe /x 640 /y 400
+INFO:root: 2024-02-13 11:20:45.435955: QRes v1.1
+Copyright (C) Anders Kjersem.
+
+Mode Ok...
+
+INFO:root: 2024-02-13 11:20:54.637777: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2024-02-13 11:20:54.637777: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-13 11:20:54.637777:valor x:1366 y:768
+INFO:root: 2024-02-13 11:20:56.068783: assert\QRes.exe /x 1366 /y 768
+INFO:root: 2024-02-13 11:20:56.068783: QRes v1.1
+Copyright (C) Anders Kjersem.
+
+Mode Ok...
+
+INFO:root: 2024-02-13 12:02:29.230615: Inicializacion de la Aplicacion
+INFO:root: 2024-02-13 12:02:29.652725: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-13 12:02:29.652725: assert\QRes.exe /l
+INFO:root: 2024-02-13 12:02:29.847242: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-13 12:02:29.847242: assert\QRes.exe /l

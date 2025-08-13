@@ -1,0 +1,5 @@
+INFO:root: 2024-10-24 09:10:35.260080: Inicializacion de la Aplicacion
+INFO:root: 2024-10-24 09:10:35.988511: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-24 09:10:35.988511: assert\QRes.exe /l
+INFO:root: 2024-10-24 09:10:36.022632: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-24 09:10:36.022632: assert\QRes.exe /l

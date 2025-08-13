@@ -1,0 +1,7 @@
+INFO:root: 2024-03-29 13:16:42.045055: Inicializacion de la Aplicacion
+INFO:root: 2024-03-29 13:16:42.359923: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-29 13:16:42.359923: assert\QRes.exe /l
+INFO:root: 2024-03-29 13:16:42.377977: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-29 13:16:42.377977: assert\QRes.exe /l
+INFO:root: 2024-03-29 13:16:54.206388: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-03-29 13:17:14.315256: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys

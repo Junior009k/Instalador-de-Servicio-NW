@@ -1,0 +1,33 @@
+INFO:root: 2024-02-27 16:19:01.619979: Inicializacion de la Aplicacion
+INFO:root: 2024-02-27 16:19:01.869758: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-27 16:19:01.869758: assert\QRes.exe /l
+INFO:root: 2024-02-27 16:19:01.934348: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-27 16:19:01.934348: assert\QRes.exe /l
+INFO:root: 2024-02-27 16:24:08.809873: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-02-27 16:24:12.679931: Se selecciono el directorio 
+INFO:root: 2024-02-27 16:30:42.856394: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2024-02-27 16:30:42.856995: Inicializacion del configurador de Internet Option
+INFO:root: 2024-02-27 16:30:42.856995: powershell  New-Item -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\prueba manual' -Name "https" -Value 2 -Type DWORD -Force 
+INFO:root: 2024-02-27 16:30:44.566722: powershell Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\prueba manual' -Name "https" -Value 2 -Type DWORD -Force
+INFO:root: 2024-02-27 16:30:45.770631: powershell  New-Item -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\prueba manual' -Name "http" -Value 2 -Type DWORD -Force 
+INFO:root: 2024-02-27 16:30:47.426839:powershell Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\prueba manual' -Name "http" -Value 2 -Type DWORD -Force
+INFO:root: 2024-02-27 16:30:48.623357: powershell Set-ItemProperty -Path '"HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2"' -Name 1201 -Value 0
+INFO:root: 2024-02-27 16:30:49.763617: Finalizacion del configurador de Internet Option
+INFO:root: 2024-02-27 16:32:38.001207: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2024-02-27 16:32:38.001207:empezando la consulta en poweshell
+INFO:root: 2024-02-27 16:32:38.001207:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2024-02-27 16:37:35.900475: Inicializacion de la Aplicacion
+INFO:root: 2024-02-27 16:37:36.004401: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-27 16:37:36.005407: assert\QRes.exe /l
+INFO:root: 2024-02-27 16:37:36.050648: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-27 16:37:36.050648: assert\QRes.exe /l
+INFO:root: 2024-02-27 16:37:42.498840: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2024-02-27 16:37:42.499373:empezando la consulta en poweshell
+INFO:root: 2024-02-27 16:37:42.499430:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2024-02-27 16:38:16.194672: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2024-02-27 16:38:16.195181: Inicializacion del configurador de autoplaylist
+INFO:root: 2024-02-27 16:38:16.195253: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2024-02-27 16:38:17.167955: powershell 'REG ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\AutoplayAllowlist\ '	/v	"1"	/t	REG_SZ	/d	192.168.104.92	/f
+INFO:root: 2024-02-27 16:38:18.086208: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge'	/v	AutoplayAllowed /t REG_DWORD /d 1 /f
+INFO:root: 2024-02-27 16:38:18.979727: powershell 'REG	ADD HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	192.168.104.92	/f
+INFO:root: 2024-02-27 16:38:19.857946: Finalizacion del configurador de autoplaylist

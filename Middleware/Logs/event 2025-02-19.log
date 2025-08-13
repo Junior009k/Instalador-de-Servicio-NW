@@ -1,0 +1,62 @@
+INFO:root: 2025-02-19 09:38:35.856436: Inicializacion de la Aplicacion
+INFO:root: 2025-02-19 09:38:36.222698: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-02-19 09:38:36.222698: assert\QRes.exe /l
+INFO:root: 2025-02-19 09:38:36.270903: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-02-19 09:38:36.270903: assert\QRes.exe /l
+INFO:root: 2025-02-19 09:39:45.262718: Inicializacion de la Aplicacion
+INFO:root: 2025-02-19 09:39:45.447945: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-02-19 09:39:45.447945: assert\QRes.exe /l
+INFO:root: 2025-02-19 09:39:45.484246: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-02-19 09:39:45.485250: assert\QRes.exe /l
+INFO:root: 2025-02-19 09:39:49.756654: Se comienza a realizar la request a Virtual Queue
+ERROR:root: 2025-02-19 09:39:49.757680: No se puede modificar Virtual Queue sin especificar el nombre de la url
+ERROR:root: 2025-02-19 09:39:51.240576: No se puede modificar Virtual Queue sin especificar el nombre del usuario
+ERROR:root: 2025-02-19 09:39:52.340689: No se puede modificar Virtual Queue sin especificar el nombre de la contraseña
+ERROR:root: 2025-02-19 09:39:53.024473: No se puede modificar Virtual Queue sin especificar el nombre del tipo de documento
+ERROR:root: 2025-02-19 09:39:53.717556: No se puede modificar Virtual Queue sin especificar el nombre del numero de documento
+INFO:root: 2025-02-19 09:40:02.447920: Se comienza a realizar la request a Virtual Queue
+INFO:root: 2025-02-19 09:40:02.447920: Se comienza a realizar el request
+INFO:root: 2025-02-19 09:40:02.447920: Data> {'username': '1', 'password': '1', 'docType': 'Pasaporte', 'docNumber': '1', 'client_Id': 'mobileclient.virtualqueue', 'client_Secret': '1a4805ac784c56662cd4aad56f0b21024215de18f2da5c01918dead7ce4f1115', 'callbackToken': '123456789qwerty'}
+INFO:root: 2025-02-19 09:40:45.918002: Se comienza a realizar la request a Virtual Queue
+INFO:root: 2025-02-19 09:40:45.918002: Se comienza a realizar el request
+INFO:root: 2025-02-19 09:40:45.918002: Data> {'username': '1', 'password': '1', 'docType': 'Pasaporte', 'docNumber': '1', 'client_Id': 'mobileclient.virtualqueue', 'client_Secret': '1a4805ac784c56662cd4aad56f0b21024215de18f2da5c01918dead7ce4f1115', 'callbackToken': '123456789qwerty'}
+INFO:root: 2025-02-19 09:41:47.465080: Inicializacion de la Aplicacion
+INFO:root: 2025-02-19 09:41:47.677688: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-02-19 09:41:47.681237: assert\QRes.exe /l
+INFO:root: 2025-02-19 09:41:47.713369: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-02-19 09:41:47.715185: assert\QRes.exe /l
+INFO:root: 2025-02-19 09:41:59.119166: Se comienza a realizar la request a Virtual Queue
+ERROR:root: 2025-02-19 09:41:59.119166: No se puede modificar Virtual Queue sin especificar el nombre del usuario
+INFO:root: 2025-02-19 09:42:04.139024: Se comienza a realizar la request a Virtual Queue
+INFO:root: 2025-02-19 09:42:04.139024: Se comienza a realizar el request
+INFO:root: 2025-02-19 09:42:04.139024: Data> {'username': 'f', 'password': 'f', 'docType': 'Pasaporte', 'docNumber': 'f', 'client_Id': 'mobileclient.virtualqueue', 'client_Secret': '1a4805ac784c56662cd4aad56f0b21024215de18f2da5c01918dead7ce4f1115', 'callbackToken': '123456789qwerty'}
+INFO:root: 2025-02-19 09:45:30.850425: Inicializacion de la Aplicacion
+INFO:root: 2025-02-19 09:45:31.062188: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-02-19 09:45:31.062188: assert\QRes.exe /l
+INFO:root: 2025-02-19 09:45:31.088397: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-02-19 09:45:31.088397: assert\QRes.exe /l
+INFO:root: 2025-02-19 09:45:36.454439: Se comienza a realizar la request a Virtual Queue
+ERROR:root: 2025-02-19 09:45:36.454439: No se puede modificar Virtual Queue sin especificar el nombre de la url
+ERROR:root: 2025-02-19 09:45:38.153761: No se puede modificar Virtual Queue sin especificar el nombre del usuario
+ERROR:root: 2025-02-19 09:45:38.689549: No se puede modificar Virtual Queue sin especificar el nombre de la contraseña
+ERROR:root: 2025-02-19 09:45:38.936984: No se puede modificar Virtual Queue sin especificar el nombre del tipo de documento
+ERROR:root: 2025-02-19 09:45:39.180453: No se puede modificar Virtual Queue sin especificar el nombre del numero de documento
+INFO:root: 2025-02-19 09:45:46.651307: Se comienza a realizar la request a Virtual Queue
+INFO:root: 2025-02-19 09:45:46.651307: Se comienza a realizar el request
+INFO:root: 2025-02-19 09:45:46.651307: Data> {'username': '1', 'password': '1', 'docType': 'Pasaporte', 'docNumber': '1', 'client_Id': 'mobileclient.virtualqueue', 'client_Secret': '1a4805ac784c56662cd4aad56f0b21024215de18f2da5c01918dead7ce4f1115', 'callbackToken': '123456789qwerty'}
+INFO:root: 2025-02-19 10:18:02.045714: Inicializacion de la Aplicacion
+INFO:root: 2025-02-19 10:18:02.241043: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-02-19 10:18:02.241043: assert\QRes.exe /l
+INFO:root: 2025-02-19 10:18:02.266095: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-02-19 10:18:02.266095: assert\QRes.exe /l
+INFO:root: 2025-02-19 10:18:27.904327: Se comienza a realizar la request a Virtual Queue
+INFO:root: 2025-02-19 10:18:27.904327: Se comienza a realizar el request
+INFO:root: 2025-02-19 10:18:27.904327: Data> {'username': '1', 'password': '1', 'docType': 'Pasaporte', 'docNumber': '1', 'client_Id': 'mobileclient.virtualqueue', 'client_Secret': '1a4805ac784c56662cd4aad56f0b21024215de18f2da5c01918dead7ce4f1115', 'callbackToken': '123456789qwerty'}
+INFO:root: 2025-02-19 13:42:10.053681: Inicializacion de la Aplicacion
+INFO:root: 2025-02-19 13:42:10.239583: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-02-19 13:42:10.239583: assert\QRes.exe /l
+INFO:root: 2025-02-19 13:42:10.265650: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-02-19 13:42:10.265650: assert\QRes.exe /l
+INFO:root: 2025-02-19 13:42:22.411222: Se comienza a realizar la request a Virtual Queue
+INFO:root: 2025-02-19 13:42:22.411222: Se comienza a realizar el request
+INFO:root: 2025-02-19 13:42:22.411222: Data> {'username': '1', 'password': '1', 'docType': 'RNC', 'docNumber': '1', 'client_Id': 'mobileclient.virtualqueue', 'client_Secret': '1a4805ac784c56662cd4aad56f0b21024215de18f2da5c01918dead7ce4f1115', 'callbackToken': '123456789qwerty'}

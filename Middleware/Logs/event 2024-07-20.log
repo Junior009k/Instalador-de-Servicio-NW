@@ -1,0 +1,779 @@
+INFO:root: 2024-07-20 18:07:59.289951: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:08:00.003421: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:08:00.003421: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:08:00.039812: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:08:00.039812: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:08:09.233373: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-20 18:08:11.565151: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.200/Codigo Fuente
+INFO:root: 2024-07-20 18:08:12.291339: Se comienza a automatizar el aplicativo
+INFO:root: 2024-07-20 18:08:12.292381: La carpeta Middleware  existe
+INFO:root: 2024-07-20 18:08:12.292381: La carpeta FrontEnd  existe
+INFO:root: 2024-07-20 18:08:12.292381: Paso todas las pruebas, comenzando proceso automatizacion 
+INFO:root: 2024-07-20 18:08:12.293376: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:08:12.293376: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:08:12.302156: create "e-Flow adsf Middleware Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWare\STE\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+INFO:root: 2024-07-20 18:08:12.302156: <os._wrap_close object at 0x00000261EB50AC50>
+INFO:root: 2024-07-20 18:08:12.606962: El servicio e-Flow adsf Middleware Service se ha instalado exitosamente
+INFO:root: 2024-07-20 18:08:12.606962: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:08:12.606962: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:08:12.606962: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:08:12.621245: create "e-Flow adsf MiddlewareNode Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWareNode\STE\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+INFO:root: 2024-07-20 18:08:12.621245: <os._wrap_close object at 0x00000261E9C79890>
+ERROR:root: 2024-07-20 18:08:12.621746: El servicio e-Flow adsf MiddlewareNode Service no se ha instalado 
+ERROR:root: 2024-07-20 18:08:12.621746: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:08:12.621746: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:08:12.621746: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:08:12.633630: create "e-Flow adsf Citas Middleware Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWare\Appointment\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+INFO:root: 2024-07-20 18:08:12.633630: <os._wrap_close object at 0x00000261E2259990>
+ERROR:root: 2024-07-20 18:08:12.637460: El servicio e-Flow adsf Citas Middleware Service no se ha instalado 
+ERROR:root: 2024-07-20 18:08:12.637974: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:08:12.637974: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:08:12.637974: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:08:12.694109: create "e-Flow adsf Encuesta Middleware Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWare\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+INFO:root: 2024-07-20 18:08:12.694109: <os._wrap_close object at 0x00000261E9C79890>
+ERROR:root: 2024-07-20 18:08:12.696620: El servicio e-Flow adsf Encuesta Middleware Service no se ha instalado 
+ERROR:root: 2024-07-20 18:08:12.697636: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:08:12.697636: Inicializacion De la creacion de la aplicacion adsf-STE 
+INFO:root: 2024-07-20 18:08:12.697636:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:08:12.697636: New-Item 'IIS:\Sites\Default Web Site\adsf-STE' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\STE' -type Application 
+INFO:root: 2024-07-20 18:08:14.806676: 
+Name             Application pool   Protocols    Physical Path                                                                                                              
+----             ----------------   ---------    -------------                                                                                                              
+adsf-STE         DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\STE                  
+
+
+ 
+ERROR:root: 2024-07-20 18:08:14.811215: La carpeta adsf-STE no existe
+ERROR:root: 2024-07-20 18:08:14.811215: Error al crear la aplicacion adsf-STE, valide que sea administrador
+INFO:root: 2024-07-20 18:08:14.811215: Inicializacion De la creacion de la aplicacion adsf-Appointment 
+INFO:root: 2024-07-20 18:08:14.811215:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:08:14.811215: New-Item 'IIS:\Sites\Default Web Site\adsf-Appointment' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\Appointment' -type Application 
+INFO:root: 2024-07-20 18:08:16.367511: 
+Name             Application pool   Protocols    Physical Path                                                                                                              
+----             ----------------   ---------    -------------                                                                                                              
+adsf-Appointment DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\Appointment          
+
+
+ 
+ERROR:root: 2024-07-20 18:08:16.367511: La carpeta adsf-Appointment no existe
+ERROR:root: 2024-07-20 18:08:16.367511: Error al crear la aplicacion adsf-Appointment, valide que sea administrador
+INFO:root: 2024-07-20 18:08:16.367511: Inicializacion De la creacion de la aplicacion adsf-AppointmentWeb 
+INFO:root: 2024-07-20 18:08:16.367511:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:08:16.367511: New-Item 'IIS:\Sites\Default Web Site\adsf-AppointmentWeb' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWeb' -type Application 
+INFO:root: 2024-07-20 18:08:18.207508: 
+Name             Application pool   Protocols    Physical Path                                                                                                              
+----             ----------------   ---------    -------------                                                                                                              
+adsf-Appointment DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWeb       
+Web                                                                                                                                                                         
+
+
+ 
+ERROR:root: 2024-07-20 18:08:18.212519: La carpeta adsf-AppointmentWeb no existe
+ERROR:root: 2024-07-20 18:08:18.212519: Error al crear la aplicacion adsf-AppointmentWeb, valide que sea administrador
+INFO:root: 2024-07-20 18:08:18.212519: Inicializacion De la creacion de la aplicacion adsf-AppointmentWebService 
+INFO:root: 2024-07-20 18:08:18.212519:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:08:18.212519: New-Item 'IIS:\Sites\Default Web Site\adsf-AppointmentWebService' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWebService' -type Application 
+INFO:root: 2024-07-20 18:08:21.702377: 
+Name             Application pool   Protocols    Physical Path                                                                                                              
+----             ----------------   ---------    -------------                                                                                                              
+adsf-Appointment DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWebService
+WebService                                                                                                                                                                  
+
+
+ 
+ERROR:root: 2024-07-20 18:08:21.702377: La carpeta adsf-AppointmentWebService no existe
+ERROR:root: 2024-07-20 18:08:21.702377: Error al crear la aplicacion adsf-AppointmentWebService, valide que sea administrador
+INFO:root: 2024-07-20 18:08:21.702377: Inicializacion De la creacion de la aplicacion adsf-OpinionPoll 
+INFO:root: 2024-07-20 18:08:21.702377:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:08:21.702377: New-Item 'IIS:\Sites\Default Web Site\adsf-OpinionPoll' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\OpinionPoll' -type Application 
+INFO:root: 2024-07-20 18:08:23.575796: 
+Name             Application pool   Protocols    Physical Path                                                                                                              
+----             ----------------   ---------    -------------                                                                                                              
+adsf-OpinionPoll DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\OpinionPoll          
+
+
+ 
+ERROR:root: 2024-07-20 18:08:23.578306: La carpeta adsf-OpinionPoll no existe
+ERROR:root: 2024-07-20 18:08:23.578306: Error al crear la aplicacion adsf-OpinionPoll, valide que sea administrador
+INFO:root: 2024-07-20 18:08:23.578306: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:08:23.578306: Comenzando a modificar el udl de STE
+INFO:root: 2024-07-20 18:13:17.844114: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:13:17.954762: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:13:17.954762: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:13:17.974878: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:13:17.974878: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:13:24.195896: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-20 18:13:26.033080: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.200/Codigo Fuente
+INFO:root: 2024-07-20 18:13:26.596328: Se comienza a automatizar el aplicativo
+INFO:root: 2024-07-20 18:13:26.597339: La carpeta Middleware  existe
+INFO:root: 2024-07-20 18:13:26.597339: La carpeta FrontEnd  existe
+INFO:root: 2024-07-20 18:13:26.597339: Paso todas las pruebas, comenzando proceso automatizacion 
+INFO:root: 2024-07-20 18:13:26.598339: Inicializacion De la creacion de la aplicacion afds-STE 
+INFO:root: 2024-07-20 18:13:26.598339:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:13:26.598339: New-Item 'IIS:\Sites\Default Web Site\afds-STE' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\STE' -type Application 
+INFO:root: 2024-07-20 18:13:28.307035: 
+Name             Application pool   Protocols    Physical Path                                                                                                              
+----             ----------------   ---------    -------------                                                                                                              
+afds-STE         DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\STE                  
+
+
+ 
+ERROR:root: 2024-07-20 18:13:28.307035: La carpeta afds-STE no existe
+ERROR:root: 2024-07-20 18:13:28.307035: Error al crear la aplicacion afds-STE, valide que sea administrador
+INFO:root: 2024-07-20 18:13:28.307035: Inicializacion De la creacion de la aplicacion afds-Appointment 
+INFO:root: 2024-07-20 18:13:28.307035:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:13:28.307035: New-Item 'IIS:\Sites\Default Web Site\afds-Appointment' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\Appointment' -type Application 
+INFO:root: 2024-07-20 18:13:29.781487: 
+Name             Application pool   Protocols    Physical Path                                                                                                              
+----             ----------------   ---------    -------------                                                                                                              
+afds-Appointment DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\Appointment          
+
+
+ 
+ERROR:root: 2024-07-20 18:13:29.781487: La carpeta afds-Appointment no existe
+ERROR:root: 2024-07-20 18:13:29.781487: Error al crear la aplicacion afds-Appointment, valide que sea administrador
+INFO:root: 2024-07-20 18:13:29.781487: Inicializacion De la creacion de la aplicacion afds-AppointmentWeb 
+INFO:root: 2024-07-20 18:13:29.781487:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:13:29.781487: New-Item 'IIS:\Sites\Default Web Site\afds-AppointmentWeb' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWeb' -type Application 
+INFO:root: 2024-07-20 18:13:31.235199: 
+Name             Application pool   Protocols    Physical Path                                                                                                              
+----             ----------------   ---------    -------------                                                                                                              
+afds-Appointment DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWeb       
+Web                                                                                                                                                                         
+
+
+ 
+ERROR:root: 2024-07-20 18:13:31.235199: La carpeta afds-AppointmentWeb no existe
+ERROR:root: 2024-07-20 18:13:31.235199: Error al crear la aplicacion afds-AppointmentWeb, valide que sea administrador
+INFO:root: 2024-07-20 18:13:31.240209: Inicializacion De la creacion de la aplicacion afds-AppointmentWebService 
+INFO:root: 2024-07-20 18:13:31.240209:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:13:31.240209: New-Item 'IIS:\Sites\Default Web Site\afds-AppointmentWebService' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWebService' -type Application 
+INFO:root: 2024-07-20 18:13:32.795338: 
+Name             Application pool   Protocols    Physical Path                                                                                                              
+----             ----------------   ---------    -------------                                                                                                              
+afds-Appointment DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWebService
+WebService                                                                                                                                                                  
+
+
+ 
+ERROR:root: 2024-07-20 18:13:32.795338: La carpeta afds-AppointmentWebService no existe
+ERROR:root: 2024-07-20 18:13:32.795338: Error al crear la aplicacion afds-AppointmentWebService, valide que sea administrador
+INFO:root: 2024-07-20 18:13:32.795338: Inicializacion De la creacion de la aplicacion afds-OpinionPoll 
+INFO:root: 2024-07-20 18:13:32.795338:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:13:32.795338: New-Item 'IIS:\Sites\Default Web Site\afds-OpinionPoll' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\OpinionPoll' -type Application 
+INFO:root: 2024-07-20 18:13:34.273927: 
+Name             Application pool   Protocols    Physical Path                                                                                                              
+----             ----------------   ---------    -------------                                                                                                              
+afds-OpinionPoll DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\OpinionPoll          
+
+
+ 
+ERROR:root: 2024-07-20 18:13:34.273927: La carpeta afds-OpinionPoll no existe
+ERROR:root: 2024-07-20 18:13:34.273927: Error al crear la aplicacion afds-OpinionPoll, valide que sea administrador
+INFO:root: 2024-07-20 18:13:34.273927: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:13:34.273927: Comenzando a modificar el udl de STE
+ERROR:root: 2024-07-20 18:13:34.285435: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:13:34.285435: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:13:34.287446: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:13:34.287446: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:13:34.289443: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:13:34.289443: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:13:34.290442: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:13:34.290442: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:13:34.291444: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:13:34.291444: Comenzando a modificar el udl de STE
+ERROR:root: 2024-07-20 18:13:34.292446: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:13:34.292446: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:13:34.294954: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:13:34.294954: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:13:34.296967: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:13:34.296967: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:13:34.298972: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:13:34.298972: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:13:34.298972: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:13:36.581608: Comenzando a modificar el udl de SSP
+ERROR:root: 2024-07-20 18:13:36.584610: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:13:36.584610: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:13:36.585606: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:13:36.585606: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:13:36.586608: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:13:38.582701: Comenzando a modificar el udl de OpinionPoll
+ERROR:root: 2024-07-20 18:13:38.585218: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:13:38.585218: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:13:38.587249: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:13:38.587249: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:14:01.826926: Se comienza a automatizar el aplicativo
+INFO:root: 2024-07-20 18:14:01.828794: La carpeta Middleware  existe
+INFO:root: 2024-07-20 18:14:01.828794: La carpeta FrontEnd  existe
+INFO:root: 2024-07-20 18:14:01.829804: Paso todas las pruebas, comenzando proceso automatizacion 
+INFO:root: 2024-07-20 18:14:01.829804: Inicializacion De la creacion de la aplicacion afds-STE 
+INFO:root: 2024-07-20 18:14:01.829804:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:14:01.829804: New-Item 'IIS:\Sites\Default Web Site\afds-STE' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\STE' -type Application 
+ERROR:root: 2024-07-20 18:14:03.575940:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\afds-STE' -physical ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-07-20 18:14:03.575940:  
+ERROR:root: 2024-07-20 18:14:03.575940: La carpeta afds-STE no existe
+ERROR:root: 2024-07-20 18:14:03.575940: Error al crear la aplicacion afds-STE, valide que sea administrador
+INFO:root: 2024-07-20 18:14:03.575940: Inicializacion De la creacion de la aplicacion afds-Appointment 
+INFO:root: 2024-07-20 18:14:03.575940:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:14:03.575940: New-Item 'IIS:\Sites\Default Web Site\afds-Appointment' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\Appointment' -type Application 
+ERROR:root: 2024-07-20 18:14:05.029644:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\afds-Appointment' - ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-07-20 18:14:05.029644:  
+ERROR:root: 2024-07-20 18:14:05.029644: La carpeta afds-Appointment no existe
+ERROR:root: 2024-07-20 18:14:05.029644: Error al crear la aplicacion afds-Appointment, valide que sea administrador
+INFO:root: 2024-07-20 18:14:05.029644: Inicializacion De la creacion de la aplicacion afds-AppointmentWeb 
+INFO:root: 2024-07-20 18:14:05.029644:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:14:05.029644: New-Item 'IIS:\Sites\Default Web Site\afds-AppointmentWeb' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWeb' -type Application 
+ERROR:root: 2024-07-20 18:14:06.450558:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\afds-AppointmentWeb ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-07-20 18:14:06.450558:  
+ERROR:root: 2024-07-20 18:14:06.450558: La carpeta afds-AppointmentWeb no existe
+ERROR:root: 2024-07-20 18:14:06.450558: Error al crear la aplicacion afds-AppointmentWeb, valide que sea administrador
+INFO:root: 2024-07-20 18:14:06.450558: Inicializacion De la creacion de la aplicacion afds-AppointmentWebService 
+INFO:root: 2024-07-20 18:14:06.450558:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:14:06.450558: New-Item 'IIS:\Sites\Default Web Site\afds-AppointmentWebService' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWebService' -type Application 
+ERROR:root: 2024-07-20 18:14:07.953604:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\afds-AppointmentWeb ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-07-20 18:14:07.953604:  
+ERROR:root: 2024-07-20 18:14:07.953604: La carpeta afds-AppointmentWebService no existe
+ERROR:root: 2024-07-20 18:14:07.953604: Error al crear la aplicacion afds-AppointmentWebService, valide que sea administrador
+INFO:root: 2024-07-20 18:14:07.953604: Inicializacion De la creacion de la aplicacion afds-OpinionPoll 
+INFO:root: 2024-07-20 18:14:07.953604:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:14:07.953604: New-Item 'IIS:\Sites\Default Web Site\afds-OpinionPoll' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\OpinionPoll' -type Application 
+ERROR:root: 2024-07-20 18:14:09.435749:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\afds-OpinionPoll' - ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-07-20 18:14:09.435749:  
+ERROR:root: 2024-07-20 18:14:09.435749: La carpeta afds-OpinionPoll no existe
+ERROR:root: 2024-07-20 18:14:09.435749: Error al crear la aplicacion afds-OpinionPoll, valide que sea administrador
+INFO:root: 2024-07-20 18:14:09.435749: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:14:09.435749: Comenzando a modificar el udl de STE
+ERROR:root: 2024-07-20 18:14:09.437795: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:14:09.437795: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:14:09.440852: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:14:09.440852: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:14:09.440852: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:14:09.440852: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:14:09.443833: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:14:09.443833: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:14:09.443833: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:14:09.443833: Comenzando a modificar el udl de STE
+ERROR:root: 2024-07-20 18:14:09.445884: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:14:09.445884: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:14:09.447844: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:14:09.447844: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:14:09.450855: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:14:09.451371: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:14:09.452390: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:14:09.453426: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:14:09.453426: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:14:20.510896: Comenzando a modificar el udl de SSP
+ERROR:root: 2024-07-20 18:14:20.513410: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:14:20.513410: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:14:20.514945: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:14:20.514945: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:14:20.514945: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:14:21.738065: Comenzando a modificar el udl de OpinionPoll
+ERROR:root: 2024-07-20 18:14:21.740066: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:14:21.740066: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:14:21.742064: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:14:21.742064: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:14:35.811136: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:14:35.945062: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:14:35.945062: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:14:35.971260: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:14:35.971260: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:19:09.118222: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:19:09.245625: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:19:09.246626: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:19:09.268247: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:19:09.268247: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:20:50.566672: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:20:50.685697: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:20:50.685697: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:20:50.710807: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:20:50.710807: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:22:35.238912: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:22:35.355418: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:22:35.355418: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:22:35.378938: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:22:35.378938: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:23:18.090724: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:24:23.094812: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:24:23.228168: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:24:23.228168: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:24:23.251633: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:24:23.251633: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:25:17.143919: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:25:17.266513: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:25:17.266513: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:25:17.285574: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:25:17.285574: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:26:27.401688: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:28:26.101535: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:28:26.226674: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:28:26.227670: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:28:26.249193: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:28:26.249193: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:28:31.430613: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-20 18:28:33.736344: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.200/Codigo Fuente
+INFO:root: 2024-07-20 18:28:35.531646: Se comienza a automatizar el aplicativo
+ERROR:root: 2024-07-20 18:28:35.532711: No se puede modificar el aplicativo sin especificar el nombre el nombre del servidor de base de datos
+ERROR:root: 2024-07-20 18:28:37.249348: No se puede modificar el aplicativo sin especificar el nombre el nombre del servidor de la aplicaciones
+INFO:root: 2024-07-20 18:28:37.832610: La carpeta Middleware  existe
+INFO:root: 2024-07-20 18:28:37.832610: La carpeta FrontEnd  existe
+INFO:root: 2024-07-20 18:28:37.832610: Paso todas las pruebas, comenzando proceso automatizacion 
+INFO:root: 2024-07-20 18:28:37.833609: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:28:37.833609: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:28:37.833609: create "e-Flow sd Middleware Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWare\STE\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+ERROR:root: 2024-07-20 18:28:37.835608: El servicio e-Flow sd Middleware Service no se ha instalado 
+ERROR:root: 2024-07-20 18:28:37.835608: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:28:37.835608: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:28:37.836608: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:28:37.836608: create "e-Flow sd MiddlewareNode Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWareNode\STE\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+ERROR:root: 2024-07-20 18:28:37.838609: El servicio e-Flow sd MiddlewareNode Service no se ha instalado 
+ERROR:root: 2024-07-20 18:28:37.838609: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:28:37.838609: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:28:37.838609: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:28:37.838609: create "e-Flow sd Citas Middleware Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWare\Appointment\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+ERROR:root: 2024-07-20 18:28:37.840623: El servicio e-Flow sd Citas Middleware Service no se ha instalado 
+ERROR:root: 2024-07-20 18:28:37.841611: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:28:37.841611: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:28:37.841611: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:28:37.841611: create "e-Flow sd Encuesta Middleware Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWare\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+ERROR:root: 2024-07-20 18:28:37.844622: El servicio e-Flow sd Encuesta Middleware Service no se ha instalado 
+ERROR:root: 2024-07-20 18:28:37.844622: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:28:37.844622: Inicializacion De la creacion de la aplicacion sd-STE 
+INFO:root: 2024-07-20 18:28:37.844622:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:28:37.844622: New-Item 'IIS:\Sites\Default Web Site\sd-STE' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\STE' -type Application 
+INFO:root: 2024-07-20 18:28:39.634704: 
+Name             Application pool   Protocols    Physical Path                                                                                                                               
+----             ----------------   ---------    -------------                                                                                                                               
+sd-STE           DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\STE                                   
+
+
+ 
+ERROR:root: 2024-07-20 18:28:39.634704: La carpeta sd-STE no existe
+ERROR:root: 2024-07-20 18:28:39.634704: Error al crear la aplicacion sd-STE, valide que sea administrador
+INFO:root: 2024-07-20 18:28:39.634704: Inicializacion De la creacion de la aplicacion sd-Appointment 
+INFO:root: 2024-07-20 18:28:39.634704:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:28:39.634704: New-Item 'IIS:\Sites\Default Web Site\sd-Appointment' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\Appointment' -type Application 
+INFO:root: 2024-07-20 18:28:41.102005: 
+Name             Application pool   Protocols    Physical Path                                                                                                                               
+----             ----------------   ---------    -------------                                                                                                                               
+sd-Appointment   DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\Appointment                           
+
+
+ 
+ERROR:root: 2024-07-20 18:28:41.102005: La carpeta sd-Appointment no existe
+ERROR:root: 2024-07-20 18:28:41.102005: Error al crear la aplicacion sd-Appointment, valide que sea administrador
+INFO:root: 2024-07-20 18:28:41.102005: Inicializacion De la creacion de la aplicacion sd-AppointmentWeb 
+INFO:root: 2024-07-20 18:28:41.102005:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:28:41.102005: New-Item 'IIS:\Sites\Default Web Site\sd-AppointmentWeb' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWeb' -type Application 
+INFO:root: 2024-07-20 18:28:42.654629: 
+Name             Application pool   Protocols    Physical Path                                                                                                                               
+----             ----------------   ---------    -------------                                                                                                                               
+sd-AppointmentWe DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWeb                        
+b                                                                                                                                                                                            
+
+
+ 
+ERROR:root: 2024-07-20 18:28:42.654629: La carpeta sd-AppointmentWeb no existe
+ERROR:root: 2024-07-20 18:28:42.654629: Error al crear la aplicacion sd-AppointmentWeb, valide que sea administrador
+INFO:root: 2024-07-20 18:28:42.654629: Inicializacion De la creacion de la aplicacion sd-AppointmentWebService 
+INFO:root: 2024-07-20 18:28:42.654629:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:28:42.654629: New-Item 'IIS:\Sites\Default Web Site\sd-AppointmentWebService' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWebService' -type Application 
+INFO:root: 2024-07-20 18:28:44.137974: 
+Name             Application pool   Protocols    Physical Path                                                                                                                               
+----             ----------------   ---------    -------------                                                                                                                               
+sd-AppointmentWe DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWebService                 
+bService                                                                                                                                                                                     
+
+
+ 
+ERROR:root: 2024-07-20 18:28:44.137974: La carpeta sd-AppointmentWebService no existe
+ERROR:root: 2024-07-20 18:28:44.137974: Error al crear la aplicacion sd-AppointmentWebService, valide que sea administrador
+INFO:root: 2024-07-20 18:28:44.137974: Inicializacion De la creacion de la aplicacion sd-OpinionPoll 
+INFO:root: 2024-07-20 18:28:44.137974:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:28:44.137974: New-Item 'IIS:\Sites\Default Web Site\sd-OpinionPoll' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\OpinionPoll' -type Application 
+INFO:root: 2024-07-20 18:28:45.587345: 
+Name             Application pool   Protocols    Physical Path                                                                                                                               
+----             ----------------   ---------    -------------                                                                                                                               
+sd-OpinionPoll   DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\OpinionPoll                           
+
+
+ 
+ERROR:root: 2024-07-20 18:28:45.587345: La carpeta sd-OpinionPoll no existe
+ERROR:root: 2024-07-20 18:28:45.587345: Error al crear la aplicacion sd-OpinionPoll, valide que sea administrador
+INFO:root: 2024-07-20 18:28:45.587345: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:28:45.587345: Comenzando a modificar el udl de STE
+ERROR:root: 2024-07-20 18:28:45.603378: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:28:45.603378: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:28:45.605390: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:28:45.605390: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:28:45.607917: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:28:45.607917: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:28:45.609916: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:28:45.609916: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:28:45.610914: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:28:45.610914: Comenzando a modificar el udl de STE
+ERROR:root: 2024-07-20 18:28:45.611913: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:28:45.611913: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:28:45.613952: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:28:45.613952: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:28:45.615916: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:28:45.615916: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:28:45.616914: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:28:45.616914: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:28:45.616914: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:28:47.684565: Comenzando a modificar el udl de SSP
+ERROR:root: 2024-07-20 18:28:47.686572: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:28:47.686572: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:28:47.688572: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:28:47.688572: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:28:47.688572: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:28:51.482808: Comenzando a modificar el udl de OpinionPoll
+ERROR:root: 2024-07-20 18:28:51.485816: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:28:51.485816: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:28:51.487818: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:28:51.487818: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:28:55.197233: Se comienza a automatizar el aplicativo
+INFO:root: 2024-07-20 18:28:55.198244: La carpeta Middleware  existe
+INFO:root: 2024-07-20 18:28:55.199242: La carpeta FrontEnd  existe
+INFO:root: 2024-07-20 18:28:55.199242: Paso todas las pruebas, comenzando proceso automatizacion 
+INFO:root: 2024-07-20 18:28:55.199242: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:28:55.199242: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:28:55.199242: create "e-Flow sd Middleware Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWare\STE\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+ERROR:root: 2024-07-20 18:28:55.201762: El servicio e-Flow sd Middleware Service no se ha instalado 
+ERROR:root: 2024-07-20 18:28:55.201762: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:28:55.201762: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:28:55.201762: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:28:55.202760: create "e-Flow sd MiddlewareNode Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWareNode\STE\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+ERROR:root: 2024-07-20 18:28:55.204761: El servicio e-Flow sd MiddlewareNode Service no se ha instalado 
+ERROR:root: 2024-07-20 18:28:55.204761: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:28:55.204761: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:28:55.204761: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:28:55.204761: create "e-Flow sd Citas Middleware Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWare\Appointment\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+ERROR:root: 2024-07-20 18:28:55.207765: El servicio e-Flow sd Citas Middleware Service no se ha instalado 
+ERROR:root: 2024-07-20 18:28:55.207765: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:28:55.208765: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:28:55.208765: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:28:55.208765: create "e-Flow sd Encuesta Middleware Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWare\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+ERROR:root: 2024-07-20 18:28:55.211775: El servicio e-Flow sd Encuesta Middleware Service no se ha instalado 
+ERROR:root: 2024-07-20 18:28:55.211775: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:28:55.211775: Inicializacion De la creacion de la aplicacion sd-STE 
+INFO:root: 2024-07-20 18:28:55.211775:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:28:55.212795: New-Item 'IIS:\Sites\Default Web Site\sd-STE' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\STE' -type Application 
+ERROR:root: 2024-07-20 18:28:56.816835:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\sd-STE' -physicalPa ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-07-20 18:28:56.816835:  
+ERROR:root: 2024-07-20 18:28:56.816835: La carpeta sd-STE no existe
+ERROR:root: 2024-07-20 18:28:56.816835: Error al crear la aplicacion sd-STE, valide que sea administrador
+INFO:root: 2024-07-20 18:28:56.816835: Inicializacion De la creacion de la aplicacion sd-Appointment 
+INFO:root: 2024-07-20 18:28:56.816835:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:28:56.816835: New-Item 'IIS:\Sites\Default Web Site\sd-Appointment' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\Appointment' -type Application 
+ERROR:root: 2024-07-20 18:28:58.337093:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\sd-Appointment' -ph ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-07-20 18:28:58.337093:  
+ERROR:root: 2024-07-20 18:28:58.337093: La carpeta sd-Appointment no existe
+ERROR:root: 2024-07-20 18:28:58.337093: Error al crear la aplicacion sd-Appointment, valide que sea administrador
+INFO:root: 2024-07-20 18:28:58.337093: Inicializacion De la creacion de la aplicacion sd-AppointmentWeb 
+INFO:root: 2024-07-20 18:28:58.337093:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:28:58.337093: New-Item 'IIS:\Sites\Default Web Site\sd-AppointmentWeb' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWeb' -type Application 
+ERROR:root: 2024-07-20 18:28:59.781839:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\sd-AppointmentWeb'  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-07-20 18:28:59.781839:  
+ERROR:root: 2024-07-20 18:28:59.781839: La carpeta sd-AppointmentWeb no existe
+ERROR:root: 2024-07-20 18:28:59.781839: Error al crear la aplicacion sd-AppointmentWeb, valide que sea administrador
+INFO:root: 2024-07-20 18:28:59.781839: Inicializacion De la creacion de la aplicacion sd-AppointmentWebService 
+INFO:root: 2024-07-20 18:28:59.781839:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:28:59.781839: New-Item 'IIS:\Sites\Default Web Site\sd-AppointmentWebService' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWebService' -type Application 
+ERROR:root: 2024-07-20 18:29:01.241948:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\sd-AppointmentWebSe ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-07-20 18:29:01.241948:  
+ERROR:root: 2024-07-20 18:29:01.241948: La carpeta sd-AppointmentWebService no existe
+ERROR:root: 2024-07-20 18:29:01.241948: Error al crear la aplicacion sd-AppointmentWebService, valide que sea administrador
+INFO:root: 2024-07-20 18:29:01.241948: Inicializacion De la creacion de la aplicacion sd-OpinionPoll 
+INFO:root: 2024-07-20 18:29:01.241948:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:29:01.241948: New-Item 'IIS:\Sites\Default Web Site\sd-OpinionPoll' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\OpinionPoll' -type Application 
+ERROR:root: 2024-07-20 18:29:02.786855:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\sd-OpinionPoll' -ph ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-07-20 18:29:02.786855:  
+ERROR:root: 2024-07-20 18:29:02.786855: La carpeta sd-OpinionPoll no existe
+ERROR:root: 2024-07-20 18:29:02.786855: Error al crear la aplicacion sd-OpinionPoll, valide que sea administrador
+INFO:root: 2024-07-20 18:29:02.786855: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:29:02.786855: Comenzando a modificar el udl de STE
+ERROR:root: 2024-07-20 18:29:02.791851: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:29:02.791851: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:29:02.791851: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:29:02.794398: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:29:02.794398: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:29:02.794398: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:29:02.797744: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:29:02.797744: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:29:02.797744: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:29:02.797744: Comenzando a modificar el udl de STE
+ERROR:root: 2024-07-20 18:29:02.799756: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:29:02.799756: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:29:02.801755: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:29:02.801755: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:29:02.803760: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:29:02.803760: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:29:02.805757: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:29:02.805757: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:29:02.805757: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:29:05.690880: Comenzando a modificar el udl de SSP
+ERROR:root: 2024-07-20 18:29:05.693884: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:29:05.693884: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:29:05.695882: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:29:05.695882: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:29:05.695882: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:29:06.845603: Comenzando a modificar el udl de OpinionPoll
+ERROR:root: 2024-07-20 18:29:06.847607: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:29:06.847607: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:29:06.848605: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:29:06.848605: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:34:35.879002: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:34:36.016490: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:34:36.016490: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:34:36.039635: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:34:36.039635: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:34:43.377544: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-20 18:34:45.549407: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.200/Codigo Fuente
+INFO:root: 2024-07-20 18:34:46.711055: Se comienza a automatizar el aplicativo
+INFO:root: 2024-07-20 18:34:46.712053: La carpeta Middleware  existe
+INFO:root: 2024-07-20 18:34:46.713050: La carpeta FrontEnd  existe
+INFO:root: 2024-07-20 18:34:46.713050: Paso todas las pruebas, comenzando proceso automatizacion 
+INFO:root: 2024-07-20 18:34:52.718950: Se comienza a automatizar el aplicativo
+INFO:root: 2024-07-20 18:34:52.719959: La carpeta Middleware  existe
+INFO:root: 2024-07-20 18:34:52.720962: La carpeta FrontEnd  existe
+INFO:root: 2024-07-20 18:34:52.720962: Paso todas las pruebas, comenzando proceso automatizacion 
+INFO:root: 2024-07-20 18:34:52.720962: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:34:52.720962: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:34:52.720962: create "e-Flow s Citas Middleware Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWare\Appointment\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+ERROR:root: 2024-07-20 18:34:52.723959: El servicio e-Flow s Citas Middleware Service no se ha instalado 
+ERROR:root: 2024-07-20 18:34:52.723959: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:34:52.723959: Inicializacion De la creacion de la aplicacion s-Appointment 
+INFO:root: 2024-07-20 18:34:52.723959:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:34:52.723959: New-Item 'IIS:\Sites\Default Web Site\s-Appointment' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\Appointment' -type Application 
+INFO:root: 2024-07-20 18:34:54.328516: 
+Name             Application pool   Protocols    Physical Path                                                                                                                                                                    
+----             ----------------   ---------    -------------                                                                                                                                                                    
+s-Appointment    DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\Appointment                                                                
+
+
+ 
+ERROR:root: 2024-07-20 18:34:54.333561: La carpeta s-Appointment no existe
+ERROR:root: 2024-07-20 18:34:54.333561: Error al crear la aplicacion s-Appointment, valide que sea administrador
+INFO:root: 2024-07-20 18:34:54.333561: Inicializacion De la creacion de la aplicacion s-AppointmentWeb 
+INFO:root: 2024-07-20 18:34:54.333561:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:34:54.333561: New-Item 'IIS:\Sites\Default Web Site\s-AppointmentWeb' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWeb' -type Application 
+INFO:root: 2024-07-20 18:34:55.804682: 
+Name             Application pool   Protocols    Physical Path                                                                                                                                                                    
+----             ----------------   ---------    -------------                                                                                                                                                                    
+s-AppointmentWeb DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWeb                                                             
+
+
+ 
+ERROR:root: 2024-07-20 18:34:55.804682: La carpeta s-AppointmentWeb no existe
+ERROR:root: 2024-07-20 18:34:55.804682: Error al crear la aplicacion s-AppointmentWeb, valide que sea administrador
+INFO:root: 2024-07-20 18:34:55.804682: Inicializacion De la creacion de la aplicacion s-AppointmentWebService 
+INFO:root: 2024-07-20 18:34:55.804682:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:34:55.804682: New-Item 'IIS:\Sites\Default Web Site\s-AppointmentWebService' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWebService' -type Application 
+INFO:root: 2024-07-20 18:34:57.384505: 
+Name             Application pool   Protocols    Physical Path                                                                                                                                                                    
+----             ----------------   ---------    -------------                                                                                                                                                                    
+s-AppointmentWeb DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWebService                                                      
+Service                                                                                                                                                                                                                           
+
+
+ 
+ERROR:root: 2024-07-20 18:34:57.388015: La carpeta s-AppointmentWebService no existe
+ERROR:root: 2024-07-20 18:34:57.388015: Error al crear la aplicacion s-AppointmentWebService, valide que sea administrador
+INFO:root: 2024-07-20 18:34:57.388015: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:34:59.746924: Comenzando a modificar el udl de SSP
+ERROR:root: 2024-07-20 18:34:59.759939: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:34:59.759939: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:34:59.761934: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:34:59.761934: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:35:03.321056: Se comienza a automatizar el aplicativo
+INFO:root: 2024-07-20 18:35:03.322066: La carpeta Middleware  existe
+INFO:root: 2024-07-20 18:35:03.323067: La carpeta FrontEnd  existe
+INFO:root: 2024-07-20 18:35:03.323067: Paso todas las pruebas, comenzando proceso automatizacion 
+INFO:root: 2024-07-20 18:35:03.323067: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:35:03.323067: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:35:03.323067: create "e-Flow s Citas Middleware Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWare\Appointment\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+ERROR:root: 2024-07-20 18:35:03.325580: El servicio e-Flow s Citas Middleware Service no se ha instalado 
+ERROR:root: 2024-07-20 18:35:03.325580: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:35:03.325580: Se establecio el inicio Manual
+INFO:root: 2024-07-20 18:35:03.325580: Inicializacion De La instalacion del servicio
+INFO:root: 2024-07-20 18:35:03.326592: create "e-Flow s Encuesta Middleware Service"  binpath="C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\MiddleWare\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+ERROR:root: 2024-07-20 18:35:03.328591: El servicio e-Flow s Encuesta Middleware Service no se ha instalado 
+ERROR:root: 2024-07-20 18:35:03.328591: Finalizacion de la instalacion del servicio
+INFO:root: 2024-07-20 18:35:03.329593: Inicializacion De la creacion de la aplicacion s-Appointment 
+INFO:root: 2024-07-20 18:35:03.329593:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:35:03.329593: New-Item 'IIS:\Sites\Default Web Site\s-Appointment' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\Appointment' -type Application 
+ERROR:root: 2024-07-20 18:35:04.898376:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\s-Appointment' -phy ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-07-20 18:35:04.898376:  
+ERROR:root: 2024-07-20 18:35:04.898376: La carpeta s-Appointment no existe
+ERROR:root: 2024-07-20 18:35:04.898376: Error al crear la aplicacion s-Appointment, valide que sea administrador
+INFO:root: 2024-07-20 18:35:04.898376: Inicializacion De la creacion de la aplicacion s-AppointmentWeb 
+INFO:root: 2024-07-20 18:35:04.898376:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:35:04.898376: New-Item 'IIS:\Sites\Default Web Site\s-AppointmentWeb' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWeb' -type Application 
+ERROR:root: 2024-07-20 18:35:06.399945:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\s-AppointmentWeb' - ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-07-20 18:35:06.400468:  
+ERROR:root: 2024-07-20 18:35:06.400468: La carpeta s-AppointmentWeb no existe
+ERROR:root: 2024-07-20 18:35:06.400468: Error al crear la aplicacion s-AppointmentWeb, valide que sea administrador
+INFO:root: 2024-07-20 18:35:06.400468: Inicializacion De la creacion de la aplicacion s-AppointmentWebService 
+INFO:root: 2024-07-20 18:35:06.400468:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:35:06.400998: New-Item 'IIS:\Sites\Default Web Site\s-AppointmentWebService' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\AppointmentWebService' -type Application 
+ERROR:root: 2024-07-20 18:35:07.961762:error al realizar la consulta en powershell New-Item : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.
+En l¡nea: 2 Car cter: 19
++ ...             New-Item 'IIS:\Sites\Default Web Site\s-AppointmentWebSer ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [New-Item], ArgumentException
+    + FullyQualifiedErrorId : El elemento de destino ya existe. Use el par metro "force" para reemplazarlo.,Microsoft.PowerShell.Commands.NewItemCommand
+ 
+
+INFO:root: 2024-07-20 18:35:07.961762:  
+ERROR:root: 2024-07-20 18:35:07.961762: La carpeta s-AppointmentWebService no existe
+ERROR:root: 2024-07-20 18:35:07.961762: Error al crear la aplicacion s-AppointmentWebService, valide que sea administrador
+INFO:root: 2024-07-20 18:35:07.961762: Inicializacion De la creacion de la aplicacion s-OpinionPoll 
+INFO:root: 2024-07-20 18:35:07.961762:empezando la consulta en poweshell
+INFO:root: 2024-07-20 18:35:07.961762: New-Item 'IIS:\Sites\Default Web Site\s-OpinionPoll' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\OpinionPoll' -type Application 
+INFO:root: 2024-07-20 18:35:09.705608: 
+Name             Application pool   Protocols    Physical Path                                                                                                                                                                    
+----             ----------------   ---------    -------------                                                                                                                                                                    
+s-OpinionPoll    DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.200\Codigo Fuente\FrontEnd\OpinionPoll                                                                
+
+
+ 
+ERROR:root: 2024-07-20 18:35:09.705608: La carpeta s-OpinionPoll no existe
+ERROR:root: 2024-07-20 18:35:09.705608: Error al crear la aplicacion s-OpinionPoll, valide que sea administrador
+INFO:root: 2024-07-20 18:35:09.705608: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:35:11.247375: Comenzando a modificar el udl de SSP
+ERROR:root: 2024-07-20 18:35:11.249384: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:35:11.250386: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:35:11.251384: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:35:11.251384: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:35:11.251384: Comenzando a modificar el udl
+INFO:root: 2024-07-20 18:35:12.233868: Comenzando a modificar el udl de OpinionPoll
+ERROR:root: 2024-07-20 18:35:12.236872: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:35:12.236872: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2024-07-20 18:35:12.238873: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2024-07-20 18:35:12.238873: (-2147352567, 'Ocurrió una excepción.', (0, 'ADODB.Stream', 'No se pudo abrir el archivo.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+INFO:root: 2024-07-20 18:40:14.223519: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:40:14.358618: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:40:14.358618: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:40:14.383639: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:40:14.383639: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:44:21.552460: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:44:21.667280: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:44:21.667280: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:44:21.687348: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:44:21.687348: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:50:53.314507: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:50:53.441754: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:50:53.442786: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:50:53.463998: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:50:53.464997: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:51:33.058021: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:51:33.189395: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:51:33.189395: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:51:33.214505: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:51:33.214505: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:55:05.484954: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:55:05.602318: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:55:05.602318: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:55:05.624406: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:55:05.624406: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:55:12.944551: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-20 18:55:15.033819: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.200/Codigo Fuente
+INFO:root: 2024-07-20 18:56:22.338848: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:56:22.462706: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:56:22.462706: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:56:22.485263: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:56:22.485263: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:56:26.866382: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-20 18:56:28.955505: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.200/Codigo Fuente
+INFO:root: 2024-07-20 18:57:01.012126: Inicializacion de la Aplicacion
+INFO:root: 2024-07-20 18:57:01.134280: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:57:01.134280: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:57:01.155357: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-20 18:57:01.155357: assert\QRes.exe /l
+INFO:root: 2024-07-20 18:57:05.057592: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-20 18:57:07.330280: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.200/Codigo Fuente

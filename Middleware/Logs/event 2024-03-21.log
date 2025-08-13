@@ -1,0 +1,62 @@
+INFO:root: 2024-03-21 08:28:51.212207: Inicializacion de la Aplicacion
+INFO:root: 2024-03-21 08:28:51.452953: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 08:28:51.452953: assert\QRes.exe /l
+INFO:root: 2024-03-21 08:28:51.472978: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 08:28:51.472978: assert\QRes.exe /l
+INFO:root: 2024-03-21 08:30:10.401998: Inicializacion de la Aplicacion
+INFO:root: 2024-03-21 08:30:10.509809: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 08:30:10.509809: assert\QRes.exe /l
+INFO:root: 2024-03-21 08:30:10.529742: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 08:30:10.529742: assert\QRes.exe /l
+INFO:root: 2024-03-21 08:31:13.708073: Inicializacion de la Aplicacion
+INFO:root: 2024-03-21 08:31:13.814642: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 08:31:13.814642: assert\QRes.exe /l
+INFO:root: 2024-03-21 08:31:13.835996: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 08:31:13.835996: assert\QRes.exe /l
+INFO:root: 2024-03-21 08:31:26.024029: Se comienza a modificar  los puertos de citas
+ERROR:root: 2024-03-21 08:31:26.025038: No se puede modificar los puertos sin especificar el nombre la ruta
+ERROR:root: 2024-03-21 08:31:27.846552: La carpeta Middleware no existe
+ERROR:root: 2024-03-21 08:31:27.847554: No se puede modificar los puertos sin especificar el nombre tiene que estar en la carpeta del aplicativo
+INFO:root: 2024-03-21 11:05:54.281027: Inicializacion de la Aplicacion
+INFO:root: 2024-03-21 11:05:54.406996: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 11:05:54.406996: assert\QRes.exe /l
+INFO:root: 2024-03-21 11:05:54.426647: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 11:05:54.426647: assert\QRes.exe /l
+INFO:root: 2024-03-21 11:06:05.310513: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-03-21 11:06:08.268947: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.105/Codigo Fuente/Middleware/Logs
+INFO:root: 2024-03-21 11:06:14.882922: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-03-21 11:06:17.065163: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.105/Codigo Fuente/Middleware/Logs
+INFO:root: 2024-03-21 11:06:22.693384: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-03-21 11:06:31.944881: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.105/Codigo Fuente
+INFO:root: 2024-03-21 11:06:48.813373: Inicializacion de la Aplicacion
+INFO:root: 2024-03-21 11:06:48.931892: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 11:06:48.931892: assert\QRes.exe /l
+INFO:root: 2024-03-21 11:06:48.951512: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 11:06:48.951512: assert\QRes.exe /l
+INFO:root: 2024-03-21 11:06:55.891897: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-03-21 11:06:57.863598: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.105/Codigo Fuente
+INFO:root: 2024-03-21 11:07:06.901041: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-03-21 11:07:09.786949: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.105/Codigo Fuente
+INFO:root: 2024-03-21 15:22:08.394221: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-03-21 15:22:11.315408: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.105/Codigo Fuente
+INFO:root: 2024-03-21 15:22:30.807442: Inicializacion de la Aplicacion
+INFO:root: 2024-03-21 15:22:30.914151: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 15:22:30.915151: assert\QRes.exe /l
+INFO:root: 2024-03-21 15:22:30.933957: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 15:22:30.933957: assert\QRes.exe /l
+INFO:root: 2024-03-21 15:22:37.679619: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-03-21 15:22:53.299879: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.105/Codigo Fuente
+INFO:root: 2024-03-21 15:23:43.173118: Inicializacion de la Aplicacion
+INFO:root: 2024-03-21 15:23:43.289511: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 15:23:43.289511: assert\QRes.exe /l
+INFO:root: 2024-03-21 15:23:43.309148: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-21 15:23:43.309148: assert\QRes.exe /l
+INFO:root: 2024-03-21 15:23:48.146227: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-03-21 15:23:50.175075: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.105/Codigo Fuente
+INFO:root: 2024-03-21 15:23:50.929025: Se comienza a modificar  los puertos de citas
+ERROR:root: 2024-03-21 15:23:50.930038: No se puede modificar los puertos sin especificar el nombre el numero del puerto
+INFO:root: 2024-03-21 15:23:52.356309: La carpeta Middleware  existe
+ERROR:root: 2024-03-21 15:23:52.356309: La carpeta FrontEnd no existe
+INFO:root: 2024-03-21 15:23:52.357825: La carpeta Middleware  existe
+ERROR:root: 2024-03-21 15:23:52.358843: La carpeta FrontEnd no existe
+INFO:root: 2024-03-21 15:23:52.358843: Paso todas las pruebas, comenzando proceso de modificacion de los puertos

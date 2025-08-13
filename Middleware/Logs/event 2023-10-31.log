@@ -1,0 +1,57 @@
+INFO:root: 2023-10-31 08:38:07.155282: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 08:38:22.079368: Se comienza a modificar  Citas
+ERROR:root: 2023-10-31 08:38:22.079368: No se puede modificar cita sin especificar el nombre la ruta
+ERROR:root: 2023-10-31 08:38:24.214851: La carpeta Middleware no existe
+ERROR:root: 2023-10-31 08:38:24.220297: No se puede modificar Encuesta sin especificar el nombre tiene que estar en la carpeta del aplicativo
+INFO:root: 2023-10-31 08:38:27.874173: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-10-31 08:38:31.987608: Se selecciono el directorio C:/Users/jaquino/OneDrive - Sidesys Srl/Documents
+INFO:root: 2023-10-31 08:38:32.907269: Se comienza a modificar  Citas
+ERROR:root: 2023-10-31 08:38:32.907640: No se puede modificar cita sin especificar el nombre la ruta
+ERROR:root: 2023-10-31 08:38:34.415229: La carpeta Middleware no existe
+ERROR:root: 2023-10-31 08:38:34.415229: No se puede modificar Encuesta sin especificar el nombre tiene que estar en la carpeta del aplicativo
+INFO:root: 2023-10-31 08:38:39.138988: Se comienza a modificar  Citas
+ERROR:root: 2023-10-31 08:38:39.138988: No se puede modificar cita sin especificar el nombre la ruta
+ERROR:root: 2023-10-31 08:38:42.586976: La carpeta Middleware no existe
+ERROR:root: 2023-10-31 08:38:42.586976: No se puede modificar Encuesta sin especificar el nombre tiene que estar en la carpeta del aplicativo
+INFO:root: 2023-10-31 08:39:34.038761: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 08:39:47.827707: Se comienza a modificar  Citas
+ERROR:root: 2023-10-31 08:39:47.827707: No se puede modificar cita sin especificar el nombre la ruta
+ERROR:root: 2023-10-31 08:39:49.924373: La carpeta Middleware no existe
+ERROR:root: 2023-10-31 08:39:49.924373: No se puede modificar Encuesta sin especificar el nombre tiene que estar en la carpeta del aplicativo
+INFO:root: 2023-10-31 08:40:09.530809: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 08:40:19.390541: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-10-31 08:40:23.303337: Se selecciono el directorio C:/Users/jaquino/OneDrive - Sidesys Srl/Documents
+INFO:root: 2023-10-31 08:40:25.307395: Se comienza a modificar  Citas
+ERROR:root: 2023-10-31 08:40:25.307395: No se puede modificar cita sin especificar el nombre la ruta
+ERROR:root: 2023-10-31 08:40:27.343243: La carpeta Middleware no existe
+ERROR:root: 2023-10-31 08:40:27.352692: No se puede modificar Encuesta sin especificar el nombre tiene que estar en la carpeta del aplicativo
+INFO:root: 2023-10-31 08:41:15.351178: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 08:41:27.603286: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-10-31 08:41:30.147581: Se selecciono el directorio C:/Users/jaquino/OneDrive - Sidesys Srl/Documents
+INFO:root: 2023-10-31 08:41:30.919536: Se comienza a modificar  Encuesta
+ERROR:root: 2023-10-31 08:41:30.919536: La carpeta Middleware no existe
+ERROR:root: 2023-10-31 08:41:30.919536: No se puede modificar Encuesta sin especificar el nombre tiene que estar en la carpeta del aplicativo
+INFO:root: 2023-10-31 08:43:02.067512: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 08:43:24.205203: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-10-31 08:43:28.267836: Se selecciono el directorio C:/Users/jaquino/OneDrive - Sidesys Srl/Documents
+INFO:root: 2023-10-31 08:43:29.238082: Se comienza a modificar  Citas
+ERROR:root: 2023-10-31 08:43:29.238082: La carpeta Middleware no existe
+ERROR:root: 2023-10-31 08:43:29.238082: No se puede modificar Encuesta sin especificar el nombre tiene que estar en la carpeta del aplicativo
+INFO:root: 2023-10-31 09:47:03.600442: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:11:20.638708: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:11:27.924477: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:16:31.011553: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:18:51.362993: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:19:17.571825: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:20:32.607584: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:41:49.570615: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:43:16.566533: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:43:35.319903: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:43:41.870517: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:43:51.607717: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:44:21.408126: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:45:35.929716: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:45:46.659604: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:45:55.235400: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 12:48:29.487619: Inicializacion de la Aplicacion
+INFO:root: 2023-10-31 13:15:25.810475: Inicializacion de la Aplicacion

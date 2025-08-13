@@ -1,0 +1,40 @@
+INFO:root: 2024-04-09 09:25:37.590528: Inicializacion de la Aplicacion
+INFO:root: 2024-04-09 09:25:37.694299: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-09 09:25:37.694299: assert\QRes.exe /l
+INFO:root: 2024-04-09 09:25:37.714398: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-09 09:25:37.714398: assert\QRes.exe /l
+INFO:root: 2024-04-09 09:25:43.050718: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-09 09:25:44.924226: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.115/Codigo Fuente/Middleware
+INFO:root: 2024-04-09 09:25:50.146984: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-09 09:25:51.756490: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.115/Codigo Fuente/Middleware
+INFO:root: 2024-04-09 09:25:55.256973: Inicializacion de la Aplicacion
+INFO:root: 2024-04-09 09:25:55.376339: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-09 09:25:55.376843: assert\QRes.exe /l
+INFO:root: 2024-04-09 09:25:55.399511: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-09 09:25:55.399511: assert\QRes.exe /l
+INFO:root: 2024-04-09 09:26:38.546208: Inicializacion de la Aplicacion
+INFO:root: 2024-04-09 09:26:38.648772: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-09 09:26:38.648772: assert\QRes.exe /l
+INFO:root: 2024-04-09 09:26:38.670335: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-09 09:26:38.670335: assert\QRes.exe /l
+INFO:root: 2024-04-09 09:26:44.065299: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-09 09:26:46.018949: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.115/Codigo Fuente/Middleware
+INFO:root: 2024-04-09 09:43:27.065815: Inicializacion de la Aplicacion
+INFO:root: 2024-04-09 09:43:27.170443: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-09 09:43:27.170443: assert\QRes.exe /l
+INFO:root: 2024-04-09 09:43:27.190444: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-09 09:43:27.190444: assert\QRes.exe /l
+ERROR:root: 2024-04-09 09:43:32.119257: No se puede modificar los UDLS sin especificar el nombre el nombre de la base de datos
+ERROR:root: 2024-04-09 09:43:33.839539: No se puede modificar los UDLS sin especificar el nombre del servidor de la base de datos
+ERROR:root: 2024-04-09 09:43:34.787699: No se puede modificar los UDLS sin especificar el nombre la ruta
+INFO:root: 2024-04-09 09:48:11.035053: Inicializacion de la Aplicacion
+INFO:root: 2024-04-09 09:48:11.140677: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-09 09:48:11.140677: assert\QRes.exe /l
+INFO:root: 2024-04-09 09:48:11.160730: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-09 09:48:11.160730: assert\QRes.exe /l
+ERROR:root: 2024-04-09 09:48:15.970459: No se puede modificar los UDLS sin especificar el nombre el nombre de la base de datos
+ERROR:root: 2024-04-09 09:48:17.769450: No se puede modificar los UDLS sin especificar el nombre del servidor de la base de datos
+ERROR:root: 2024-04-09 09:48:18.478859: No se puede modificar los UDLS sin especificar el nombre la ruta
+INFO:root: 2024-04-09 09:48:54.551497: Se comienza a crear la aplicacion
+ERROR:root: 2024-04-09 09:48:54.551497: No se puede modificar No se puede crear el aplicacion sin especificar el nombre nombre del aplicacion
+ERROR:root: 2024-04-09 09:48:57.208559: No se puede modificar No se puede crear el aplicacion sin especificar el nombre la ruta

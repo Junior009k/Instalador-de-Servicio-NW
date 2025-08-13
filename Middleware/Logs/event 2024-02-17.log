@@ -1,0 +1,367 @@
+INFO:root: 2024-02-17 11:57:41.412370: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 11:57:41.588370: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 11:57:41.588370: assert\QRes.exe /l
+INFO:root: 2024-02-17 11:57:41.658158: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 11:57:41.658158: assert\QRes.exe /l
+INFO:root: 2024-02-17 11:58:03.332112: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 12:03:12.559150: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 12:03:12.683088: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 12:03:12.684088: assert\QRes.exe /l
+INFO:root: 2024-02-17 12:03:12.728371: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 12:03:12.728371: assert\QRes.exe /l
+INFO:root: 2024-02-17 12:03:23.365974: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 12:05:05.600217: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 12:05:05.707003: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 12:05:05.707003: assert\QRes.exe /l
+INFO:root: 2024-02-17 12:05:05.741094: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 12:05:05.741094: assert\QRes.exe /l
+INFO:root: 2024-02-17 12:05:11.812738: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 12:05:19.304124: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 12:05:19.457573: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 12:05:19.457573: assert\QRes.exe /l
+INFO:root: 2024-02-17 12:05:19.497363: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 12:05:19.497363: assert\QRes.exe /l
+INFO:root: 2024-02-17 12:06:15.370975: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 12:06:15.498442: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 12:06:15.499443: assert\QRes.exe /l
+INFO:root: 2024-02-17 12:06:15.534423: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 12:06:15.534423: assert\QRes.exe /l
+INFO:root: 2024-02-17 12:06:21.307927: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 12:06:21.307927: Script generado
+INFO:root: 2024-02-17 12:06:21.307927 start msedge.exe --kiosk --new-window "http://192.168.104.93/confisa/login.aspx?netid=NetIdTS01" --window-position="0,0" --edge-kiosk-type=fullscreen
+INFO:root: 2024-02-17 12:14:04.810820: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 12:14:04.930811: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 12:14:04.931812: assert\QRes.exe /l
+INFO:root: 2024-02-17 12:14:04.967049: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 12:14:04.967049: assert\QRes.exe /l
+INFO:root: 2024-02-17 12:14:09.573651: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 12:14:09.573651: Script generado
+INFO:root: 2024-02-17 12:14:09.573651 start  --kiosk --new-window "http://192.168.104.93/confisa/login.aspx?netid=NetIdTS01" --window-position="0,0" --edge-kiosk-type=fullscreen
+INFO:root: 2024-02-17 12:15:04.618232: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 12:15:04.734741: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 12:15:04.734741: assert\QRes.exe /l
+INFO:root: 2024-02-17 12:15:04.769782: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 12:15:04.770793: assert\QRes.exe /l
+INFO:root: 2024-02-17 12:15:18.081042: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 12:15:18.081042: Script generado
+INFO:root: 2024-02-17 12:15:18.081042 start  --kiosk --new-window "http://192.168.104.93/confisa/login.aspx?netid=NetIdTS01" --window-position="0,0" --edge-kiosk-type=fullscreen
+INFO:root: 2024-02-17 12:15:49.624430: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 12:15:49.624430: Script generado
+INFO:root: 2024-02-17 12:15:49.624430 start chrome.exe --kiosk --new-window "http://192.168.104.93/confisa/login.aspx?netid=NetIdTS01" --window-position="0,0" --edge-kiosk-type=fullscreen
+INFO:root: 2024-02-17 14:18:22.992524: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:18:23.140264: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:18:23.141265: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:18:23.187774: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:18:23.187774: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:18:23.232515: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:18:26.343472: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:18:26.456172: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:18:26.456172: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:18:26.490880: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:18:26.490880: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:19:29.006175: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:19:29.117376: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:19:29.117376: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:19:29.152437: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:19:29.152437: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:24:27.063826: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:24:27.198090: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:24:27.198090: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:24:27.238152: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:24:27.238152: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:25:54.516656: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:25:54.647529: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:25:54.647529: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:25:54.686183: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:25:54.686183: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:28:56.548376: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:28:56.657840: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:28:56.657840: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:28:56.698148: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:28:56.698148: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:30:10.762931: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:30:10.876255: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:30:10.876255: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:30:10.909843: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:30:10.909843: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:30:10.949973: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:30:15.272839: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:30:15.389307: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:30:15.390307: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:30:15.425967: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:30:15.425967: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:30:52.535785: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:30:52.648615: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:30:52.648615: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:30:52.691431: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:30:52.691431: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:31:57.881961: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:31:57.994439: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:31:57.994439: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:31:58.029120: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:31:58.029120: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:32:34.492015: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:32:34.626983: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:32:34.626983: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:32:34.666817: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:32:34.666817: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:32:46.966582: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 14:32:46.966582: Script generado
+INFO:root: 2024-02-17 14:32:46.967126 start chrome.exe --kiosk --new-window "http://192.168.104.93/confisa/login.aspx?netid=NetIdTS01" --window-position="0,0" --kiosk
+INFO:root: 2024-02-17 14:33:03.800698: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:33:03.963973: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:33:03.963973: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:33:04.001254: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:33:04.001254: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:34:45.559555: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:34:45.697582: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:34:45.697582: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:34:45.740284: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:34:45.741303: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:35:41.276556: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:35:41.391855: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:35:41.391855: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:35:41.427116: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:35:41.427116: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:49:27.648339: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:49:27.783627: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:49:27.784158: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:49:27.822544: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:49:27.823056: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:49:27.868254: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:49:31.906619: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:49:32.023549: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:49:32.023549: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:49:32.059101: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:49:32.059101: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:49:57.418500: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:49:57.535647: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:49:57.535647: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:49:57.568739: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:49:57.568739: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:50:15.878862: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 14:50:15.878862: Script generado
+INFO:root: 2024-02-17 14:50:15.878862 start chrome.exe  --new-window "http://192.168.104.93/confisa/login.aspx?netid=NetIdTS01" --window-position="11,2"
+INFO:root: 2024-02-17 14:51:18.240441: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 14:51:18.359612: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:51:18.359612: assert\QRes.exe /l
+INFO:root: 2024-02-17 14:51:18.395463: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 14:51:18.395463: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:00:48.312966: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 15:00:48.428602: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:00:48.428602: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:00:48.466224: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:00:48.466224: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:01:02.350069: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 15:01:22.589003: Script generado
+INFO:root: 2024-02-17 15:01:22.589003 start chrome.exe  --new-window "http://192.168.104.93/confisa/login.aspx?netid=NetIdTS01" --window-position="0,0"
+INFO:root: 2024-02-17 15:03:13.913052: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 15:03:14.024473: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:03:14.024473: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:03:14.059525: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:03:14.059525: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:03:17.831325: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 15:04:25.559324: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 15:04:25.680554: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:04:25.680554: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:04:25.715175: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:04:25.715175: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:04:36.749747: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 15:04:48.790366: Script generado en la ruta C:/Users/Junior/Desktop/hola.txt.bat
+INFO:root: 2024-02-17 15:04:48.790366 start chrome.exe  --new-window "http://192.168.104.93/confisa/login.aspx?netid=NetIdTS01" --window-position="0,0"
+INFO:root: 2024-02-17 15:41:59.603509: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 15:41:59.719216: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:41:59.719216: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:43:01.790865: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 15:43:01.903481: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:43:01.903481: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:43:14.102219: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 15:43:14.238509: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:43:14.238509: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:43:14.275594: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:43:14.275594: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:46:01.107213: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 15:46:01.243606: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:46:01.243606: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:47:06.295452: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 15:47:06.416034: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:47:06.416034: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:47:06.451596: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:47:06.451596: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:49:08.909829: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 15:49:09.024508: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:49:09.024508: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:49:09.069560: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:49:09.069560: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:52:57.765179: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 15:52:57.883545: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:52:57.883545: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:52:57.926147: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:52:57.926147: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:53:53.927057: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 15:53:54.044382: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:53:54.045382: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:53:54.083050: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:53:54.083050: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:55:01.355003: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 15:55:01.470792: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:55:01.470792: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:55:01.512472: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:55:01.513532: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:58:26.907762: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 15:58:27.039026: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:58:27.039026: assert\QRes.exe /l
+INFO:root: 2024-02-17 15:58:27.077922: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 15:58:27.077922: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:01:30.740494: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:01:30.910091: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:01:30.910091: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:01:30.974924: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:01:30.975922: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:04:11.276856: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:04:11.402369: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:04:11.402369: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:04:11.442053: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:04:11.442053: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:04:35.222580: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:04:53.589916: Script generado en la ruta C:/Users/Junior/Desktop/abre google por chrome.bat
+INFO:root: 2024-02-17 20:04:53.589916 start msedge.exe  --new-window "http://localhost/ste" --window-position="0,0"
+INFO:root: 2024-02-17 20:05:27.997219: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:05:34.760335: Script generado en la ruta C:/Users/Junior/Desktop/abre google por chrome.bat
+INFO:root: 2024-02-17 20:05:34.760335 start msedge.exe  --new-window "www.google.com.do" --window-position="1,0"
+INFO:root: 2024-02-17 20:14:20.840346: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:14:20.955781: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:14:20.955781: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:14:20.991398: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:14:20.991398: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:15:01.007415: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:15:01.131108: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:15:01.131639: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:15:01.174262: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:15:01.175781: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:17:23.163472: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:17:23.278695: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:17:23.278695: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:17:23.319864: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:17:23.319864: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:19:52.651920: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:19:52.788575: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:19:52.788575: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:19:52.836209: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:19:52.836209: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:20:32.854335: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:20:32.967234: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:20:32.968268: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:20:33.009129: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:20:33.010131: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:23:34.966639: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:23:35.082075: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:23:35.082075: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:23:35.128147: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:23:35.128147: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:25:21.979989: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:25:22.095891: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:25:22.095891: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:25:22.137343: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:25:22.138341: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:25:27.991805: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:25:31.287438: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:25:32.023957: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:25:32.319587: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:25:35.232341: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:25:35.816005: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:11.650847: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:28:11.767148: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:28:11.767148: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:28:11.815638: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:28:11.815638: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:28:15.787973: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:17.765203: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:18.236902: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:18.457053: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:18.701019: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:18.991480: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:19.276833: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:19.585057: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:19.829800: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:21.793018: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:22.197261: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:22.757227: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:25.324374: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:25.773054: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:26.100265: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:26.413593: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:26.711332: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:27.052766: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:29.325519: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:29.948546: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:30.228523: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:30.535109: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:30.781634: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:36.628428: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:36.868631: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:28:37.089275: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:29:16.073624: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:29:16.185987: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:29:16.185987: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:29:16.230021: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:29:16.230021: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:29:29.692214: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:29:32.187302: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:29:33.723070: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:29:35.979247: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:29:36.789856: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:29:37.187863: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:31:45.390783: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:31:45.529506: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:31:45.530017: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:31:45.575366: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:31:45.576366: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:31:53.656676: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:31:59.762939: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:32:01.790412: Script generado en la ruta .bat
+INFO:root: 2024-02-17 20:32:01.790412 start chrome.exe  --new-window "http://localhost/ste" --window-position="0,0"
+INFO:root: 2024-02-17 20:35:04.446282: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:35:04.561122: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:35:04.561122: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:35:04.606444: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:35:04.607446: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:35:22.469420: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:35:26.665257: Script generado en la ruta C:/fagf.vbs
+INFO:root: 2024-02-17 20:35:26.665257 start IExplorer --kiosk --new-window "http://localhost/ste" --window-position="6,5" --edge-kiosk-type=fullscreen
+INFO:root: 2024-02-17 20:35:50.045966: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:35:57.164413: Script generado en la ruta C:/sdad.vbs
+INFO:root: 2024-02-17 20:35:57.164413 start IExplorer  --new-window "http://localhost/ste" --window-position="6,5"
+INFO:root: 2024-02-17 20:37:30.680184: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:37:30.939772: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:37:30.939772: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:37:31.014577: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:37:31.014577: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:38:14.225901: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:38:21.118161: Script generado en la ruta .bat
+INFO:root: 2024-02-17 20:38:21.119385 start chrome.exe --kiosk --new-window "http://localhost/ste" --window-position="0,0" --edge-kiosk-type=fullscreen
+INFO:root: 2024-02-17 20:38:27.922842: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:38:29.853939: Script generado en la ruta .vbs
+INFO:root: 2024-02-17 20:38:29.853939 start IExplorer --kiosk --new-window "http://localhost/ste" --window-position="0,0" --edge-kiosk-type=fullscreen
+INFO:root: 2024-02-17 20:38:36.337999: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:38:38.450801: Script generado en la ruta .vbs
+INFO:root: 2024-02-17 20:38:38.450801 start IExplorer  --new-window "http://localhost/ste" --window-position="0,0"
+INFO:root: 2024-02-17 20:38:42.793654: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:38:42.930086: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:38:42.930623: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:38:42.976773: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:38:42.976773: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:39:57.774555: Inicializacion de la Aplicacion
+INFO:root: 2024-02-17 20:39:57.910869: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:39:57.911879: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:39:57.959352: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-17 20:39:57.960342: assert\QRes.exe /l
+INFO:root: 2024-02-17 20:40:02.351046: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:40:04.915023: Script generado en la ruta .bat
+INFO:root: 2024-02-17 20:40:04.915023 start chrome.exe --kiosk --new-window "http://localhost/ste" --window-position="0,0" --edge-kiosk-type=fullscreen
+INFO:root: 2024-02-17 20:40:08.240556: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:40:10.102579: Script generado en la ruta .vbs
+INFO:root: 2024-02-17 20:40:10.102579 start IExplorer --kiosk --new-window "http://localhost/ste" --window-position="0,0" --edge-kiosk-type=fullscreen
+INFO:root: 2024-02-17 20:40:13.785345: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-02-17 20:40:15.805568: Script generado en la ruta .vbs
+INFO:root: 2024-02-17 20:40:15.805568 start IExplorer  --new-window "http://localhost/ste" --window-position="0,0"

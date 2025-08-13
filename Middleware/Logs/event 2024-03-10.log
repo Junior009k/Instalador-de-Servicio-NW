@@ -1,0 +1,31 @@
+INFO:root: 2024-03-10 19:01:30.884675: Inicializacion de la Aplicacion
+INFO:root: 2024-03-10 19:01:31.090739: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-10 19:01:31.090739: assert\QRes.exe /l
+INFO:root: 2024-03-10 19:01:31.112234: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-10 19:01:31.112234: assert\QRes.exe /l
+INFO:root: 2024-03-10 19:23:10.079455: Inicializacion de la Aplicacion
+INFO:root: 2024-03-10 19:23:10.225240: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-10 19:23:10.225240: assert\QRes.exe /l
+INFO:root: 2024-03-10 19:23:10.244261: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-10 19:23:10.244261: assert\QRes.exe /l
+INFO:root: 2024-03-10 19:31:45.272893: Inicializacion de la Aplicacion
+INFO:root: 2024-03-10 19:31:45.389648: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-10 19:31:45.389648: assert\QRes.exe /l
+INFO:root: 2024-03-10 19:31:45.409658: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-10 19:31:45.409658: assert\QRes.exe /l
+INFO:root: 2024-03-10 19:35:33.993099: Inicializacion de la Aplicacion
+INFO:root: 2024-03-10 19:35:34.108892: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-10 19:35:34.108892: assert\QRes.exe /l
+INFO:root: 2024-03-10 19:35:34.127954: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-10 19:35:34.127954: assert\QRes.exe /l
+INFO:root: 2024-03-10 19:35:45.937608: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2024-03-10 19:35:45.938143: Inicializacion del configurador de autologon
+INFO:root: 2024-03-10 19:35:45.938202: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon'-Name 'AutoAdminLogon' -Value '1'
+INFO:root: 2024-03-10 19:35:47.281571: 
+INFO:root: 2024-03-10 19:35:47.281571: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultUserName' -Value '1'
+INFO:root: 2024-03-10 19:35:48.353147: 
+INFO:root: 2024-03-10 19:35:48.353147: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultPassword' -Value '1'
+INFO:root: 2024-03-10 19:35:49.448055: 
+INFO:root: 2024-03-10 19:35:49.448055: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultDomainName' -Value '1'
+INFO:root: 2024-03-10 19:35:50.592122: 
+INFO:root: 2024-03-10 19:35:50.592122: Finalizacion del configurador de autologon

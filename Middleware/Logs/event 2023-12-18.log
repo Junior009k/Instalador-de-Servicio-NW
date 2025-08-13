@@ -1,0 +1,654 @@
+INFO:root: 2023-12-18 10:17:57.031672: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 10:18:04.796040: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 10:18:55.495129: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 10:19:33.846680: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 10:20:12.443378: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 10:20:20.027508: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 10:21:33.382405: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 10:21:39.163168: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 10:33:39.446039: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 10:33:45.992563: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 10:35:05.236471: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 10:35:10.772054: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 10:36:13.329146: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 10:36:34.415501: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 10:38:32.728425: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 10:38:38.989550: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 10:38:38.989550: Inicializacion del configurador de Internet Option
+INFO:root: 2023-12-18 10:38:38.989550: powershell Set-ItemProperty -Path HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\4156456 -Name "http" -Value 2 -Type DWORD -Force 
+INFO:root: 2023-12-18 10:38:41.764815: powershell Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones" -Name 1201 -Value 0
+INFO:root: 2023-12-18 10:38:42.471966: Finalizacion del configurador de Internet Option
+INFO:root: 2023-12-18 10:43:52.206385: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 10:44:04.108721: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 10:44:04.108721: Inicializacion del configurador de Internet Option
+INFO:root: 2023-12-18 10:44:04.108721: powershell Set-ItemProperty New-Item -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\gsdffg -Name "http" -Value 2 -Type DWORD -Force' 
+INFO:root: 2023-12-18 11:16:27.765025: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 11:16:33.506491: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 11:16:33.507007: Inicializacion del configurador de Internet Option
+INFO:root: 2023-12-18 11:16:33.507510: powershell Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\asdf' -Name "http" -Value 2 -Type DWORD -Force 
+INFO:root: 2023-12-18 11:16:34.306952: powershell Set-ItemProperty -Path '"HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2"' -Name 1201 -Value 0
+INFO:root: 2023-12-18 11:16:34.943573: Finalizacion del configurador de Internet Option
+INFO:root: 2023-12-18 11:19:23.566057: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 11:19:29.275413: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 11:19:29.275413: Inicializacion del configurador de Internet Option
+INFO:root: 2023-12-18 11:19:29.275413: powershell  New-Item -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\asdf' -Name "http" -Value 2 -Type DWORD -Force 
+INFO:root: 2023-12-18 11:19:30.125312: powershell Set-ItemProperty -Path '"HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2"' -Name 1201 -Value 0
+INFO:root: 2023-12-18 11:19:30.730933: powershell Set-ItemProperty -Path '"HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2"' -Name 1201 -Value 0
+INFO:root: 2023-12-18 11:19:31.332791: Finalizacion del configurador de Internet Option
+INFO:root: 2023-12-18 11:19:39.854212: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 11:19:39.854212: Inicializacion del configurador de Internet Option
+INFO:root: 2023-12-18 11:19:39.854212: powershell  New-Item -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\asdf' -Name "http" -Value 2 -Type DWORD -Force 
+INFO:root: 2023-12-18 11:19:40.672769: powershell Set-ItemProperty -Path '"HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2"' -Name 1201 -Value 0
+INFO:root: 2023-12-18 11:19:41.267542: powershell Set-ItemProperty -Path '"HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2"' -Name 1201 -Value 0
+INFO:root: 2023-12-18 11:19:41.861024: Finalizacion del configurador de Internet Option
+INFO:root: 2023-12-18 11:24:48.492955: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 11:25:14.290195: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 11:25:14.290721: Inicializacion del configurador de Internet Option
+INFO:root: 2023-12-18 11:25:14.290721: powershell  New-Item -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\fasdfasdfasdfasdf' -Name "https" -Value 2 -Type DWORD -Force 
+INFO:root: 2023-12-18 11:25:15.022501: powershell Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\fasdfasdfasdfasdf' -Name "https" -Value 2 -Type DWORD -Force
+INFO:root: 2023-12-18 11:25:15.575622: powershell  New-Item -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\fasdfasdfasdfasdf' -Name "http" -Value 2 -Type DWORD -Force 
+INFO:root: 2023-12-18 11:25:16.357446:powershell Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\fasdfasdfasdfasdf' -Name "http" -Value 2 -Type DWORD -Force
+INFO:root: 2023-12-18 11:25:17.170228: powershell Set-ItemProperty -Path '"HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2"' -Name 1201 -Value 0
+INFO:root: 2023-12-18 11:25:17.697852: Finalizacion del configurador de Internet Option
+INFO:root: 2023-12-18 11:25:54.148120: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 11:27:17.069129: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 11:28:36.807721: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 11:38:01.988022: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 11:38:08.148864: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+ERROR:root: 2023-12-18 11:38:08.149861: No se puede modificar los startingconfigureOptionInternet sin especificar el nombre el nombre del servidor
+INFO:root: 2023-12-18 11:39:20.040552: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 11:39:24.878938: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 11:39:24.878938:empezando la consulta en poweshell
+INFO:root: 2023-12-18 11:39:24.878938:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 11:39:51.454171: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 11:46:46.942001: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 11:47:10.640255: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 11:54:53.474526: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 11:54:58.977195: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 11:54:58.977195:empezando la consulta en poweshell
+INFO:root: 2023-12-18 11:54:58.977195:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 11:56:17.427217: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 11:56:23.713747: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 11:56:23.713747:empezando la consulta en poweshell
+INFO:root: 2023-12-18 11:56:23.713747:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 12:00:17.091387: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 12:00:21.651615: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 12:00:21.652082:empezando la consulta en poweshell
+INFO:root: 2023-12-18 12:00:21.652082:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 12:01:17.619191: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 12:01:22.083558: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 12:01:22.083558:empezando la consulta en poweshell
+INFO:root: 2023-12-18 12:01:22.083558:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 12:02:27.736934: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 12:02:32.689544: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 12:02:32.689544:empezando la consulta en poweshell
+INFO:root: 2023-12-18 12:02:32.689544:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 12:03:07.683810: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 12:03:14.838100: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 12:03:14.838100:empezando la consulta en poweshell
+INFO:root: 2023-12-18 12:03:14.838100:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 12:04:11.253653: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 12:04:14.801376: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 12:04:14.801376:empezando la consulta en poweshell
+INFO:root: 2023-12-18 12:04:14.801376:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 12:13:41.175731: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 12:13:41.406352: No se ha encontrado la img imgeload.png
+INFO:root: 2023-12-18 12:13:41.407355: couldn't open "imgeload.png": no such file or directory
+INFO:root: 2023-12-18 12:14:16.489481: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 12:14:47.505014: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 12:15:03.213224: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 12:15:19.706901: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 12:15:33.206956: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 13:54:02.903792: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 13:54:49.596345: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 13:54:53.933683: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 13:54:53.933683:empezando la consulta en poweshell
+INFO:root: 2023-12-18 13:54:53.933683:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 13:55:03.168545: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 13:55:05.822931: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 13:55:05.822931:empezando la consulta en poweshell
+INFO:root: 2023-12-18 13:55:05.822931:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 13:55:10.961228: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 13:55:14.353065: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 13:55:14.353065:empezando la consulta en poweshell
+INFO:root: 2023-12-18 13:55:14.353065:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 13:55:19.194843: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 13:55:47.577065: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 13:55:47.577065:empezando la consulta en poweshell
+INFO:root: 2023-12-18 13:55:47.578065:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 13:55:52.710858: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:00:33.864904: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:00:51.057416: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:00:55.118520: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:00:55.118520:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:00:55.118520:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:00:55.939482: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:00:55.939482: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:02:06.666396: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:02:11.669716: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:02:11.669716:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:02:11.669716:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:02:12.587195: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:02:12.587195: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:02:15.646329: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:02:15.646329:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:02:15.646329:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:02:16.564711: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:02:16.564964: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:03:03.327282: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:03:06.995822: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:03:06.995822:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:03:06.995822:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:03:07.988577: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:03:07.988577: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:05:35.768187: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:05:39.212706: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:05:39.212706:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:05:39.212706:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:05:40.129935: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:05:40.129935: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:06:45.909967: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:06:49.075251: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:06:49.075251:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:06:49.075251:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:06:49.882744: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:06:49.882744: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:07:19.041634: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:07:29.595129: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:07:29.595129:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:07:29.595129:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:07:30.409307: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:07:30.409307: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:08:25.118454: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:08:25.287345: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:09:23.183484: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:09:23.364213: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:09:57.887766: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:09:58.173312: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:10:28.428680: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:10:32.357593: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:10:32.357593:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:10:32.357593:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:10:33.243399: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:10:33.243399: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:11:07.417039: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:11:11.955906: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:11:11.955906:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:11:11.955906:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:11:12.903214: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:11:12.903214: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:12:11.649994: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:12:14.918272: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:12:14.918272:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:12:14.918272:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:12:15.722624: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:12:15.722624: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:13:16.406344: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:13:19.670543: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:13:19.670543:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:13:19.670543:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:13:20.412326: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:15:05.304375: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:15:08.965827: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:15:08.965827:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:15:08.965827:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:15:10.249491: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:18:25.724496: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:18:29.191014: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:18:29.191014:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:18:29.191014:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:18:30.275061: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:18:30.275061: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:19:44.365797: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:19:49.328892: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:19:49.328892:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:19:49.328892:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:19:50.240199: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:27:15.639756: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:27:20.147435: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:27:20.147435:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:27:20.147435:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:27:23.031358: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 14:27:23.031358: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:28:53.416270: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:28:56.940963: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:28:56.940963:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:28:56.940963:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 14:28:57.690626: "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 14:45:38.367032: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:46:51.094894: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:46:59.062247: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:47:14.637341: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:47:45.959182: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 14:47:54.638418: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 14:47:54.638418:empezando la consulta en poweshell
+INFO:root: 2023-12-18 14:47:54.638418:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:05:00.095603: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 15:05:06.676202: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 15:05:06.676202:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:05:06.676202:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:05:10.146480: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 15:05:10.146480:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:05:10.146480:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:06:15.614134: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 15:06:19.465949: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 15:06:19.465949:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:06:19.465949:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:06:21.351389: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:06:21.351389: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:06:23.070710:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:06:23.070710:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:06:24.300229: Se comienza a modificar el  archivo "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 15:06:24.300229: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 15:06:24.300229: Se comienza a modificar el  archivo "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 15:06:24.300229: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 15:06:24.300229: Se comienza a modificar el  archivo "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 15:06:24.300229: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 15:06:24.300229: Se comienza a modificar el  archivo "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 15:06:24.300229: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 15:06:24.300229: Se comienza a modificar el  archivo "C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json"
+INFO:root: 2023-12-18 15:06:24.300229: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 15:06:57.963853: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 15:07:01.962838: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 15:07:01.962838:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:07:01.962838:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:07:03.573122: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:07:03.573122: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:07:04.840911:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:07:04.840911:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:07:05.606916: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:07:05.606916: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:07:05.606916: Se cambio la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:07:05.606916: por la cadena de texto "protocol": http,
+INFO:root: 2023-12-18 15:07:05.606916: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:07:05.606916: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-12-18 15:07:05.606916: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:07:05.606916: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:07:05.606916: Se cambio la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:07:05.606916: por la cadena de texto "relativeStyleFilePath": /SPA/assets/styles/css/ticket/,
+INFO:root: 2023-12-18 15:07:05.606916: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:07:05.606916: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:07:05.606916: Se cambio la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:07:05.606916: por la cadena de texto "ticketImagesDirectory": /SPA/assets/img/,
+INFO:root: 2023-12-18 15:07:05.606916: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:07:05.616732: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:07:05.616732: Se cambio la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:07:05.616732: por la cadena de texto "ticketLogoFile": logo-ticket.png,
+INFO:root: 2023-12-18 15:07:58.161011: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 15:08:01.372948: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 15:08:01.372948:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:08:01.372948:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:08:04.125747: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:08:04.125747: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:08:05.388854:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:08:05.388854:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:08:06.508735: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:08:06.508735: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:08:06.508735: Se cambio la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:08:06.508735: por la cadena de texto "protocol": http,
+INFO:root: 2023-12-18 15:08:06.508735: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:08:06.518855: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:08:06.518855: Se cambio la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste"
+INFO:root: 2023-12-18 15:08:06.518855: por la cadena de texto "urlEflow": 192.168.104.92/Registroinmobiliario-ste,
+INFO:root: 2023-12-18 15:08:06.518855: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:08:06.518855: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:08:06.518855: Se cambio la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:08:06.518855: por la cadena de texto "relativeStyleFilePath": /SPA/assets/styles/css/ticket/,
+INFO:root: 2023-12-18 15:08:06.518855: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:08:06.518855: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:08:06.518855: Se cambio la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:08:06.518855: por la cadena de texto "ticketImagesDirectory": /SPA/assets/img/,
+INFO:root: 2023-12-18 15:08:06.518855: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:08:06.525541: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:08:06.526539: Se cambio la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:08:06.526539: por la cadena de texto "ticketLogoFile": logo-ticket.png,
+INFO:root: 2023-12-18 15:08:17.775155: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:08:17.775155: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:08:18.933931:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:08:18.933931:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:08:19.996086: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:08:19.996086: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:08:19.996086: Se cambio la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:08:19.996086: por la cadena de texto "protocol": http,
+INFO:root: 2023-12-18 15:08:19.996086: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:08:20.003608: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:08:20.003608: Se cambio la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste"
+INFO:root: 2023-12-18 15:08:20.003608: por la cadena de texto "urlEflow": 192.168.104.92/Registroinmobiliario-ste,
+INFO:root: 2023-12-18 15:08:20.003608: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:08:20.003608: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:08:20.003608: Se cambio la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:08:20.003608: por la cadena de texto "relativeStyleFilePath": /SPA/assets/stss/ticket/,
+INFO:root: 2023-12-18 15:08:20.003608: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:08:20.003608: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:08:20.003608: Se cambio la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:08:20.003608: por la cadena de texto "ticketImagesDirectory": /SPA/assets/img/,
+INFO:root: 2023-12-18 15:08:20.003608: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:08:20.003608: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:08:20.003608: Se cambio la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:08:20.003608: por la cadena de texto "ticketLogoFile": logo-ticket.png,
+INFO:root: 2023-12-18 15:10:59.727329: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 15:11:04.057099: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 15:11:04.057099:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:11:04.057099:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:11:11.395184: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:11:11.395184: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:11:12.790959:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:11:12.790959:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:11:13.785612: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:11:13.790636: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:11:13.790636: Se cambio la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:11:13.790636: por la cadena de texto "protocol": "htt",
+INFO:root: 2023-12-18 15:11:13.790636: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:11:13.790636: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:11:13.790636: Se cambio la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste"
+INFO:root: 2023-12-18 15:11:13.790636: por la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste",
+INFO:root: 2023-12-18 15:11:13.790636: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:11:13.807082: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:11:13.808082: Se cambio la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:11:13.808082: por la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:11:13.808082: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:11:13.813260: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:11:13.813260: Se cambio la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:11:13.813260: por la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:11:13.813260: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:11:13.826828: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:11:13.826828: Se cambio la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:11:13.826828: por la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:11:22.249296: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:11:22.249296: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:11:23.398802:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:11:23.398802:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:11:24.945076: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:11:24.953071: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:11:24.953071: Se cambio la cadena de texto "protocol": "htt",
+INFO:root: 2023-12-18 15:11:24.954071: por la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:11:24.954071: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:11:24.960068: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:11:24.960068: Se cambio la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste",
+INFO:root: 2023-12-18 15:11:24.961068: por la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste",
+INFO:root: 2023-12-18 15:11:24.961068: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:11:24.972064: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:11:24.972064: Se cambio la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:11:24.972064: por la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:11:24.972064: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:11:24.984055: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:11:24.985054: Se cambio la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:11:24.985054: por la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:11:24.986053: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:11:24.993048: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:11:24.993048: Se cambio la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:11:24.994048: por la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:11:58.932726: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:11:58.932726: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:12:01.129532:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:12:01.129532:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:12:02.130876: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:02.146508: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:02.146508: Se cambio la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:12:02.146508: por la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:12:02.146508: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:02.146508: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:02.146508: Se cambio la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste"
+INFO:root: 2023-12-18 15:12:02.146508: por la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste",
+INFO:root: 2023-12-18 15:12:02.146508: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:02.169927: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:02.169927: Se cambio la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:12:02.169927: por la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:12:02.169927: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:02.174688: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:02.174688: Se cambio la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:12:02.174688: por la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:12:02.174688: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:02.189109: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:02.189109: Se cambio la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:12:02.189109: por la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:12:09.342626: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:12:09.342626: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:12:10.468900:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:12:10.468900:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:12:11.808947: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:11.808947: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:11.819150: Se cambio la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:12:11.819150: por la cadena de texto "protocol": "htt",
+INFO:root: 2023-12-18 15:12:11.819150: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:11.819150: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:11.819150: Se cambio la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste",
+INFO:root: 2023-12-18 15:12:11.819150: por la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste",
+INFO:root: 2023-12-18 15:12:11.819150: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:11.830651: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:11.830651: Se cambio la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:12:11.830651: por la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:12:11.830651: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:11.843972: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:11.846129: Se cambio la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:12:11.846129: por la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:12:11.846129: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:11.849149: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:11.849149: Se cambio la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:12:11.849149: por la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:12:25.837952: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:12:25.837952: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:12:27.142013:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:12:27.142013:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:12:28.151630: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:28.161959: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:28.161959: Se cambio la cadena de texto "protocol": "htt",
+INFO:root: 2023-12-18 15:12:28.161959: por la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:12:28.161959: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:28.177713: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:28.177713: Se cambio la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste",
+INFO:root: 2023-12-18 15:12:28.177713: por la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste",
+INFO:root: 2023-12-18 15:12:28.177713: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:28.182090: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:28.182090: Se cambio la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:12:28.182090: por la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:12:28.182090: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:28.196741: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:28.196741: Se cambio la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:12:28.196741: por la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:12:28.196741: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:12:28.204185: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:12:28.204185: Se cambio la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:12:28.204185: por la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:14:04.205847: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:14:04.205847: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:14:05.520674:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:14:05.520674:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:14:06.570768: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:14:06.580614: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:14:06.580614: Se cambio la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:14:06.580614: por la cadena de texto "protocol": "htt",
+INFO:root: 2023-12-18 15:14:06.580614: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:14:06.592568: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:14:06.592568: Se cambio la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste"
+INFO:root: 2023-12-18 15:14:06.592568: por la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste",
+INFO:root: 2023-12-18 15:14:06.593567: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:14:06.602342: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:14:06.602342: Se cambio la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:14:06.602342: por la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:14:06.602342: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:14:06.610516: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:14:06.610516: Se cambio la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:14:06.610516: por la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:14:06.610516: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:14:06.620542: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:14:06.620542: Se cambio la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:14:06.620542: por la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:14:10.723142: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:14:10.723142: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:14:11.883812:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:14:11.883812:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:14:13.284266: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:14:13.284266: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:14:13.284266: Se cambio la cadena de texto "protocol": "htt",
+INFO:root: 2023-12-18 15:14:13.284266: por la cadena de texto "protocol": "htt",
+INFO:root: 2023-12-18 15:14:13.284266: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:14:13.284266: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:14:13.284266: Se cambio la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste",
+INFO:root: 2023-12-18 15:14:13.284266: por la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste",
+INFO:root: 2023-12-18 15:14:13.284266: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:14:13.306948: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:14:13.306948: Se cambio la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:14:13.306948: por la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:14:13.306948: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:14:13.315894: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:14:13.315894: Se cambio la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:14:13.315894: por la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:14:13.316894: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:14:13.318683: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:14:13.318683: Se cambio la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:14:13.318683: por la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:15:42.248426: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 15:15:48.727511: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 15:15:48.727511:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:15:48.727511:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:16:02.777848: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:16:02.777848: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:16:04.011279:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:16:04.011279:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:16:04.911504: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:16:04.915482: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:16:04.915482: Se cambio la cadena de texto "protocol": "htt",
+INFO:root: 2023-12-18 15:16:04.915482: por la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:16:04.916483: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:16:04.921204: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:16:04.921204: Se cambio la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste"
+INFO:root: 2023-12-18 15:16:04.921204: por la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste"
+INFO:root: 2023-12-18 15:16:04.921204: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:16:04.921204: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:16:04.921204: Se cambio la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:16:04.921204: por la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:16:04.921204: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:16:04.921204: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:16:04.921204: Se cambio la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:16:04.931300: por la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:16:04.931300: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:16:04.931300: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:16:04.931300: Se cambio la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:16:04.931300: por la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:16:15.873960: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:16:15.873960: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:16:16.968262:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:16:16.968262:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:16:18.016413: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:16:18.023408: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:16:18.023408: Se cambio la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:16:18.024407: por la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:16:18.024407: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:16:18.032086: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:16:18.032086: Se cambio la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste"
+INFO:root: 2023-12-18 15:16:18.032086: por la cadena de texto "urlEflow": "192.168.104.93/Registroinmobiliario-ste"
+INFO:root: 2023-12-18 15:16:18.032086: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:16:18.040158: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:16:18.040671: Se cambio la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:16:18.040671: por la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:16:18.040671: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:16:18.047314: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:16:18.048314: Se cambio la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:16:18.048314: por la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:16:18.048314: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:16:18.055310: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:16:18.055310: Se cambio la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:16:18.056309: por la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:17:24.484747: Se comienza a modificar el ticket printing service
+INFO:root: 2023-12-18 15:17:24.484747: Paso todas las pruebas, comenzando proceso de modificacion del Nuevo Modulo de Emision
+INFO:root: 2023-12-18 15:17:25.555582:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:17:25.555582:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:17:26.705454: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:17:26.715137: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:17:26.715137: Se cambio la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:17:26.715137: por la cadena de texto "protocol": "http",
+INFO:root: 2023-12-18 15:17:26.715137: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:17:26.715137: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:17:26.715137: Se cambio la cadena de texto "urlEflow": "192.168.104.93/Registroinmobiliario-ste"
+INFO:root: 2023-12-18 15:17:26.715137: por la cadena de texto "urlEflow": "192.168.104.92/Registroinmobiliario-ste"
+INFO:root: 2023-12-18 15:17:26.715137: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:17:26.725088: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:17:26.730094: Se cambio la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:17:26.730094: por la cadena de texto "relativeStyleFilePath": "/SPA/assets/styles/css/ticket/",
+INFO:root: 2023-12-18 15:17:26.730094: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:17:26.735162: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:17:26.735162: Se cambio la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:17:26.735162: por la cadena de texto "ticketImagesDirectory": "/SPA/assets/img/",
+INFO:root: 2023-12-18 15:17:26.735162: Se comienza a modificar el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json
+INFO:root: 2023-12-18 15:17:26.735162: Ha sido modificado el  archivo C:\Users\jaquino\AppData\Local\Programs\ticketprinttingservice\static\config\configuration.json de forma exitosa
+INFO:root: 2023-12-18 15:17:26.735162: Se cambio la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:17:26.735162: por la cadena de texto "ticketLogoFile": "logo-ticket.png",
+INFO:root: 2023-12-18 15:19:21.432773: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 15:19:21.432773:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:19:21.432773:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:19:27.766099: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 15:19:27.766099:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:19:27.766099:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:20:07.219927: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 15:20:12.192483: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 15:20:12.192483:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:20:12.192483:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 15:20:20.498725: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2023-12-18 15:20:20.498725:empezando la consulta en poweshell
+INFO:root: 2023-12-18 15:20:20.498725:(Get-CimInstance -ClassName Win32_ComputerSystem).Username
+INFO:root: 2023-12-18 16:09:16.278898: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 16:12:19.690836: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 16:12:25.668207: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+ERROR:root: 2023-12-18 16:12:25.668207: No se puede modificar los startingconfigureOptionInternet sin especificar el nombre el nombre del servidor
+INFO:root: 2023-12-18 16:22:23.121319: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 16:23:00.337634: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 16:23:20.418167: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-18 16:23:20.418167: Inicializacion del configurador de Internet Option
+INFO:root: 2023-12-18 16:23:20.418167: powershell  New-Item -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\http://192.168.104.92/ste' -Name "https" -Value 2 -Type DWORD -Force 
+INFO:root: 2023-12-18 16:23:22.165223: powershell Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\http://192.168.104.92/ste' -Name "https" -Value 2 -Type DWORD -Force
+INFO:root: 2023-12-18 16:23:22.887592: powershell  New-Item -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\http://192.168.104.92/ste' -Name "http" -Value 2 -Type DWORD -Force 
+INFO:root: 2023-12-18 16:23:24.022796:powershell Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\http://192.168.104.92/ste' -Name "http" -Value 2 -Type DWORD -Force
+INFO:root: 2023-12-18 16:23:27.269605: powershell Set-ItemProperty -Path '"HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2"' -Name 1201 -Value 0
+INFO:root: 2023-12-18 16:23:27.901652: Finalizacion del configurador de Internet Option
+INFO:root: 2023-12-18 16:24:47.896643: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 16:25:01.847988: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-18 16:25:55.494075: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 16:26:12.353449: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-18 16:26:50.315154: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 16:27:06.632719: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-18 16:27:06.632719: Inicializacion del configurador de autoplaylist
+INFO:root: 2023-12-18 16:27:06.632719: powershell REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-18 16:27:07.981078: powershell ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	http://192.168.104.96/STE/	/f'
+INFO:root: 2023-12-18 16:27:08.745689: powershell REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-18 16:27:09.395192: powershell ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	http://192.168.104.96/STE/	/f'
+INFO:root: 2023-12-18 16:27:10.063596: Finalizacion del configurador de autoplaylist
+INFO:root: 2023-12-18 16:29:32.049635: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 16:29:48.560060: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-18 16:29:48.560060: Inicializacion del configurador de autoplaylist
+INFO:root: 2023-12-18 16:29:48.560060: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-18 16:29:49.295494: powershell 'REG ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	http://192.168.104.96/STE/	/f'
+INFO:root: 2023-12-18 16:29:49.998301: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-18 16:29:50.769702: powershell 'REG	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	http://192.168.104.96/STE/	/f'
+INFO:root: 2023-12-18 16:29:51.277468: Finalizacion del configurador de autoplaylist
+INFO:root: 2023-12-18 16:33:38.952246: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 16:33:45.279158: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-18 16:33:45.279158: Inicializacion del configurador de autoplaylist
+INFO:root: 2023-12-18 16:33:45.279158: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-18 16:33:45.907311: powershell 'REG ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	http://192.168.104.96/STE/	/f'
+INFO:root: 2023-12-18 16:33:46.509538: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-18 16:33:47.021646: powershell 'REG	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	http://192.168.104.96/STE/	/f'
+INFO:root: 2023-12-18 16:33:47.593038: Finalizacion del configurador de autoplaylist
+INFO:root: 2023-12-18 16:34:22.726670: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 16:34:34.533396: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-18 16:34:34.533396: Inicializacion del configurador de autoplaylist
+INFO:root: 2023-12-18 16:34:34.533396: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-18 16:34:35.216642: powershell 'REG ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	http://192.168.104.96/STE/	/f'
+INFO:root: 2023-12-18 16:34:35.716395: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-18 16:34:36.235560: powershell 'REG	ADD HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	http://192.168.104.96/STE/	/f'
+INFO:root: 2023-12-18 16:34:36.963694: Finalizacion del configurador de autoplaylist
+INFO:root: 2023-12-18 16:36:37.009818: Inicializacion de la Aplicacion
+INFO:root: 2023-12-18 16:36:41.550272: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-18 16:36:41.550272: Inicializacion del configurador de autoplaylist
+INFO:root: 2023-12-18 16:36:41.550272: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-18 16:36:41.988237: powershell 'REG ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	f	/f'
+INFO:root: 2023-12-18 16:36:42.540626: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-18 16:36:43.088085: powershell 'REG	ADD HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	f	/f'
+INFO:root: 2023-12-18 16:36:43.620704: Finalizacion del configurador de autoplaylist
+INFO:root: 2023-12-18 17:04:11.156624: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-18 17:04:11.194402: Inicializacion del configurador de autoplaylist
+INFO:root: 2023-12-18 17:04:11.194402: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-18 17:04:12.279642: powershell 'REG ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	f	/f'
+INFO:root: 2023-12-18 17:04:12.972231: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-18 17:04:13.801005: powershell 'REG	ADD HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	f	/f'
+INFO:root: 2023-12-18 17:04:14.238181: Finalizacion del configurador de autoplaylist

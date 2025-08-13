@@ -1,0 +1,73 @@
+INFO:root: 2024-11-13 10:44:22.623850: Inicializacion de la Aplicacion
+INFO:root: 2024-11-13 10:44:22.973959: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 10:44:22.973959: assert\QRes.exe /l
+INFO:root: 2024-11-13 10:44:23.014662: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 10:44:23.014662: assert\QRes.exe /l
+INFO:root: 2024-11-13 11:37:25.288754: Se comienza a diagnosticar el MailServer
+INFO:root: 2024-11-13 11:47:00.432677: Se comienza a Diagnosticar el mail server
+INFO:root: 2024-11-13 11:47:00.433679: Inicializacion del tnc
+INFO:root: 2024-11-13 11:47:00.434191:empezando la consulta en poweshell
+INFO:root: 2024-11-13 11:47:00.435210:powershell tnc smtp.gmail.com -port 587
+INFO:root: 2024-11-13 11:47:11.791721: powershell tnc smtp.gmail.com -port 587
+INFO:root: 2024-11-13 11:47:11.791721: 
+
+ComputerName     : smtp.gmail.com
+RemoteAddress    : 2607:f8b0:400c:c1a::6d
+RemotePort       : 587
+InterfaceAlias   : Wi-Fi
+SourceAddress    : 2803:9810:a3a3:e910::39d
+TcpTestSucceeded : True
+
+
+
+
+INFO:root: 2024-11-13 11:47:11.791721: Finalizacion del tnc
+INFO:root: 2024-11-13 11:47:11.791721:empezando la consulta en poweshell
+INFO:root: 2024-11-13 11:47:11.791721:
+                       $SMTPServer = "smtp.gmail.com"
+                       $SMTPPort =587
+                       $Username = "junior.sidesys@gmail.com"
+                       $Password = "hlow lzmu fcff ywyy"
+                       $From = "junior.sidesys@gmail.com"
+                       $To = "junior.aquino@sidesys.com"
+                       $Subject = "Correo enviado desde el instalador de servicio"
+                       $Body = "Configuracion de correo exitosa"
+
+                       # Crear las credenciales
+                       $SecurePassword = ConvertTo-SecureString $Password -AsPlainText -Force
+                       $Credential = New-Object System.Management.Automation.PSCredential($Username, $SecurePassword)
+
+                       # Enviar el correo
+                       Send-MailMessage -SmtpServer $SMTPServer -Port $SMTPPort -Credential $Credential -From $From -To $To -Subject $Subject -Body $Body -UseSsl
+                       
+                       
+INFO:root: 2024-11-13 13:03:50.521310: Inicializacion de la Aplicacion
+INFO:root: 2024-11-13 13:03:50.771129: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 13:03:50.772213: assert\QRes.exe /l
+INFO:root: 2024-11-13 13:03:50.814331: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 13:03:50.814331: assert\QRes.exe /l
+INFO:root: 2024-11-13 13:35:22.932212: Inicializacion de la Aplicacion
+INFO:root: 2024-11-13 13:35:23.246583: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 13:35:23.246583: assert\QRes.exe /l
+INFO:root: 2024-11-13 13:35:23.290245: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 13:35:23.290245: assert\QRes.exe /l
+INFO:root: 2024-11-13 13:41:14.131481: Inicializacion de la Aplicacion
+INFO:root: 2024-11-13 13:41:14.378555: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 13:41:14.378555: assert\QRes.exe /l
+INFO:root: 2024-11-13 13:41:14.425003: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 13:41:14.425970: assert\QRes.exe /l
+INFO:root: 2024-11-13 13:41:58.616604: Inicializacion de la Aplicacion
+INFO:root: 2024-11-13 13:41:58.896006: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 13:41:58.896006: assert\QRes.exe /l
+INFO:root: 2024-11-13 13:41:58.948601: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 13:41:58.949619: assert\QRes.exe /l
+INFO:root: 2024-11-13 13:43:56.169573: Inicializacion de la Aplicacion
+INFO:root: 2024-11-13 13:43:56.420279: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 13:43:56.420279: assert\QRes.exe /l
+INFO:root: 2024-11-13 13:43:56.477181: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 13:43:56.477181: assert\QRes.exe /l
+INFO:root: 2024-11-13 16:15:14.172951: Inicializacion de la Aplicacion
+INFO:root: 2024-11-13 16:15:14.416199: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 16:15:14.416199: assert\QRes.exe /l
+INFO:root: 2024-11-13 16:15:14.461403: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-13 16:15:14.461403: assert\QRes.exe /l

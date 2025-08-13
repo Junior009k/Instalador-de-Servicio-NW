@@ -1,0 +1,86 @@
+INFO:root: 2024-02-24 16:33:47.154652: Inicializacion de la Aplicacion
+INFO:root: 2024-02-24 16:33:47.358777: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:33:47.358777: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:33:47.407144: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:33:47.407668: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:44:39.778586: Inicializacion de la Aplicacion
+INFO:root: 2024-02-24 16:44:39.901090: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:44:39.901090: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:44:39.935914: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:44:39.935914: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:45:36.341655: Inicializacion de la Aplicacion
+INFO:root: 2024-02-24 16:45:36.455243: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:45:36.455243: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:45:36.486551: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:45:36.486551: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:46:23.029475: Inicializacion de la Aplicacion
+INFO:root: 2024-02-24 16:46:23.137493: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:46:23.137493: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:46:23.167207: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:46:23.167207: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:46:41.333105: Inicializacion de la Aplicacion
+INFO:root: 2024-02-24 16:46:41.454156: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:46:41.454156: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:46:41.493181: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:46:41.493181: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:47:32.969484: Inicializacion de la Aplicacion
+INFO:root: 2024-02-24 16:47:33.077642: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:47:33.077642: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:47:33.102296: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:47:33.103295: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:49:38.940697: Inicializacion de la Aplicacion
+INFO:root: 2024-02-24 16:49:39.040873: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:49:39.040873: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:49:39.071609: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:49:39.071609: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:49:43.268340: Se estan exportando los siguientes datos a excel
+INFO:root: 2024-02-24 16:50:33.592034: Inicializacion de la Aplicacion
+INFO:root: 2024-02-24 16:50:33.718701: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:50:33.719705: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:50:33.748381: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 16:50:33.748381: assert\QRes.exe /l
+INFO:root: 2024-02-24 16:50:40.907064: Se estan exportando los siguientes datos a excel
+ERROR:root: 2024-02-24 16:50:43.742660: No se pudo exportar el archivo excel
+ERROR:root: 2024-02-24 16:50:43.742660: list index out of range
+INFO:root: 2024-02-24 16:50:45.914104: Se estan exportando los siguientes datos a excel
+ERROR:root: 2024-02-24 16:50:52.290330: No se pudo exportar el archivo excel
+ERROR:root: 2024-02-24 16:50:52.290330: list index out of range
+INFO:root: 2024-02-24 16:51:08.458070: Se estan exportando los siguientes datos a excel
+ERROR:root: 2024-02-24 16:51:13.976766: No se pudo exportar el archivo excel
+ERROR:root: 2024-02-24 16:51:13.976766: list index out of range
+INFO:root: 2024-02-24 16:51:31.033821: Se estan exportando los siguientes datos a excel
+ERROR:root: 2024-02-24 16:51:34.478763: No se pudo exportar el archivo excel
+ERROR:root: 2024-02-24 16:51:34.478763: list index out of range
+INFO:root: 2024-02-24 17:47:22.385416: Inicializacion de la Aplicacion
+INFO:root: 2024-02-24 17:47:22.516210: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 17:47:22.516210: assert\QRes.exe /l
+INFO:root: 2024-02-24 17:47:22.546615: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 17:47:22.546615: assert\QRes.exe /l
+INFO:root: 2024-02-24 17:47:26.477553: Inicializacion de la Aplicacion
+INFO:root: 2024-02-24 17:47:26.587261: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 17:47:26.587261: assert\QRes.exe /l
+INFO:root: 2024-02-24 17:47:26.620576: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 17:47:26.620576: assert\QRes.exe /l
+INFO:root: 2024-02-24 18:00:52.395633: Inicializacion de la Aplicacion
+INFO:root: 2024-02-24 18:00:52.501993: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 18:00:52.502993: assert\QRes.exe /l
+INFO:root: 2024-02-24 18:00:52.528521: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 18:00:52.528521: assert\QRes.exe /l
+INFO:root: 2024-02-24 18:02:06.196024: Inicializacion de la Aplicacion
+INFO:root: 2024-02-24 18:02:06.311477: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 18:02:06.311477: assert\QRes.exe /l
+INFO:root: 2024-02-24 18:02:06.340028: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 18:02:06.340028: assert\QRes.exe /l
+INFO:root: 2024-02-24 18:02:15.693119: Inicializacion de la Aplicacion
+INFO:root: 2024-02-24 18:02:15.805788: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 18:02:15.805788: assert\QRes.exe /l
+INFO:root: 2024-02-24 18:02:15.832091: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-02-24 18:02:15.832091: assert\QRes.exe /l
+INFO:root: 2024-02-24 18:02:24.108309: Se comienza a ejecutar la funcion startingconfigureOptionInternet
+INFO:root: 2024-02-24 18:02:24.109309: Inicializacion del configurador de Internet Option
+INFO:root: 2024-02-24 18:02:24.109309: powershell  New-Item -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\hola' -Name "https" -Value 2 -Type DWORD -Force 
+INFO:root: 2024-02-24 18:02:25.861651: powershell Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\hola' -Name "https" -Value 2 -Type DWORD -Force
+INFO:root: 2024-02-24 18:02:27.027013: powershell  New-Item -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\hola' -Name "http" -Value 2 -Type DWORD -Force 
+INFO:root: 2024-02-24 18:02:28.698155:powershell Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\hola' -Name "http" -Value 2 -Type DWORD -Force
+INFO:root: 2024-02-24 18:02:29.986692: powershell Set-ItemProperty -Path '"HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2"' -Name 1201 -Value 0
+INFO:root: 2024-02-24 18:02:31.207162: Finalizacion del configurador de Internet Option

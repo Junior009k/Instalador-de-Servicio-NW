@@ -1,0 +1,104 @@
+INFO:root: 2025-03-13 10:15:44.548253: Inicializacion de la Aplicacion
+INFO:root: 2025-03-13 10:15:44.904441: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:15:44.904441: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:15:44.929531: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:15:44.929531: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:16:10.345762: Inicializacion de la Aplicacion
+INFO:root: 2025-03-13 10:16:10.511193: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:16:10.511193: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:16:10.531313: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:16:10.531313: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:24:38.396195: Inicializacion de la Aplicacion
+INFO:root: 2025-03-13 10:24:38.601080: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:24:38.601080: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:24:38.631168: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:24:38.631168: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:25:06.842856: Inicializacion de la Aplicacion
+INFO:root: 2025-03-13 10:25:07.031049: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:25:07.032051: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:25:07.052675: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:25:07.052675: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:25:31.064519: Inicializacion de la Aplicacion
+INFO:root: 2025-03-13 10:25:31.274111: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:25:31.274111: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:25:31.300325: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:25:31.300325: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:25:54.087437: Inicializacion de la Aplicacion
+INFO:root: 2025-03-13 10:25:54.309182: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:25:54.309182: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:25:54.335646: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:25:54.335646: assert\QRes.exe /l
+INFO:root:2025-03-13 10:26:06.619379: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:26:24.379465: Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:27:16.957037: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:27:41.347951: Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:28:05.988846: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:28:30.310491: Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:29:11.601413: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:29:35.984094: Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:29:40.476476: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:29:40.512163:Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:29:41.650540: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:29:41.672572:Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:29:56.557435: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:29:56.574128:Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:29:57.528004: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:29:57.549278:Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:29:58.268868: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:29:58.293275:Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:29:58.532288: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:29:58.555581:Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:29:58.871163: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:29:58.887828:Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:29:59.175965: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:29:59.192633:Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:29:59.482329: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:29:59.502860:Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:30:00.088275: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:30:00.109976:Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:30:53.258092: Se comienza a Diagnosticar
+INFO:root:2025-03-13 10:31:04.657025: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:31:20.716389: Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:31:28.401340: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:31:44.567147: Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:32:31.503988: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:32:47.579859: Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:34:06.550698: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:34:22.686815: Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:34:33.083551: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:34:49.186958: Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root: 2025-03-13 10:34:59.738689: Inicializacion de la Aplicacion
+INFO:root: 2025-03-13 10:34:59.947291: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:34:59.947291: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:34:59.975708: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:34:59.975708: assert\QRes.exe /l
+INFO:root:2025-03-13 10:35:22.117974: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:35:39.825976: Error: No se pudo conectar al servidor. Verifica la dirección del servidor y la red.
+INFO:root:2025-03-13 10:35:44.903602: Se comienza a Diagnosticar
+INFO:root:2025-03-13 10:35:47.218910: Se comienza a Diagnosticar
+INFO:root:2025-03-13 10:35:48.134902: Se comienza a Diagnosticar
+INFO:root: 2025-03-13 10:36:20.627312: Inicializacion de la Aplicacion
+INFO:root: 2025-03-13 10:36:20.815049: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:36:20.815049: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:36:20.841410: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:36:20.842410: assert\QRes.exe /l
+INFO:root:2025-03-13 10:36:39.625964: Se comienza a Diagnosticar
+INFO:root: 2025-03-13 10:38:30.581682: Inicializacion de la Aplicacion
+INFO:root: 2025-03-13 10:38:30.787407: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:38:30.787407: assert\QRes.exe /l
+INFO:root: 2025-03-13 10:38:30.815229: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 10:38:30.815229: assert\QRes.exe /l
+INFO:root:2025-03-13 10:38:56.487256: Se comienza a Diagnosticar
+ERROR:root: 2025-03-13 10:38:56.533978: Error inesperado: ('42000', "[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]No se puede abrir la base de datos 'BLOF' solicitada por el inicio de sesión. Error de inicio de sesión. (4060) (SQLDriverConnect); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]No se puede abrir la base de datos 'BLOF' solicitada por el inicio de sesión. Error de inicio de sesión. (4060)"). Verifica la configuración de la base de datos y la red.
+INFO:root:2025-03-13 10:39:08.458737: Se comienza a Diagnosticar
+INFO:root:2025-03-13 10:39:24.972025: Se comienza a Diagnosticar
+INFO:root: 2025-03-13 11:20:00.224862: Inicializacion de la Aplicacion
+INFO:root: 2025-03-13 11:20:00.412306: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 11:20:00.413301: assert\QRes.exe /l
+INFO:root: 2025-03-13 11:20:00.440838: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 11:20:00.440838: assert\QRes.exe /l
+INFO:root: 2025-03-13 17:48:42.503723: Inicializacion de la Aplicacion
+INFO:root: 2025-03-13 17:48:42.820258: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 17:48:42.820258: assert\QRes.exe /l
+INFO:root: 2025-03-13 17:48:42.855424: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-13 17:48:42.855424: assert\QRes.exe /l

@@ -1,0 +1,67 @@
+INFO:root: 2024-11-11 17:25:37.023420: Inicializacion de la Aplicacion
+INFO:root: 2024-11-11 17:25:37.413416: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-11 17:25:37.414029: assert\QRes.exe /l
+INFO:root: 2024-11-11 17:25:37.455277: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-11 17:25:37.455277: assert\QRes.exe /l
+INFO:root: 2024-11-11 17:28:41.356685: Se comienza a diagnosticar el MailServer
+INFO:root: 2024-11-11 17:28:55.193633: Se comienza a Diagnosticar el mail server
+INFO:root: 2024-11-11 17:28:55.193633: Inicializacion del tnc
+INFO:root: 2024-11-11 17:28:55.193633:empezando la consulta en poweshell
+INFO:root: 2024-11-11 17:28:55.193633:powershell tnc smtp.gmail.coabm -port 587
+INFO:root: 2024-11-11 17:28:59.969360: powershell tnc smtp.gmail.coabm -port 587
+INFO:root: 2024-11-11 17:28:59.973373: ADVERTENCIA: Name resolution of smtp.gmail.coabm failed
+
+
+ComputerName   : smtp.gmail.coabm
+RemoteAddress  : 
+InterfaceAlias : 
+SourceAddress  : 
+PingSucceeded  : False
+
+
+
+
+INFO:root: 2024-11-11 17:28:59.973373: Finalizacion del tnc
+INFO:root: 2024-11-11 17:29:15.813786: Se comienza a diagnosticar el MailServer
+INFO:root: 2024-11-11 17:29:25.686680: Se comienza a Diagnosticar el mail server
+INFO:root: 2024-11-11 17:29:25.686680: Inicializacion del tnc
+INFO:root: 2024-11-11 17:29:25.686680:empezando la consulta en poweshell
+INFO:root: 2024-11-11 17:29:25.686680:powershell tnc smtp.gmail.com -port 587
+INFO:root: 2024-11-11 17:29:35.244447: powershell tnc smtp.gmail.com -port 587
+INFO:root: 2024-11-11 17:29:35.244447: 
+
+ComputerName     : smtp.gmail.com
+RemoteAddress    : 2607:f8b0:400c:c05::6c
+RemotePort       : 587
+InterfaceAlias   : Wi-Fi
+SourceAddress    : 2803:9810:a3a3:e910::39d
+TcpTestSucceeded : True
+
+
+
+
+INFO:root: 2024-11-11 17:29:35.244447: Finalizacion del tnc
+INFO:root: 2024-11-11 17:29:35.244447:empezando la consulta en poweshell
+INFO:root: 2024-11-11 17:29:35.244447:
+                       $SMTPServer = "smtp.gmail.com"
+                       $SMTPPort =587
+                       $Username = "junior.sidesys@gmail.com"
+                       $Password = "hlow lzmu fcff ywyy"
+                       $From = "junior.sidesys@gmail.com"
+                       $To = "pablo.ferreras@sidesys.com"
+                       $Subject = "Correo enviado desde el instalador de servicio"
+                       $Body = "Configuracion de correo exitosa"
+
+                       # Crear las credenciales
+                       $SecurePassword = ConvertTo-SecureString $Password -AsPlainText -Force
+                       $Credential = New-Object System.Management.Automation.PSCredential($Username, $SecurePassword)
+
+                       # Enviar el correo
+                       Send-MailMessage -SmtpServer $SMTPServer -Port $SMTPPort -Credential $Credential -From $From -To $To -Subject $Subject -Body $Body -UseSsl
+                       
+                       
+INFO:root: 2024-11-11 17:39:42.783006: Inicializacion de la Aplicacion
+INFO:root: 2024-11-11 17:39:42.963066: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-11 17:39:42.963066: assert\QRes.exe /l
+INFO:root: 2024-11-11 17:39:42.997264: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-11 17:39:42.997264: assert\QRes.exe /l

@@ -1,0 +1,19 @@
+INFO:root: 2024-10-31 08:04:23.750275: Inicializacion de la Aplicacion
+INFO:root: 2024-10-31 08:04:24.072196: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-31 08:04:24.072196: assert\QRes.exe /l
+INFO:root: 2024-10-31 08:04:24.117281: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-31 08:04:24.117281: assert\QRes.exe /l
+INFO:root: 2024-10-31 08:06:28.397530: Inicializacion de la Aplicacion
+INFO:root: 2024-10-31 08:06:28.602198: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-31 08:06:28.602198: assert\QRes.exe /l
+INFO:root: 2024-10-31 08:06:28.645814: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-31 08:06:28.645814: assert\QRes.exe /l
+INFO:root: 2024-10-31 08:07:20.793313: Se ejecuta el metodo startingTest
+ERROR:root: 2024-10-31 08:07:20.794327: No se puede modificar La validacion del test sin especificar el nombre el nombre del usuario
+ERROR:root: 2024-10-31 08:07:23.084330: No se puede modificar La validacion del test sin especificar el nombre el nombre del usuario
+INFO:root: 2024-10-31 08:07:58.418369: Se comienza a modificar el  archivo /FrontEnd/VirtualQueue/web.config
+INFO:root: 2024-10-31 08:07:58.418369: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-10-31 08:07:58.418369: Se comienza a modificar el  archivo /FrontEnd/VirtualQueue/web.config
+INFO:root: 2024-10-31 08:07:58.419327: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-10-31 08:07:58.419327: Se comienza a modificar el  archivo /Middleware/STE/ConfigFiles/VirtualQueue.config
+INFO:root: 2024-10-31 08:07:58.419327: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco

@@ -1,0 +1,35 @@
+INFO:root: 2024-11-07 11:20:29.254356: Inicializacion de la Aplicacion
+INFO:root: 2024-11-07 11:20:29.516524: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-07 11:20:29.516524: assert\QRes.exe /l
+INFO:root: 2024-11-07 11:20:29.552731: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-07 11:20:29.552731: assert\QRes.exe /l
+INFO:root: 2024-11-07 11:20:43.313797: Se ejecuta el metodo startingTest
+INFO:root: 2024-11-07 11:20:43.313797: Inicializacion del tnc
+INFO:root: 2024-11-07 11:20:43.313797:empezando la consulta en poweshell
+INFO:root: 2024-11-07 11:20:43.313797:powershell tnc localhost -port 80
+INFO:root: 2024-11-07 11:20:53.464857: powershell tnc localhost -port 80
+INFO:root: 2024-11-07 11:20:53.464857: 
+
+ComputerName     : localhost
+RemoteAddress    : ::1
+RemotePort       : 80
+InterfaceAlias   : Loopback Pseudo-Interface 1
+SourceAddress    : ::1
+TcpTestSucceeded : True
+
+
+
+
+INFO:root: 2024-11-07 11:20:53.464857: Finalizacion del tnc
+INFO:root: 2024-11-07 11:28:31.054633: Inicializacion de la Aplicacion
+INFO:root: 2024-11-07 11:28:31.264374: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-07 11:28:31.264374: assert\QRes.exe /l
+INFO:root: 2024-11-07 11:28:31.315609: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-07 11:28:31.315609: assert\QRes.exe /l
+INFO:root: 2024-11-07 11:28:43.672068: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-11-07 11:28:47.023063: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.500/Codigo Fuente/Middleware
+INFO:root: 2024-11-07 11:31:22.180555: Inicializacion de la Aplicacion
+INFO:root: 2024-11-07 11:31:22.383407: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-07 11:31:22.383407: assert\QRes.exe /l
+INFO:root: 2024-11-07 11:31:22.418581: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-07 11:31:22.418581: assert\QRes.exe /l

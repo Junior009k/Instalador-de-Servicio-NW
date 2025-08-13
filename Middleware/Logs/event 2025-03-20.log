@@ -1,0 +1,31 @@
+INFO:root: 2025-03-20 20:10:05.350800: Inicializacion de la Aplicacion
+INFO:root: 2025-03-20 20:10:05.765805: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-20 20:10:05.765805: assert\QRes.exe /l
+INFO:root: 2025-03-20 20:10:05.785880: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-20 20:10:05.790891: assert\QRes.exe /l
+INFO:root: 2025-03-20 20:11:41.383625: Inicializacion de la Aplicacion
+INFO:root: 2025-03-20 20:11:41.565530: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-20 20:11:41.565530: assert\QRes.exe /l
+INFO:root: 2025-03-20 20:11:41.589052: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-20 20:11:41.589052: assert\QRes.exe /l
+INFO:root: 2025-03-20 20:17:26.159822: Inicializacion de la Aplicacion
+INFO:root: 2025-03-20 20:17:26.336105: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-20 20:17:26.336105: assert\QRes.exe /l
+INFO:root: 2025-03-20 20:17:26.363354: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-20 20:17:26.363354: assert\QRes.exe /l
+INFO:root: 2025-03-20 20:17:39.639251: Se comienza a realizar la request a Virtual Queue
+INFO:root: 2025-03-20 20:17:39.639251: Se comienza a realizar el request
+INFO:root: 2025-03-20 20:17:39.639251: Data> {'username': '3', 'password': '2', 'docType': 'Pasaporte', 'docNumber': '123', 'client_Id': 'mobileclient.virtualqueue', 'client_Secret': '1a4805ac784c56662cd4aad56f0b21024215de18f2da5c01918dead7ce4f1115', 'callbackToken': '123456789qwerty'}
+INFO:root: 2025-03-20 20:19:19.682224: Inicializacion de la Aplicacion
+INFO:root: 2025-03-20 20:19:19.863818: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-20 20:19:19.863818: assert\QRes.exe /l
+INFO:root: 2025-03-20 20:19:19.895352: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-20 20:19:19.895352: assert\QRes.exe /l
+INFO:root: 2025-03-20 20:19:25.477167: Inicializacion de la Aplicacion
+INFO:root: 2025-03-20 20:19:25.653881: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-20 20:19:25.653881: assert\QRes.exe /l
+INFO:root: 2025-03-20 20:19:25.682141: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2025-03-20 20:19:25.683675: assert\QRes.exe /l
+INFO:root: 2025-03-20 20:19:39.516361: Se comienza a realizar la request a Virtual Queue
+INFO:root: 2025-03-20 20:19:39.516361: Se comienza a realizar el request
+INFO:root: 2025-03-20 20:19:39.516361: Data> {'username': '123', 'password': '231', 'docType': 'Pasaporte', 'docNumber': '123', 'client_Id': 'mobileclient.virtualqueue', 'client_Secret': '1a4805ac784c56662cd4aad56f0b21024215de18f2da5c01918dead7ce4f1115', 'callbackToken': '123456789qwerty'}

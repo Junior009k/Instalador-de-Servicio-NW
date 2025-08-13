@@ -1,0 +1,97 @@
+INFO:root: 2024-04-12 08:52:46.958078: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 08:52:47.431000: No se ha encontrado la img FrontEnd\img\diagnostico.png
+INFO:root: 2024-04-12 08:52:47.431000: couldn't open "FrontEnd\img\diagnostico.png": no such file or directory
+INFO:root: 2024-04-12 08:52:47.496465: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 08:52:47.496465: assert\QRes.exe /l
+INFO:root: 2024-04-12 08:52:47.511480: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 08:52:47.511480: assert\QRes.exe /l
+INFO:root: 2024-04-12 08:59:57.994145: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 08:59:58.101528: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 08:59:58.102528: assert\QRes.exe /l
+INFO:root: 2024-04-12 08:59:58.121176: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 08:59:58.121176: assert\QRes.exe /l
+INFO:root: 2024-04-12 10:26:17.839431: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 10:26:17.951526: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 10:26:17.951526: assert\QRes.exe /l
+INFO:root: 2024-04-12 10:26:17.973426: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 10:26:17.973426: assert\QRes.exe /l
+INFO:root: 2024-04-12 10:26:52.101421: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 10:26:52.207200: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 10:26:52.207200: assert\QRes.exe /l
+INFO:root: 2024-04-12 10:26:52.227219: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 10:26:52.227219: assert\QRes.exe /l
+INFO:root: 2024-04-12 10:29:08.596206: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 10:29:08.709234: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 10:29:08.709234: assert\QRes.exe /l
+INFO:root: 2024-04-12 10:29:08.728167: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 10:29:08.728167: assert\QRes.exe /l
+INFO:root: 2024-04-12 10:30:43.657683: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 10:30:43.764599: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 10:30:43.765598: assert\QRes.exe /l
+INFO:root: 2024-04-12 10:30:43.784126: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 10:30:43.785126: assert\QRes.exe /l
+INFO:root: 2024-04-12 10:30:53.859617: Se comienza a modificar el nodo
+ERROR:root: 2024-04-12 10:30:53.859617: La carpeta Middleware no existe
+ERROR:root: 2024-04-12 10:30:53.860624: No se puede modificar el Web sevice de citas sin especificar el nombre tiene que estar en la carpeta del aplicativo
+INFO:root: 2024-04-12 10:44:09.747318: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 10:44:09.863061: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 10:44:09.863619: assert\QRes.exe /l
+INFO:root: 2024-04-12 10:44:09.884584: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 10:44:09.884584: assert\QRes.exe /l
+INFO:root: 2024-04-12 11:15:57.977004: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 11:15:58.409086: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 11:15:58.409086: assert\QRes.exe /l
+INFO:root: 2024-04-12 11:15:58.429136: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 11:15:58.429136: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:05:46.623469: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 14:05:46.740806: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:05:46.740806: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:05:46.761059: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:05:46.761059: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:06:39.815194: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 14:06:39.920764: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:06:39.920764: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:06:39.945081: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:06:39.946080: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:06:43.986741: Se comienza a modificar  los puertos de citas
+ERROR:root: 2024-04-12 14:06:43.986741: No se puede modificar los puertos sin especificar el nombre el numero del puerto
+ERROR:root: 2024-04-12 14:06:45.633285: No se puede modificar los puertos sin especificar el nombre la ruta
+ERROR:root: 2024-04-12 14:06:45.953039: La carpeta Middleware no existe
+ERROR:root: 2024-04-12 14:06:45.953039: No se puede modificar los puertos sin especificar el nombre tiene que estar en la carpeta del aplicativo
+INFO:root: 2024-04-12 14:07:25.856131: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 14:07:25.965957: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:07:25.966956: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:07:25.985593: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:07:25.985593: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:07:31.291775: Se comienza a modificar  los puertos de citas
+ERROR:root: 2024-04-12 14:07:31.291775: No se puede modificar los puertos sin especificar el nombre el numero del puerto
+ERROR:root: 2024-04-12 14:07:36.727015: No se puede modificar los puertos sin especificar el nombre la ruta
+ERROR:root: 2024-04-12 14:07:37.730259: La carpeta Middleware no existe
+ERROR:root: 2024-04-12 14:07:37.730259: No se puede modificar los puertos sin especificar el nombre tiene que estar en la carpeta del aplicativo
+INFO:root: 2024-04-12 14:08:10.714182: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 14:08:10.827633: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:08:10.827633: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:08:10.848280: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:08:10.849279: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:10:12.389315: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 14:10:12.505350: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:10:12.505350: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:10:12.525874: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:10:12.525874: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:10:24.366593: guardando los datos de configuracion
+INFO:root:2024-04-12 14:10:24.366593: Estableciendo color Rojo al frame 1 id del color 1
+INFO:root:2024-04-12 14:10:24.366593: Estableciendo color Purpura al frame 2 id del color 4
+INFO:root:2024-04-12 14:10:24.366593: Estableciendo color Verde al frame 3 id del color 2
+INFO:root:2024-04-12 14:10:24.366593: Estableciendo color Amarillo al frame 4 id del color 5
+INFO:root:2024-04-12 14:10:24.366593: Estableciendo color Crema al frame 5 id del color 7
+INFO:root:2024-04-12 14:10:24.366593: actualizando la tabla estadoColor en el frame 1 actualiza el valor del campo idColor con 1)
+INFO:root: 2024-04-12 14:10:56.454298: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 14:10:56.563045: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:10:56.563045: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:10:56.582089: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:10:56.583087: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:12:29.130557: Inicializacion de la Aplicacion
+INFO:root: 2024-04-12 14:12:29.240759: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:12:29.240759: assert\QRes.exe /l
+INFO:root: 2024-04-12 14:12:29.261363: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-12 14:12:29.262364: assert\QRes.exe /l

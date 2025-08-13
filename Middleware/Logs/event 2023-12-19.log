@@ -1,0 +1,48 @@
+INFO:root: 2023-12-19 15:43:23.252760: Inicializacion de la Aplicacion
+INFO:root: 2023-12-19 15:43:31.464238: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-19 15:43:31.464238: Inicializacion del configurador de autoplaylist
+INFO:root: 2023-12-19 15:43:31.464238: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-19 15:43:34.125828: powershell 'REG ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	54	/f'
+INFO:root: 2023-12-19 15:43:36.305635: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-19 15:43:38.399629: powershell 'REG	ADD HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	54	/f'
+INFO:root: 2023-12-19 15:43:40.754263: Finalizacion del configurador de autoplaylist
+INFO:root: 2023-12-19 15:55:27.617711: Inicializacion de la Aplicacion
+INFO:root: 2023-12-19 15:55:35.988146: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-19 15:55:35.990171: Inicializacion del configurador de autoplaylist
+INFO:root: 2023-12-19 15:55:35.990171: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-19 15:55:37.964046: powershell 'REG ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	dsfasdf	/f'
+INFO:root: 2023-12-19 15:55:41.039697: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-19 15:55:43.748167: powershell 'REG	ADD HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	dsfasdf	/f'
+INFO:root: 2023-12-19 15:55:45.690173: Finalizacion del configurador de autoplaylist
+INFO:root: 2023-12-19 15:59:43.449318: Inicializacion de la Aplicacion
+INFO:root: 2023-12-19 15:59:49.653706: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-19 15:59:49.654707: Inicializacion del configurador de autoplaylist
+INFO:root: 2023-12-19 15:59:49.654707: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-19 15:59:51.255795: powershell 'REG ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	asdfasdfasdfasfd	/f'
+INFO:root: 2023-12-19 15:59:53.082270: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-19 15:59:54.757357: powershell 'REG	ADD HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	asdfasdfasdfasfd	/f'
+INFO:root: 2023-12-19 15:59:56.658139: Finalizacion del configurador de autoplaylist
+INFO:root: 2023-12-19 16:01:00.910181: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-19 16:01:00.910181: Inicializacion del configurador de autoplaylist
+INFO:root: 2023-12-19 16:01:00.910181: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-19 16:01:03.778669: powershell 'REG ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	aguila	/f'
+INFO:root: 2023-12-19 16:01:06.358142: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-19 16:01:09.984072: powershell 'REG	ADD HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	aguila	/f'
+INFO:root: 2023-12-19 16:01:12.095703: Finalizacion del configurador de autoplaylist
+INFO:root: 2023-12-19 16:04:47.310898: Inicializacion de la Aplicacion
+INFO:root: 2023-12-19 16:04:56.278501: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-19 16:04:56.279501: Inicializacion del configurador de autoplaylist
+INFO:root: 2023-12-19 16:04:56.279501: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-19 16:04:57.876969: powershell 'REG ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	PERRO	/f'
+INFO:root: 2023-12-19 16:04:59.427198: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-19 16:05:00.934272: powershell 'REG	ADD HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	PERRO	/f'
+INFO:root: 2023-12-19 16:05:02.653192: Finalizacion del configurador de autoplaylist
+INFO:root: 2023-12-19 16:07:36.728701: Inicializacion de la Aplicacion
+INFO:root: 2023-12-19 16:07:44.959484: Se comienza a ejecutar la funcion startingconfigureAutoplaylist
+INFO:root: 2023-12-19 16:07:44.959484: Inicializacion del configurador de autoplaylist
+INFO:root: 2023-12-19 16:07:44.959484: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome	/v	AutoplayAllowed /t REG_DWORD /d 1 /f'
+INFO:root: 2023-12-19 16:07:46.969309: powershell 'REG ADD	HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\AutoplayAllowlist\ '	/v	"1"	/t	REG_SZ	/d	toro	/f
+INFO:root: 2023-12-19 16:07:48.528084: powershell 'REG	ADD	HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge'	/v	AutoplayAllowed /t REG_DWORD /d 1 /f
+INFO:root: 2023-12-19 16:07:49.953657: powershell 'REG	ADD HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\AutoplayAllowlist\	/v	"1"	/t	REG_SZ	/d	toro	/f
+INFO:root: 2023-12-19 16:07:51.290132: Finalizacion del configurador de autoplaylist
+INFO:root: 2023-12-19 16:09:39.470444: Inicializacion de la Aplicacion

@@ -1,0 +1,52 @@
+INFO:root: 2023-10-30 13:25:45.080521: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 13:26:25.482520: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 13:26:37.561310: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 14:12:50.427852: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 14:34:47.104005: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 14:34:53.727217: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 14:35:02.614066: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 14:35:30.927842: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 14:35:53.497232: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 15:04:39.318334: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 15:04:44.151199: Se comienza a modificar la ejecucion del historico integrado
+ERROR:root: 2023-10-30 15:04:44.151199: No se puede modificar el horario de ejecucion del historico sin especificar la ruta
+INFO:root: 2023-10-30 15:04:48.281279: Se esta seleccionando el directorio para la carga de hora y minutos del proceso historico
+INFO:root: 2023-10-30 15:04:51.198729: Se selecciono el directorio 
+INFO:root: 2023-10-30 15:04:51.202738: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-10-30 15:04:51.203720: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-10-30 15:06:20.014174: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 15:06:31.843398: Se comienza a modificar la ejecucion del historico integrado
+INFO:root: 2023-10-30 15:06:51.295129: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 15:08:03.416864: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 15:08:11.718537: Se esta seleccionando el directorio para la carga de hora y minutos del proceso historico
+INFO:root: 2023-10-30 15:08:23.991391: Se selecciono el directorio 
+INFO:root: 2023-10-30 15:08:24.033655: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-10-30 15:08:24.033655: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-10-30 15:08:26.009142: Se comienza a modificar la ejecucion del historico integrado
+INFO:root: 2023-10-30 15:08:43.897901: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 15:09:08.259193: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 15:09:12.841441: Se comienza a modificar la ejecucion del historico integrado
+ERROR:root: 2023-10-30 15:09:12.841441: No se puede modificar el horario de ejecucion del historico sin especificar el nombre la ruta
+INFO:root: 2023-10-30 15:09:23.424113: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 15:25:25.045980: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 15:25:31.059250: Se comienza a modificar la ejecucion de la consola de sesion
+INFO:root: 2023-10-30 15:25:32.697113: Se comienza a modificar la ejecucion de la consola de sesion
+INFO:root: 2023-10-30 15:25:33.414408: Se comienza a modificar la ejecucion de la consola de sesion
+INFO:root: 2023-10-30 15:25:33.606352: Se comienza a modificar la ejecucion de la consola de sesion
+INFO:root: 2023-10-30 15:25:33.798329: Se comienza a modificar la ejecucion de la consola de sesion
+INFO:root: 2023-10-30 15:25:34.011215: Se comienza a modificar la ejecucion de la consola de sesion
+INFO:root: 2023-10-30 15:25:34.213139: Se comienza a modificar la ejecucion de la consola de sesion
+INFO:root: 2023-10-30 15:25:34.415022: Se comienza a modificar la ejecucion de la consola de sesion
+INFO:root: 2023-10-30 15:25:34.657884: Se comienza a modificar la ejecucion de la consola de sesion
+INFO:root: 2023-10-30 15:25:34.880301: Se comienza a modificar la ejecucion de la consola de sesion
+INFO:root: 2023-10-30 15:25:35.092179: Se comienza a modificar la ejecucion de la consola de sesion
+INFO:root: 2023-10-30 15:25:35.305173: Se comienza a modificar la ejecucion de la consola de sesion
+INFO:root: 2023-10-30 15:26:03.101241: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 15:26:30.075910: Se comienza a modificar la ejecucion de la consola de sesion
+ERROR:root: 2023-10-30 15:26:30.075910: No se puede modificar el horario de el tiempo de ejecucion de tiempo de consola sin especificar el nombre la ruta
+INFO:root: 2023-10-30 15:26:34.633708: Se comienza a modificar la ejecucion de la consola de sesion
+ERROR:root: 2023-10-30 15:26:34.633708: No se puede modificar el horario de el tiempo de ejecucion de tiempo de consola sin especificar el nombre de los minutos de la sesion
+ERROR:root: 2023-10-30 15:26:41.343560: No se puede modificar el horario de el tiempo de ejecucion de tiempo de consola sin especificar el nombre la ruta
+INFO:root: 2023-10-30 16:46:09.486932: Inicializacion de la Aplicacion
+INFO:root: 2023-10-30 16:51:54.703054: Se comienza a modificar el MailServer
+ERROR:root: 2023-10-30 16:51:54.703054: No se puede modificar el MailServer sin especificar el nombre la ruta

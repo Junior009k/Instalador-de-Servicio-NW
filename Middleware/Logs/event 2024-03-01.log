@@ -1,0 +1,48 @@
+INFO:root: 2024-03-01 16:20:34.127146: Inicializacion de la Aplicacion
+INFO:root: 2024-03-01 16:20:34.634560: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-01 16:20:34.634560: assert\QRes.exe /l
+INFO:root: 2024-03-01 16:20:34.725383: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-01 16:20:34.725383: assert\QRes.exe /l
+INFO:root: 2024-03-01 16:20:56.531865: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-03-01 16:21:00.318839: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.100/Paquete  V0.100/Middleware
+INFO:root: 2024-03-01 16:21:00.932018: Se comienza a crear la aplicacion
+INFO:root: 2024-03-01 16:25:02.025610: Inicializacion de la Aplicacion
+INFO:root: 2024-03-01 16:25:02.149003: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-01 16:25:02.149003: assert\QRes.exe /l
+INFO:root: 2024-03-01 16:25:02.185896: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-01 16:25:02.185896: assert\QRes.exe /l
+INFO:root: 2024-03-01 16:25:11.280169: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-03-01 16:25:13.831393: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.100/Paquete  V0.100/Middleware
+INFO:root: 2024-03-01 16:25:14.500851: Se comienza a crear la aplicacion
+INFO:root: 2024-03-01 16:25:14.500851: Inicializacion De la creacion de la aplicacion PRUEBA 
+INFO:root: 2024-03-01 16:25:14.500851:empezando la consulta en poweshell
+INFO:root: 2024-03-01 16:25:14.500851: New-Item 'IIS:\Sites\Default Web Site\PRUEBA' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.100\Paquete  V0.100\Middleware' -type Application
+INFO:root: 2024-03-01 16:25:16.508532: 
+Name             Application pool   Protocols    Physical Path                                            
+----             ----------------   ---------    -------------                                            
+PRUEBA           DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador  
+                                                 Servicio Unicos V0.100\Paquete  V0.100\Middleware        
+
+
+ 
+ERROR:root: 2024-03-01 16:25:16.508532: La carpeta PRUEBA no existe
+ERROR:root: 2024-03-01 16:25:16.508532: Error al crear la aplicacion PRUEBA, valide que sea administrador
+INFO:root: 2024-03-01 16:25:43.570218: Se comienza a crear la aplicacion
+INFO:root: 2024-03-01 16:25:43.570218: Inicializacion De la creacion de la aplicacion PRUEBA2 
+INFO:root: 2024-03-01 16:25:43.570218:empezando la consulta en poweshell
+INFO:root: 2024-03-01 16:25:43.570218: New-Item 'IIS:\Sites\Default Web Site\PRUEBA2' -physicalPath 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.100\Paquete  V0.100\Middleware' -type Application
+INFO:root: 2024-03-01 16:25:45.178249: 
+Name             Application pool   Protocols    Physical Path                                            
+----             ----------------   ---------    -------------                                            
+PRUEBA2          DefaultAppPool     http         C:\APPS\006- Proyecto Instalador de servicio\Instalador  
+                                                 Servicio Unicos V0.100\Paquete  V0.100\Middleware        
+
+
+ 
+ERROR:root: 2024-03-01 16:25:45.178249: La carpeta PRUEBA2 no existe
+ERROR:root: 2024-03-01 16:25:45.178249: Error al crear la aplicacion PRUEBA2, valide que sea administrador
+INFO:root: 2024-03-01 16:26:03.111911: Inicializacion de la Aplicacion
+INFO:root: 2024-03-01 16:26:03.228001: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-01 16:26:03.228001: assert\QRes.exe /l
+INFO:root: 2024-03-01 16:26:03.263343: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-03-01 16:26:03.263868: assert\QRes.exe /l

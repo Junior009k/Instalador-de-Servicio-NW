@@ -1,0 +1,25 @@
+INFO:root: 2023-11-09 08:02:24.389081: Inicializacion de la Aplicacion
+INFO:root: 2023-11-09 08:02:38.554898: Se esta examinando el archivo
+INFO:root: 2023-11-09 08:03:09.554394: Se esta ejecutando la instalacion del servicio
+INFO:root: 2023-11-09 08:04:06.877922: Inicializacion de la Aplicacion
+INFO:root: 2023-11-09 08:04:13.041104: Se esta examinando el archivo
+INFO:root: 2023-11-09 08:05:29.299439: Inicializacion de la Aplicacion
+INFO:root: 2023-11-09 08:07:05.753184: Inicializacion de la Aplicacion
+INFO:root: 2023-11-09 08:07:13.545040: Se esta examinando el archivo
+INFO:root: 2023-11-09 08:51:04.207589: Se esta ejecutando la instalacion del servicio
+INFO:root: 2023-11-09 08:51:04.207589: Se establecio el inicio Automatico
+INFO:root: 2023-11-09 08:51:04.207589: Inicializacion De La instalacion del servicio
+INFO:root: 2023-11-09 08:51:04.207589: create "e-Flow MiddleWare Service"  binpath="C:/Entornos/Superintendencia - 04/PRODUCCION/Middleware/STE/bin/Sidesys.Services.ApplicationService.exe" obj=localsystem start=Auto 
+INFO:root: 2023-11-09 08:51:05.267413: El servicio e-Flow MiddleWare Service se ha instalado exitosamente
+INFO:root: 2023-11-09 08:51:05.267413: Finalizacion de la instalacion del servicio
+INFO:root: 2023-11-09 08:51:10.872437: Se esta ejecutando la instalacion del servicio
+INFO:root: 2023-11-09 08:51:10.872437: Se establecio el inicio Manual
+INFO:root: 2023-11-09 08:51:10.872437: Inicializacion De La instalacion del servicio
+INFO:root: 2023-11-09 08:51:10.872437: create "e-Flow MiddleWare Service"  binpath="C:/Entornos/Superintendencia - 04/PRODUCCION/Middleware/STE/bin/Sidesys.Services.ApplicationService.exe" obj=localsystem start=demand 
+INFO:root: 2023-11-09 08:51:11.015810: El servicio e-Flow MiddleWare Service se ha instalado exitosamente
+INFO:root: 2023-11-09 08:51:11.015810: Finalizacion de la instalacion del servicio
+INFO:root: 2023-11-09 09:13:30.264433: Inicializacion de la Aplicacion
+INFO:root: 2023-11-09 09:14:05.613220: Inicializacion de la Aplicacion
+INFO:root: 2023-11-09 09:14:46.622803: Inicializacion de la Aplicacion
+INFO:root: 2023-11-09 09:35:22.994913: Inicializacion de la Aplicacion
+INFO:root: 2023-11-09 09:36:03.691239: Inicializacion de la Aplicacion

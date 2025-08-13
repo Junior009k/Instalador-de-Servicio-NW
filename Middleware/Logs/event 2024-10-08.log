@@ -1,0 +1,21 @@
+INFO:root: 2024-10-08 08:22:33.375221: Inicializacion de la Aplicacion
+INFO:root: 2024-10-08 08:22:34.046489: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-08 08:22:34.046489: assert\QRes.exe /l
+INFO:root: 2024-10-08 08:22:34.076065: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-08 08:22:34.076065: assert\QRes.exe /l
+INFO:root: 2024-10-08 08:22:49.439165: Se comienza a modificar la ejecucion de la consola de sesion
+ERROR:root: 2024-10-08 08:22:49.439165: No se puede modificar el horario de el tiempo de ejecucion de tiempo de consola sin especificar el nombre la ruta
+INFO:root: 2024-10-08 08:22:52.767606: Se esta seleccionando el directorio para la carga de la sesion en consola
+INFO:root: 2024-10-08 08:22:55.508679: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.275/Codigo Fuente
+INFO:root: 2024-10-08 08:22:55.508679: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-10-08 08:22:59.733909: Se comienza a modificar la ejecucion de la consola de sesion
+INFO:root: 2024-10-08 08:22:59.733909: Se comienza a modificar la ejecucion del historico integrado paso correctamente
+INFO:root: 2024-10-08 08:22:59.733909: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.275\Codigo Fuente/Middleware/STE/ConfigFiles/IDE.config
+INFO:root: 2024-10-08 08:22:59.734920: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-10-08 08:22:59.734920: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.275\Codigo Fuente/FrontEnd/STE/Web.config
+INFO:root: 2024-10-08 08:22:59.734920: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-10-08 08:23:08.974453: Inicializacion de la Aplicacion
+INFO:root: 2024-10-08 08:23:09.142061: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-08 08:23:09.142061: assert\QRes.exe /l
+INFO:root: 2024-10-08 08:23:09.162143: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-08 08:23:09.162143: assert\QRes.exe /l

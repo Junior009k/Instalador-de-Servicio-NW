@@ -1,0 +1,126 @@
+INFO:root: 2024-07-12 14:38:04.354827: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 14:38:04.938356: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 14:38:04.938356: assert\QRes.exe /l
+INFO:root: 2024-07-12 14:38:04.965875: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 14:38:04.965875: assert\QRes.exe /l
+INFO:root: 2024-07-12 14:39:08.950671: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 14:39:09.068991: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 14:39:09.069510: assert\QRes.exe /l
+INFO:root: 2024-07-12 14:39:09.089368: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 14:39:09.089368: assert\QRes.exe /l
+INFO:root: 2024-07-12 14:43:46.335766: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 14:43:46.480215: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 14:43:46.480215: assert\QRes.exe /l
+INFO:root: 2024-07-12 14:43:46.506228: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 14:43:46.506228: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:11:55.171728: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:11:55.297302: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:11:55.297302: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:11:55.318385: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:11:55.319385: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:12:52.471861: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:12:52.584906: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:12:52.585915: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:12:52.606976: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:12:52.606976: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:16:31.182613: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:16:31.301641: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:16:31.301641: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:16:31.322388: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:16:31.322388: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:16:36.091584: Se ejecuta el metodo startingConfigureAutoLogon
+ERROR:root: 2024-07-12 16:16:36.092593: No se puede modificar El autologon sin especificar el nombre el nombre del usuario
+INFO:root: 2024-07-12 16:17:40.220635: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:17:40.336778: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:17:40.337781: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:17:40.358837: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:17:40.358837: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:18:18.637045: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-12 16:18:22.564272: Se selecciono el directorio 
+INFO:root: 2024-07-12 16:19:12.949190: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:19:13.064867: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:19:13.064867: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:19:13.087370: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:19:13.087370: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:19:38.338681: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:19:38.476426: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:19:38.476426: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:19:38.499076: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:19:38.499076: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:20:27.605190: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:20:27.721965: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:20:27.721965: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:20:27.742998: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:20:27.743996: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:20:32.184610: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-12 16:20:34.439609: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.116/Codigo Fuente
+INFO:root: 2024-07-12 16:21:03.641864: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:21:03.761271: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:21:03.761271: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:21:03.783274: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:21:03.783274: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:21:09.079244: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-12 16:21:11.001812: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.116/Codigo Fuente
+INFO:root: 2024-07-12 16:21:47.042901: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:21:47.183963: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:21:47.183963: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:21:47.207258: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:21:47.208285: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:21:52.084873: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-12 16:21:54.595557: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.116/Codigo Fuente
+INFO:root: 2024-07-12 16:23:51.979141: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:23:52.106740: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:23:52.106740: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:23:52.132949: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:23:52.133459: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:27:51.298197: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:27:51.418085: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:27:51.418085: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:27:51.440907: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:27:51.440907: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:29:46.307893: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:29:46.426978: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:29:46.426978: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:29:46.448192: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:29:46.448192: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:29:50.529732: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-12 16:29:52.705010: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.116/Codigo Fuente
+INFO:root: 2024-07-12 16:29:53.751384: Se ejecuta el metodo startingConfigureAutoLogon
+ERROR:root: 2024-07-12 16:29:53.752392: No se puede modificar El autologon sin especificar el nombre el nombre del usuario
+INFO:root: 2024-07-12 16:29:57.292973: Se ejecuta el metodo startingConfigureAutoLogon
+ERROR:root: 2024-07-12 16:29:57.292973: No se puede modificar El autologon sin especificar el nombre el nombre del usuario
+INFO:root: 2024-07-12 16:30:01.321512: Se ejecuta el metodo startingConfigureAutoLogon
+ERROR:root: 2024-07-12 16:30:01.321512: No se puede modificar El autologon sin especificar el nombre el nombre del usuario
+INFO:root: 2024-07-12 16:31:28.496585: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:31:28.613169: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:31:28.613169: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:31:28.634847: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:31:28.634847: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:32:37.521849: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:32:37.637260: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:32:37.637260: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:32:37.658140: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:32:37.659138: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:32:42.429899: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-12 16:32:44.470607: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.116/Codigo Fuente
+INFO:root: 2024-07-12 16:32:45.138008: Se ejecuta el metodo startingUnblockingFolder
+INFO:root: 2024-07-12 16:32:45.138560: Inicializacion del unblockFolder
+INFO:root: 2024-07-12 16:32:45.148150: powershell Get-ChildItem -Path 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.116\Codigo Fuente' -Recurse | Unblock-File
+INFO:root: 2024-07-12 16:32:45.148706: <os._wrap_close object at 0x0000021E2D8DF250>
+INFO:root: 2024-07-12 16:32:45.157734: Get-ChildItem -Path 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.116\Codigo Fuente' -Recurse -File | % { $_.IsReadOnly=$false }
+INFO:root: 2024-07-12 16:32:45.157734: <os._wrap_close object at 0x0000021E2D8DF6D0>
+INFO:root: 2024-07-12 16:32:45.157734: Finalizacion del unblockFolder
+INFO:root: 2024-07-12 16:40:31.446515: Inicializacion de la Aplicacion
+INFO:root: 2024-07-12 16:40:31.569127: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:40:31.569127: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:40:31.589221: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-12 16:40:31.589221: assert\QRes.exe /l
+INFO:root: 2024-07-12 16:40:37.212240: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-12 16:40:39.236465: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.116/Codigo Fuente
+INFO:root: 2024-07-12 16:40:39.944390: Se ejecuta el metodo startingUnblockingFolder
+INFO:root: 2024-07-12 16:40:39.945345: Inicializacion del unblockFolder
+INFO:root: 2024-07-12 16:40:39.955437: powershell "Get-ChildItem -Path 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.116\Codigo Fuente' -Recurse | Unblock-File"
+INFO:root: 2024-07-12 16:40:39.955437: <os._wrap_close object at 0x0000022979BDA250>
+INFO:root: 2024-07-12 16:40:39.965435: powershell "Get-ChildItem -Path 'C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.116\Codigo Fuente' -Recurse -File | % { $_.IsReadOnly=$false }"
+INFO:root: 2024-07-12 16:40:39.965435: <os._wrap_close object at 0x0000022979BDB1D0>
+INFO:root: 2024-07-12 16:40:39.965435: Finalizacion del unblockFolder

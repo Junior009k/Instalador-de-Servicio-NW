@@ -1,0 +1,156 @@
+INFO:root: 2024-11-08 08:13:10.450477: Inicializacion de la Aplicacion
+INFO:root: 2024-11-08 08:13:10.776830: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-08 08:13:10.776830: assert\QRes.exe /l
+INFO:root: 2024-11-08 08:13:10.817090: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-08 08:13:10.817090: assert\QRes.exe /l
+INFO:root: 2024-11-08 08:16:07.447678: Inicializacion de la Aplicacion
+INFO:root: 2024-11-08 08:16:07.691382: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-08 08:16:07.691382: assert\QRes.exe /l
+INFO:root: 2024-11-08 08:16:07.739815: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-08 08:16:07.739815: assert\QRes.exe /l
+INFO:root: 2024-11-08 08:16:15.707800: Se comienza a diagnosticar el MailServer
+INFO:root: 2024-11-08 08:16:15.707800: Se comienza a Diagnosticar el mail server
+INFO:root: 2024-11-08 08:16:15.707800: Inicializacion del tnc
+INFO:root: 2024-11-08 08:16:15.707800:empezando la consulta en poweshell
+INFO:root: 2024-11-08 08:16:15.708812:powershell tnc h -port h
+ERROR:root: 2024-11-08 08:16:22.360120:error al realizar la consulta en powershell Test-NetConnection : No se puede procesar la transformaci¢n del argumento del par metro 'Port'. No se puede convertir el valor "h" al tipo "System.Int32". Error: 
+"La cadena de entrada no tiene el formato correcto."
+En l¡nea: 1 Car cter: 13
++ tnc h -port h
++             ~
+    + CategoryInfo          : InvalidData: (:) [Test-NetConnection], ParameterBindingArgumentTransformationException
+    + FullyQualifiedErrorId : ParameterArgumentTransformationError,Test-NetConnection
+ 
+
+INFO:root: 2024-11-08 08:16:22.360120: powershell tnc h -port h
+INFO:root: 2024-11-08 08:16:22.360120: 
+INFO:root: 2024-11-08 08:16:22.360120: Finalizacion del tnc
+INFO:root: 2024-11-08 08:16:22.360120:empezando la consulta en poweshell
+INFO:root: 2024-11-08 08:16:22.363135:
+                       $SMTPServer = "h"
+                       $SMTPPort =h
+                       $Username = "h"
+                       $Password = "h"
+                       $From = "h"
+                       $To = "h"
+                       $Subject = "Correo enviado desde el instalador de servicio"
+                       $Body = "Configuracion de correo exitosa"
+
+                       # Crear las credenciales
+                       $SecurePassword = ConvertTo-SecureString $Password -AsPlainText -Force
+                       $Credential = New-Object System.Management.Automation.PSCredential($Username, $SecurePassword)
+
+                       # Enviar el correo
+                       Send-MailMessage -SmtpServer $SMTPServer -Port $SMTPPort -Credential $Credential -From $From -To $To -Subject $Subject -Body $Body -UseSsl
+                       
+                       
+ERROR:root: 2024-11-08 08:16:25.710393:error al realizar la consulta en powershell Send-MailMessage : No se puede validar el argumento del par metro 'Port'. El argumento es NULL, est  vac¡o o un elemento de la colecci¢n de argumentos contiene 
+un valor NULL. Proporcione una colecci¢n que no contenga ning£n valor NULL e intente ejecutar el comando de nuevo.
+En l¡nea: 17 Car cter: 71
++ ...      Send-MailMessage -SmtpServer $SMTPServer -Port $SMTPPort -Creden ...
++                                                         ~~~~~~~~~
+    + CategoryInfo          : InvalidData: (:) [Send-MailMessage], ParameterBindingValidationException
+    + FullyQualifiedErrorId : ParameterArgumentValidationError,Microsoft.PowerShell.Commands.SendMailMessage
+ 
+
+INFO:root: 2024-11-08 08:18:12.036464: Se comienza a diagnosticar el MailServer
+INFO:root: 2024-11-08 08:18:12.036464: Se comienza a Diagnosticar el mail server
+INFO:root: 2024-11-08 08:18:12.036464: Inicializacion del tnc
+INFO:root: 2024-11-08 08:18:12.036464:empezando la consulta en poweshell
+INFO:root: 2024-11-08 08:18:12.036464:powershell tnc smtp.gmail.com -port 587
+INFO:root: 2024-11-08 08:18:22.523141: powershell tnc smtp.gmail.com -port 587
+INFO:root: 2024-11-08 08:18:22.523141: 
+
+ComputerName     : smtp.gmail.com
+RemoteAddress    : 2607:f8b0:400c:c01::6c
+RemotePort       : 587
+InterfaceAlias   : Wi-Fi
+SourceAddress    : 2803:9810:a3a2:5610::39d
+TcpTestSucceeded : True
+
+
+
+
+INFO:root: 2024-11-08 08:18:22.523141: Finalizacion del tnc
+INFO:root: 2024-11-08 08:18:22.523141:empezando la consulta en poweshell
+INFO:root: 2024-11-08 08:18:22.523141:
+                       $SMTPServer = "smtp.gmail.com"
+                       $SMTPPort =587
+                       $Username = "junior.sidesys@gmail.com"
+                       $Password = "hlow lzmu fcff ywyy"
+                       $From = "junior.sidesys@gmail.com"
+                       $To = "junior.sidesys@gmail.com"
+                       $Subject = "Correo enviado desde el instalador de servicio"
+                       $Body = "Configuracion de correo exitosa"
+
+                       # Crear las credenciales
+                       $SecurePassword = ConvertTo-SecureString $Password -AsPlainText -Force
+                       $Credential = New-Object System.Management.Automation.PSCredential($Username, $SecurePassword)
+
+                       # Enviar el correo
+                       Send-MailMessage -SmtpServer $SMTPServer -Port $SMTPPort -Credential $Credential -From $From -To $To -Subject $Subject -Body $Body -UseSsl
+                       
+                       
+INFO:root: 2024-11-08 08:25:17.530134: Inicializacion de la Aplicacion
+INFO:root: 2024-11-08 08:25:17.754622: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-08 08:25:17.754622: assert\QRes.exe /l
+INFO:root: 2024-11-08 08:25:17.792242: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-08 08:25:17.792242: assert\QRes.exe /l
+INFO:root: 2024-11-08 08:25:21.769900: Se comienza a diagnosticar el MailServer
+ERROR:root: 2024-11-08 08:25:27.904691: No se puede modificar MailServer sin especificar el nombre del servidor
+ERROR:root: 2024-11-08 08:25:29.338765: No se puede modificar MailServer sin especificar el nombre del puerto
+ERROR:root: 2024-11-08 08:25:30.260603: No se puede modificar MailServer sin especificar el nombre del correo
+ERROR:root: 2024-11-08 08:25:31.033836: No se puede modificar MailServer sin especificar el nombre del sitio de e-Flow
+INFO:root: 2024-11-08 08:26:39.524854: Inicializacion de la Aplicacion
+INFO:root: 2024-11-08 08:26:39.809690: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-08 08:26:39.809690: assert\QRes.exe /l
+INFO:root: 2024-11-08 08:26:39.867549: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-08 08:26:39.868550: assert\QRes.exe /l
+INFO:root: 2024-11-08 08:26:44.685624: Se comienza a diagnosticar el MailServer
+ERROR:root: 2024-11-08 08:26:46.930298: No se puede modificar MailServer sin especificar el nombre del servidor
+ERROR:root: 2024-11-08 08:26:48.968495: No se puede modificar MailServer sin especificar el nombre del puerto
+ERROR:root: 2024-11-08 08:26:50.073767: No se puede modificar MailServer sin especificar el nombre del correo
+ERROR:root: 2024-11-08 08:26:50.889856: No se puede modificar MailServer sin especificar el nombre del sitio de e-Flow
+INFO:root: 2024-11-08 08:28:15.799611: Inicializacion de la Aplicacion
+INFO:root: 2024-11-08 08:28:16.068273: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-08 08:28:16.069089: assert\QRes.exe /l
+INFO:root: 2024-11-08 08:28:16.115281: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-11-08 08:28:16.115281: assert\QRes.exe /l
+INFO:root: 2024-11-08 08:29:18.520180: Se comienza a diagnosticar el MailServer
+INFO:root: 2024-11-08 08:29:32.130756: Se comienza a Diagnosticar el mail server
+INFO:root: 2024-11-08 08:29:32.130756: Inicializacion del tnc
+INFO:root: 2024-11-08 08:29:32.130756:empezando la consulta en poweshell
+INFO:root: 2024-11-08 08:29:32.130756:powershell tnc smtp.gmail.com -port 587
+INFO:root: 2024-11-08 08:29:42.439694: powershell tnc smtp.gmail.com -port 587
+INFO:root: 2024-11-08 08:29:42.444715: 
+
+ComputerName     : smtp.gmail.com
+RemoteAddress    : 2607:f8b0:400c:c01::6d
+RemotePort       : 587
+InterfaceAlias   : Wi-Fi
+SourceAddress    : 2803:9810:a3a2:5610::39d
+TcpTestSucceeded : True
+
+
+
+
+INFO:root: 2024-11-08 08:29:42.444715: Finalizacion del tnc
+INFO:root: 2024-11-08 08:29:42.444715:empezando la consulta en poweshell
+INFO:root: 2024-11-08 08:29:42.444715:
+                       $SMTPServer = "smtp.gmail.com"
+                       $SMTPPort =587
+                       $Username = "junior.sidesys@gmail.com"
+                       $Password = "hlow lzmu fcff ywyy"
+                       $From = "junior.sidesys@gmail.com"
+                       $To = "junior.aquino@sidesys.com"
+                       $Subject = "Correo enviado desde el instalador de servicio"
+                       $Body = "Configuracion de correo exitosa"
+
+                       # Crear las credenciales
+                       $SecurePassword = ConvertTo-SecureString $Password -AsPlainText -Force
+                       $Credential = New-Object System.Management.Automation.PSCredential($Username, $SecurePassword)
+
+                       # Enviar el correo
+                       Send-MailMessage -SmtpServer $SMTPServer -Port $SMTPPort -Credential $Credential -From $From -To $To -Subject $Subject -Body $Body -UseSsl
+                       
+                       

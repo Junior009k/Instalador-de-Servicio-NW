@@ -1,0 +1,424 @@
+INFO:root: 2023-12-21 09:16:22.595597: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 10:44:01.203135: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 10:44:31.249258: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 12:24:11.019089: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 12:25:29.409002: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 12:25:34.026389: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 12:25:38.736188: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 13:58:58.985736: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 13:58:59.832022: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 13:58:59.832022: assert\QRes.exe /l
+INFO:root: 2023-12-21 13:59:04.347519: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 13:59:42.207393: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 13:59:42.469180: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 13:59:42.469180: assert\QRes.exe /l
+INFO:root: 2023-12-21 13:59:47.899097: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 14:06:59.023545: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:06:59.505989: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:06:59.506989: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:07:05.391757: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 14:07:05.391757: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:07:09.079424: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 14:07:09.079424: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:08:32.955579: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:08:33.255332: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:08:33.255332: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:08:39.015479: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 14:08:39.015479: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:12:15.479518: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:12:15.813459: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:12:15.813459: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:12:20.562722: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 14:12:20.562722: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:12:20.562722:valor x:1280 y:768
+INFO:root: 2023-12-21 14:12:22.046864: assert\QRes.exe /x 1280 /y 768
+INFO:root: 2023-12-21 14:12:29.777055: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 14:12:29.777055: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:12:29.777055:valor x:640 y:400
+INFO:root: 2023-12-21 14:12:31.164210: assert\QRes.exe /x 640 /y 400
+INFO:root: 2023-12-21 14:12:40.465348: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 14:12:40.465348: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:12:40.465348:valor x:1366 y:768
+INFO:root: 2023-12-21 14:12:41.998672: assert\QRes.exe /x 1366 /y 768
+INFO:root: 2023-12-21 14:12:49.426273: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 14:12:49.426273: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:12:49.426273:valor x:1024 y:768
+INFO:root: 2023-12-21 14:12:50.831325: assert\QRes.exe /x 1024 /y 768
+INFO:root: 2023-12-21 14:12:57.255268: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 14:12:57.255268: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:12:57.255268:valor x:1360 y:768
+INFO:root: 2023-12-21 14:12:57.670314: assert\QRes.exe /x 1360 /y 768
+INFO:root: 2023-12-21 14:13:05.279108: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 14:13:05.279108: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:13:05.279108:valor x:1366 y:768
+INFO:root: 2023-12-21 14:13:06.851529: assert\QRes.exe /x 1366 /y 768
+INFO:root: 2023-12-21 14:14:45.146074: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:14:45.531985: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:14:45.531985: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:14:53.031716: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:14:53.396170: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:14:53.396170: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:15:03.099465: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 14:15:03.099465: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:15:03.099465:valor x:1280 y:768
+INFO:root: 2023-12-21 14:15:04.596216: assert\QRes.exe /x 1280 /y 768
+INFO:root: 2023-12-21 14:15:04.596216: QRes v1.1
+Copyright (C) Anders Kjersem.
+
+Mode Ok...
+
+INFO:root: 2023-12-21 14:15:15.085727: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 14:15:15.085727: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:15:15.085727:valor x:640 y:400
+INFO:root: 2023-12-21 14:15:15.480899: assert\QRes.exe /x 640 /y 400
+INFO:root: 2023-12-21 14:15:15.480899: QRes v1.1
+Copyright (C) Anders Kjersem.
+
+Mode Ok...
+
+INFO:root: 2023-12-21 14:15:26.609781: Se ejecuta el metodo startingConfigureResolution
+INFO:root: 2023-12-21 14:15:26.609781: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:15:26.609781:valor x:1366 y:768
+INFO:root: 2023-12-21 14:15:28.108244: assert\QRes.exe /x 1366 /y 768
+INFO:root: 2023-12-21 14:15:28.108244: QRes v1.1
+Copyright (C) Anders Kjersem.
+
+Mode Ok...
+
+INFO:root: 2023-12-21 14:21:51.632524: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:21:52.001518: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:21:52.001518: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:28:02.809850: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:28:03.324783: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:28:03.324783: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:28:13.934353: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:28:14.298487: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:28:14.298487: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:28:24.975465: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 14:29:35.995935: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:29:36.255859: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:29:36.255859: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:29:43.564257: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 14:29:43.564257: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 14:29:43.564257: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v AutoAdminLogon /t REG_DWORD /d 1 /f -f'
+INFO:root: 2023-12-21 14:29:47.003893: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultUserName /t REG_DWORD /d fgsdfs /f -f'
+INFO:root: 2023-12-21 14:29:48.543185: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v DefaultDomainName /t REG_DWORD /d sg /f -f'
+INFO:root: 2023-12-21 14:29:50.121308: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultPassword /t REG_DWORD /d sgsdf /f -f'
+INFO:root: 2023-12-21 14:29:51.685915: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 14:41:12.157364: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:41:12.677675: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:41:12.677675: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:41:19.819422: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 14:41:19.819422: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 14:41:19.819422: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v AutoAdminLogon /t REG_DWORD /d 1 /f -f'
+INFO:root: 2023-12-21 14:42:05.771350: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:42:06.110380: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:42:06.111380: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:42:13.004751: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 14:42:13.004751: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 14:42:13.004751: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v AutoAdminLogon /t REG_DWORD /d 1 /f -f'
+INFO:root: 2023-12-21 14:42:14.578819: 
+INFO:root: 2023-12-21 14:42:14.578819: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultUserName /t REG_DWORD /d fasd /f -f'
+INFO:root: 2023-12-21 14:42:16.148498: 
+INFO:root: 2023-12-21 14:42:16.148498: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v DefaultDomainName /t REG_DWORD /d asdf /f -f'
+INFO:root: 2023-12-21 14:42:17.724943: 
+INFO:root: 2023-12-21 14:42:17.724943: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultPassword /t REG_DWORD /d asdf /f -f'
+INFO:root: 2023-12-21 14:42:19.341832: 
+INFO:root: 2023-12-21 14:42:19.341832: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 14:47:41.778496: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:47:42.032050: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:47:42.032050: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:48:00.584788: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 14:48:00.584788: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 14:48:00.584788: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"' /v AutoAdminLogon /t REG_DWORD /d 1 /f -f
+INFO:root: 2023-12-21 14:48:02.544604: 
+INFO:root: 2023-12-21 14:48:02.544604: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"' /v defaultUserName /t REG_DWORD /d jaquino /f -f
+INFO:root: 2023-12-21 14:48:04.814650: 
+INFO:root: 2023-12-21 14:48:04.814650: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"' /v DefaultDomainName /t REG_DWORD /d cpsol /f -f
+INFO:root: 2023-12-21 14:48:06.533049: 
+INFO:root: 2023-12-21 14:48:06.533049: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"' /v defaultPassword /t REG_DWORD /d Sidesys*2023$ /f -f
+INFO:root: 2023-12-21 14:48:08.177161: 
+INFO:root: 2023-12-21 14:48:08.177161: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 14:50:11.337336: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:50:11.637882: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:50:11.637882: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:50:23.063722: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 14:50:23.063722: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 14:50:23.063722: powershell reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v AutoAdminLogon /t REG_DWORD /d 1 /f -f
+INFO:root: 2023-12-21 14:50:25.653424: The string is missing the terminator: '.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : TerminatorExpectedAtEndOfString
+ 
+
+INFO:root: 2023-12-21 14:50:25.653424: powershell reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultUserName /t REG_DWORD /d junior /f -f
+INFO:root: 2023-12-21 14:50:27.663567: The string is missing the terminator: '.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : TerminatorExpectedAtEndOfString
+ 
+
+INFO:root: 2023-12-21 14:50:27.663567: powershell reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v DefaultDomainName /t REG_DWORD /d ds /f -f
+INFO:root: 2023-12-21 14:50:29.749700: The string is missing the terminator: '.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : TerminatorExpectedAtEndOfString
+ 
+
+INFO:root: 2023-12-21 14:50:29.749700: powershell reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultPassword /t REG_DWORD /d afsd /f -f
+INFO:root: 2023-12-21 14:50:31.739279: The string is missing the terminator: '.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : TerminatorExpectedAtEndOfString
+ 
+
+INFO:root: 2023-12-21 14:50:31.739279: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 14:54:36.734656: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:54:37.022986: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:54:37.022986: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:54:43.528544: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 14:54:43.528544: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 14:54:43.528544: powershell reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v AutoAdminLogon /t REG_DWORD /d 1 /f -f
+INFO:root: 2023-12-21 14:54:45.417078: 
+INFO:root: 2023-12-21 14:54:45.417078: powershell reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultUserName /t REG_DWORD /d asdf /f -f
+INFO:root: 2023-12-21 14:54:47.247932: 
+INFO:root: 2023-12-21 14:54:47.248932: powershell reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v DefaultDomainName /t REG_DWORD /d asdf /f -f
+INFO:root: 2023-12-21 14:54:49.047186: 
+INFO:root: 2023-12-21 14:54:49.047186: powershell reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultPassword /t REG_DWORD /d asdf /f -f
+INFO:root: 2023-12-21 14:54:51.042038: 
+INFO:root: 2023-12-21 14:54:51.042038: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 14:56:01.519195: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:56:01.925809: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:56:01.925809: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:56:08.524899: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 14:56:08.524899: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 14:56:08.524899: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v AutoAdminLogon /t REG_DWORD /d 1 /f -f'
+INFO:root: 2023-12-21 14:56:10.470557: 
+INFO:root: 2023-12-21 14:56:10.470557: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultUserName /t REG_DWORD /d sdaf /f -f'
+INFO:root: 2023-12-21 14:56:12.213778: 
+INFO:root: 2023-12-21 14:56:12.213778: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v DefaultDomainName /t REG_DWORD /d asdf /f -f'
+INFO:root: 2023-12-21 14:56:13.864890: 
+INFO:root: 2023-12-21 14:56:13.864890: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultPassword /t REG_DWORD /d asdf /f -f'
+INFO:root: 2023-12-21 14:56:15.547569: 
+INFO:root: 2023-12-21 14:56:15.547569: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 14:57:10.138172: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:57:10.346224: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:57:10.346224: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:57:16.011730: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 14:57:16.011730: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 14:57:16.011730: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v AutoAdminLogon /t REG_DWORD /d 1 /f -f'
+INFO:root: 2023-12-21 14:57:17.483545: The operation completed successfully.
+
+
+INFO:root: 2023-12-21 14:57:17.483545: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultUserName /t REG_DWORD /d asdf /f -f'
+INFO:root: 2023-12-21 14:57:18.901332: The operation completed successfully.
+
+
+INFO:root: 2023-12-21 14:57:18.909359: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v DefaultDomainName /t REG_DWORD /d asdf /f -f'
+INFO:root: 2023-12-21 14:57:20.466975: The operation completed successfully.
+
+
+INFO:root: 2023-12-21 14:57:20.466975: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultPassword /t REG_DWORD /d asdf /f -f'
+INFO:root: 2023-12-21 14:57:21.867928: The operation completed successfully.
+
+
+INFO:root: 2023-12-21 14:57:21.867928: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 14:58:58.322573: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 14:58:58.535894: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 14:58:58.535894: assert\QRes.exe /l
+INFO:root: 2023-12-21 14:59:06.846975: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 14:59:06.846975: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 14:59:06.846975: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"' /v AutoAdminLogon /t REG_DWORD /d 1 /f -f
+INFO:root: 2023-12-21 14:59:08.790807: 
+INFO:root: 2023-12-21 14:59:08.790807: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"' /v defaultUserName /t REG_DWORD /d adfs /f -f
+INFO:root: 2023-12-21 14:59:10.398108: 
+INFO:root: 2023-12-21 14:59:10.398108: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"' /v DefaultDomainName /t REG_DWORD /d asdf /f -f
+INFO:root: 2023-12-21 14:59:11.831812: 
+INFO:root: 2023-12-21 14:59:11.832812: powershell reg add '"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"' /v defaultPassword /t REG_DWORD /d asfd /f -f
+INFO:root: 2023-12-21 14:59:13.330343: 
+INFO:root: 2023-12-21 14:59:13.330343: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 15:00:22.209333: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 15:00:22.402119: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 15:00:22.402119: assert\QRes.exe /l
+INFO:root: 2023-12-21 15:00:28.380073: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 15:00:28.380073: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 15:00:28.380073: powershell ' reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"' /v AutoAdminLogon /t REG_DWORD /d 1 /f -f
+INFO:root: 2023-12-21 15:00:30.595974: At line:1 char:86
++ ... HINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' /v AutoAd ...
++                                                                  ~
+You must provide a value expression following the '/' operator.
+At line:1 char:86
++ ... INE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' /v AutoAdm ...
++                                                                 ~
+Unexpected token 'v' in expression or statement.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : ExpectedValueExpression
+ 
+
+INFO:root: 2023-12-21 15:00:30.595974: powershell ' reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"' /v defaultUserName /t REG_DWORD /d asdf /f -f
+INFO:root: 2023-12-21 15:00:32.337662: At line:1 char:86
++ ... HINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' /v defaul ...
++                                                                  ~
+You must provide a value expression following the '/' operator.
+At line:1 char:86
++ ... INE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' /v default ...
++                                                                 ~
+Unexpected token 'v' in expression or statement.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : ExpectedValueExpression
+ 
+
+INFO:root: 2023-12-21 15:00:32.337662: powershell ' reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"' /v DefaultDomainName /t REG_DWORD /d asdf /f -f
+INFO:root: 2023-12-21 15:00:34.073061: At line:1 char:86
++ ... HINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' /v Defaul ...
++                                                                  ~
+You must provide a value expression following the '/' operator.
+At line:1 char:86
++ ... INE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' /v Default ...
++                                                                 ~
+Unexpected token 'v' in expression or statement.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : ExpectedValueExpression
+ 
+
+INFO:root: 2023-12-21 15:00:34.073061: powershell ' reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"' /v defaultPassword /t REG_DWORD /d asfd /f -f
+INFO:root: 2023-12-21 15:00:35.792132: At line:1 char:86
++ ... HINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' /v defaul ...
++                                                                  ~
+You must provide a value expression following the '/' operator.
+At line:1 char:86
++ ... INE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' /v default ...
++                                                                 ~
+Unexpected token 'v' in expression or statement.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : ExpectedValueExpression
+ 
+
+INFO:root: 2023-12-21 15:00:35.792132: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 15:04:15.462423: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 15:04:15.731838: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 15:04:15.732838: assert\QRes.exe /l
+INFO:root: 2023-12-21 15:04:25.800262: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 15:04:25.801262: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 15:04:25.801262: powershell ' reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v AutoAdminLogon /t REG_DWORD /d 1 /f -f'
+INFO:root: 2023-12-21 15:04:27.682790:  reg add HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon /v AutoAdminLogon /t REG_DWORD /d 1 /f -f
+
+INFO:root: 2023-12-21 15:04:27.683791: powershell ' reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultUserName /t REG_DWORD /d asdf /f -f'
+INFO:root: 2023-12-21 15:04:29.850137:  reg add HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon /v defaultUserName /t REG_DWORD /d asdf /f -f
+
+INFO:root: 2023-12-21 15:04:29.850137: powershell ' reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v DefaultDomainName /t REG_DWORD /d asdf /f -f'
+INFO:root: 2023-12-21 15:04:31.421220:  reg add HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon /v DefaultDomainName /t REG_DWORD /d asdf /f -f
+
+INFO:root: 2023-12-21 15:04:31.422204: powershell ' reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultPassword /t REG_DWORD /d adfs /f -f'
+INFO:root: 2023-12-21 15:04:32.930273:  reg add HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon /v defaultPassword /t REG_DWORD /d adfs /f -f
+
+INFO:root: 2023-12-21 15:04:32.931272: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 15:08:39.496370: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 15:08:39.719311: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 15:08:39.719311: assert\QRes.exe /l
+INFO:root: 2023-12-21 15:08:45.543034: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 15:08:45.544055: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 15:08:45.544055: powershell '  Set-ItemProperty "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v AutoAdminLogon /t REG_DWORD /d 1 /f -f'
+INFO:root: 2023-12-21 15:08:47.051191:  Set-ItemProperty HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon /v AutoAdminLogon /t REG_DWORD /d 1 /f -f
+
+INFO:root: 2023-12-21 15:08:47.051191: powershell '  Set-ItemProperty "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultUserName /t REG_DWORD /d asdf /f -f'
+INFO:root: 2023-12-21 15:08:48.846364:  Set-ItemProperty HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon /v defaultUserName /t REG_DWORD /d asdf /f -f
+
+INFO:root: 2023-12-21 15:08:48.847364: powershell '  Set-ItemProperty "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v DefaultDomainName /t REG_DWORD /d asdf /f -f'
+INFO:root: 2023-12-21 15:08:50.675604:  Set-ItemProperty HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon /v DefaultDomainName /t REG_DWORD /d asdf /f -f
+
+INFO:root: 2023-12-21 15:08:50.675604: powershell '  Set-ItemProperty "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v defaultPassword /t REG_DWORD /d asdf /f -f'
+INFO:root: 2023-12-21 15:08:52.045713:  Set-ItemProperty HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon /v defaultPassword /t REG_DWORD /d asdf /f -f
+
+INFO:root: 2023-12-21 15:08:52.045713: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 16:08:25.590581: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 16:08:26.701486: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 16:08:26.701486: assert\QRes.exe /l
+INFO:root: 2023-12-21 16:08:27.472543: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 16:08:47.348558: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 16:08:47.617839: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 16:08:47.617839: assert\QRes.exe /l
+INFO:root: 2023-12-21 16:09:14.719003: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 16:09:14.719003: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 16:09:14.719003: powershell   Set-ItemProperty -Path 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon'-Name 'AutoAdminLogon' -Value '1' -f
+INFO:root: 2023-12-21 16:09:16.834671: Set-ItemProperty : Parameter cannot be processed because the parameter name 'f' is ambiguous. Possible matches include: -Force -Filter.
+At line:1 char:133
++ ... dows NT\CurrentVersion\Winlogon' -Name 'AutoAdminLogon' -Value '1' -f
++                                                                        ~~
+    + CategoryInfo          : InvalidArgument: (:) [Set-ItemProperty], ParameterBindingException
+    + FullyQualifiedErrorId : AmbiguousParameter,Microsoft.PowerShell.Commands.SetItemPropertyCommand
+ 
+
+INFO:root: 2023-12-21 16:09:16.834671: powershell   Set-ItemProperty -Path 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultUserName' -Value 'ga'
+INFO:root: 2023-12-21 16:09:18.973993: Set-ItemProperty : Cannot find path 'C:\Instalador de Servicio\Instalador Servicio Unicos V0.100\Codigo Fuente\FrontEnd\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows 
+NT\CurrentVersion\Winlogon' because it does not exist.
+At line:1 char:1
++ Set-ItemProperty -Path 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Instalador d...ersion\Winlogon:String) [Set-ItemProperty], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetItemPropertyCommand
+ 
+
+INFO:root: 2023-12-21 16:09:18.973993: powershell   Set-ItemProperty -Path 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultPassword' -Value 'ga'
+INFO:root: 2023-12-21 16:09:20.981506: Set-ItemProperty : Cannot find path 'C:\Instalador de Servicio\Instalador Servicio Unicos V0.100\Codigo Fuente\FrontEnd\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows 
+NT\CurrentVersion\Winlogon' because it does not exist.
+At line:1 char:1
++ Set-ItemProperty -Path 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Instalador d...ersion\Winlogon:String) [Set-ItemProperty], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetItemPropertyCommand
+ 
+
+INFO:root: 2023-12-21 16:09:20.981506: powershell   Set-ItemProperty -Path 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultDomainName' -Value 'ga'
+INFO:root: 2023-12-21 16:09:22.990200: Set-ItemProperty : Cannot find path 'C:\Instalador de Servicio\Instalador Servicio Unicos V0.100\Codigo Fuente\FrontEnd\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows 
+NT\CurrentVersion\Winlogon' because it does not exist.
+At line:1 char:1
++ Set-ItemProperty -Path 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Instalador d...ersion\Winlogon:String) [Set-ItemProperty], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetItemPropertyCommand
+ 
+
+INFO:root: 2023-12-21 16:09:22.990200: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 16:11:52.896812: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 16:11:53.113635: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 16:11:53.113635: assert\QRes.exe /l
+INFO:root: 2023-12-21 16:12:01.623192: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 16:12:01.623192: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 16:12:01.623192: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon'-Name 'AutoAdminLogon' -Value '1' -f
+INFO:root: 2023-12-21 16:12:05.201497: Set-ItemProperty : Parameter cannot be processed because the parameter name 'f' is ambiguous. Possible matches include: -Force -Filter.
+At line:1 char:120
++ ... dows NT\CurrentVersion\Winlogon' -Name 'AutoAdminLogon' -Value '1' -f
++                                                                        ~~
+    + CategoryInfo          : InvalidArgument: (:) [Set-ItemProperty], ParameterBindingException
+    + FullyQualifiedErrorId : AmbiguousParameter,Microsoft.PowerShell.Commands.SetItemPropertyCommand
+ 
+
+INFO:root: 2023-12-21 16:12:05.201497: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultUserName' -Value 'asd'
+INFO:root: 2023-12-21 16:12:06.996786: 
+INFO:root: 2023-12-21 16:12:06.996786: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultPassword' -Value 'asd'
+INFO:root: 2023-12-21 16:12:08.745103: 
+INFO:root: 2023-12-21 16:12:08.745103: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultDomainName' -Value 'asd'
+INFO:root: 2023-12-21 16:12:10.540590: 
+INFO:root: 2023-12-21 16:12:10.540590: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 16:13:50.038535: Inicializacion de la Aplicacion
+INFO:root: 2023-12-21 16:13:50.309640: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2023-12-21 16:13:50.309640: assert\QRes.exe /l
+INFO:root: 2023-12-21 16:14:02.743398: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 16:14:02.743398: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 16:14:02.743398: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon'-Name 'AutoAdminLogon' -Value '1'
+INFO:root: 2023-12-21 16:14:05.034623: 
+INFO:root: 2023-12-21 16:14:05.034623: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultUserName' -Value 'fdafd'
+INFO:root: 2023-12-21 16:14:07.041863: 
+INFO:root: 2023-12-21 16:14:07.041863: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultPassword' -Value 'asdf'
+INFO:root: 2023-12-21 16:14:09.272671: 
+INFO:root: 2023-12-21 16:14:09.272671: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultDomainName' -Value 'sadf'
+INFO:root: 2023-12-21 16:14:11.119595: 
+INFO:root: 2023-12-21 16:14:11.119595: Finalizacion del configurador de autologon
+INFO:root: 2023-12-21 16:14:34.783590: Se ejecuta el metodo startingConfigureAutoLogon
+INFO:root: 2023-12-21 16:14:34.783590: Inicializacion del configurador de autologon
+INFO:root: 2023-12-21 16:14:34.783590: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon'-Name 'AutoAdminLogon' -Value '1'
+INFO:root: 2023-12-21 16:14:36.495000: 
+INFO:root: 2023-12-21 16:14:36.495000: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultUserName' -Value 'jaquino'
+INFO:root: 2023-12-21 16:14:38.307087: 
+INFO:root: 2023-12-21 16:14:38.313594: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultPassword' -Value 'Sidesys*2023$'
+INFO:root: 2023-12-21 16:14:40.051798: 
+INFO:root: 2023-12-21 16:14:40.051798: powershell   Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'DefaultDomainName' -Value 'cpsol'
+INFO:root: 2023-12-21 16:14:41.799520: 
+INFO:root: 2023-12-21 16:14:41.799520: Finalizacion del configurador de autologon

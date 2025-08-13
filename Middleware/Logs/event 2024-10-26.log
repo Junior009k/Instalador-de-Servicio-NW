@@ -1,0 +1,113 @@
+INFO:root: 2024-10-26 14:41:06.470891: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 14:41:07.067141: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:41:07.067141: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:41:07.087315: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:41:07.087315: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:45:22.927242: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 14:45:23.092705: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:45:23.093700: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:45:23.117930: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:45:23.117930: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:47:18.738168: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 14:47:18.916353: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:47:18.916353: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:47:18.944041: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:47:18.944041: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:48:17.015655: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 14:48:17.197114: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:48:17.197114: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:48:17.225211: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:48:17.225211: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:54:19.224414: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 14:54:19.411945: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:54:19.411945: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:54:19.437490: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:54:19.437490: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:55:05.440374: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 14:55:05.605789: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:55:05.605789: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:55:05.630867: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:55:05.630867: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:55:13.823542: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 14:55:14.060972: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:55:14.060972: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:55:14.087506: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:55:14.087506: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:55:52.191429: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 14:55:52.374193: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:55:52.375194: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:55:52.413881: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:55:52.414881: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:56:03.189943: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 14:56:03.356522: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:56:03.356522: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:56:03.384188: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:56:03.384188: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:56:23.192556: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 14:56:23.350534: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:56:23.351533: assert\QRes.exe /l
+INFO:root: 2024-10-26 14:56:23.374073: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 14:56:23.374073: assert\QRes.exe /l
+INFO:root: 2024-10-26 15:08:49.123529: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 15:08:49.307583: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 15:08:49.307583: assert\QRes.exe /l
+INFO:root: 2024-10-26 15:08:49.337294: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 15:08:49.337294: assert\QRes.exe /l
+ERROR:root: 2024-10-26 15:08:54.722291: No se puede modificar suite sin especificar el nombre la ruta
+INFO:root: 2024-10-26 15:09:04.542106: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-10-26 15:09:06.544941: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.275/Codigo Fuente
+INFO:root: 2024-10-26 15:09:07.992541: Validando configuracion de la bbdd de suite
+INFO:root: 2024-10-26 15:09:18.689374: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 15:09:18.842333: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 15:09:18.842333: assert\QRes.exe /l
+INFO:root: 2024-10-26 15:09:18.867428: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 15:09:18.867428: assert\QRes.exe /l
+INFO:root: 2024-10-26 15:11:56.129921: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 15:11:56.307522: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 15:11:56.307522: assert\QRes.exe /l
+INFO:root: 2024-10-26 15:11:56.342569: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 15:11:56.342569: assert\QRes.exe /l
+ERROR:root: 2024-10-26 15:12:03.307346: No se puede modificar suite sin especificar el nombre la ruta
+INFO:root: 2024-10-26 15:14:51.124891: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 15:14:51.283191: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 15:14:51.283191: assert\QRes.exe /l
+INFO:root: 2024-10-26 15:14:51.310037: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 15:14:51.310037: assert\QRes.exe /l
+INFO:root: 2024-10-26 15:14:55.158333: Se comienza a modificar  la bbdd
+ERROR:root: 2024-10-26 15:14:55.158333: No se puede modificar suite sin especificar el nombre la ruta
+INFO:root: 2024-10-26 15:14:57.717873: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-10-26 15:14:59.509888: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.275/Codigo Fuente
+INFO:root: 2024-10-26 15:15:02.435981: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-10-26 15:15:04.307068: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.275/Codigo Fuente
+INFO:root: 2024-10-26 15:15:15.146107: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-10-26 15:15:18.369921: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.275/Codigo Fuente/Middleware
+INFO:root: 2024-10-26 15:15:21.729020: Se comienza a modificar  la bbdd
+INFO:root: 2024-10-26 15:15:21.729020: Validando configuracion de la bbdd de suite
+INFO:root: 2024-10-26 15:15:51.304367: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 15:15:51.486643: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 15:15:51.486643: assert\QRes.exe /l
+INFO:root: 2024-10-26 15:15:51.512416: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 15:15:51.512416: assert\QRes.exe /l
+INFO:root: 2024-10-26 15:15:54.592691: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-10-26 15:15:56.619669: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.275/Codigo Fuente/Middleware
+INFO:root: 2024-10-26 15:15:57.781223: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-10-26 15:16:00.432180: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.275/Codigo Fuente/Middleware/Assert
+INFO:root: 2024-10-26 15:16:01.921336: Se comienza a modificar  la bbdd
+INFO:root: 2024-10-26 15:16:01.921336: Validando configuracion de la bbdd de suite
+INFO:root: 2024-10-26 15:16:40.531066: Inicializacion de la Aplicacion
+INFO:root: 2024-10-26 15:16:40.718779: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 15:16:40.718779: assert\QRes.exe /l
+INFO:root: 2024-10-26 15:16:40.743809: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-26 15:16:40.743809: assert\QRes.exe /l
+INFO:root: 2024-10-26 15:16:44.022834: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-10-26 15:16:47.806735: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.275/Codigo Fuente/Middleware
+INFO:root: 2024-10-26 15:16:48.593356: Se comienza a modificar  la bbdd
+INFO:root: 2024-10-26 15:16:48.593356: Validando configuracion de la bbdd de suite
+INFO:root: 2024-10-26 15:16:49.810010: Se comienza a modificar  la bbdd
+INFO:root: 2024-10-26 15:16:49.810010: Validando configuracion de la bbdd de suite
+INFO:root: 2024-10-26 15:16:50.070030: Se comienza a modificar  la bbdd
+INFO:root: 2024-10-26 15:16:50.070030: Validando configuracion de la bbdd de suite
+INFO:root: 2024-10-26 15:16:50.281430: Se comienza a modificar  la bbdd
+INFO:root: 2024-10-26 15:16:50.281430: Validando configuracion de la bbdd de suite
+INFO:root: 2024-10-26 15:16:50.501289: Se comienza a modificar  la bbdd
+INFO:root: 2024-10-26 15:16:50.501289: Validando configuracion de la bbdd de suite

@@ -1,0 +1,51 @@
+INFO:root: 2024-04-02 08:12:10.201980: Inicializacion de la Aplicacion
+INFO:root: 2024-04-02 08:12:10.373532: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-02 08:12:10.373532: assert\QRes.exe /l
+INFO:root: 2024-04-02 08:12:10.395233: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-02 08:12:10.395233: assert\QRes.exe /l
+INFO:root: 2024-04-02 08:12:16.305097: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-02 08:12:18.771221: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys
+INFO:root: 2024-04-02 08:12:25.401673: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-02 08:12:25.402681: La carpeta Middleware  existe
+INFO:root: 2024-04-02 08:12:25.403680: La carpeta FrontEnd  existe
+INFO:root: 2024-04-02 08:12:25.403680: La carpeta Middleware  existe
+INFO:root: 2024-04-02 08:12:25.404681: La carpeta FrontEnd  existe
+INFO:root: 2024-04-02 08:12:25.404681: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-02 08:12:25.404681: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-02 08:12:25.404681: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-02 08:12:25.413694: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-02 08:12:25.413694: Se cambio la cadena de texto address="net.tcp://localhost:03111/ApplicationService/
+INFO:root: 2024-04-02 08:12:25.413694: por la cadena de texto address="net.tcp://localhost:11211/ApplicationService/
+INFO:root: 2024-04-02 08:12:25.413694: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-02 08:12:25.413694: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-02 08:12:25.425222: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-02 08:12:25.425222: Se cambio la cadena de texto address="net.tcp://127.0.0.1:10504/Scheduling/
+INFO:root: 2024-04-02 08:12:25.425222: por la cadena de texto address="net.tcp://localhost:11211/Scheduling/
+INFO:root: 2024-04-02 08:12:25.425222: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-02 08:12:25.425222: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-02 08:12:25.434220: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-02 08:12:25.434220: Se cambio la cadena de texto address="net.tcp://localhost:11211/Scheduling/
+INFO:root: 2024-04-02 08:12:25.434220: por la cadena de texto address="net.tcp://localhost:11211/Scheduling/
+INFO:root: 2024-04-02 08:12:25.434220: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-02 08:12:25.434220: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-02 08:12:25.437229: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-02 08:12:25.438229: Se cambio la cadena de texto address="net.tcp://127.0.0.1:10504/SchedulingDetail/
+INFO:root: 2024-04-02 08:12:25.438229: por la cadena de texto address="net.tcp://localhost:11211/SchedulingDetail/
+INFO:root: 2024-04-02 08:12:25.438229: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-02 08:12:25.438229: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-02 08:12:25.439247: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-02 08:12:25.439247: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-02 08:12:25.439247: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-02 08:12:25.440229: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-02 08:12:25.440229: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-02 08:12:25.440229: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-02 08:12:25.441229: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-02 08:12:25.441229: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-02 08:12:25.441229: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-02 08:12:25.441229: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-02 08:12:25.442229: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-02 08:12:25.442229: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-02 08:12:25.442229: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-02 08:12:25.442229: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-02 08:12:25.442229: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-02 08:12:25.443232: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco

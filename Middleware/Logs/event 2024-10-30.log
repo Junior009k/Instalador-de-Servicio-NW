@@ -1,0 +1,67 @@
+INFO:root: 2024-10-30 11:00:25.486243: Inicializacion de la Aplicacion
+INFO:root: 2024-10-30 11:00:25.793308: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:00:25.793308: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:00:25.833399: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:00:25.833399: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:00:35.209049: Inicializacion de la Aplicacion
+INFO:root: 2024-10-30 11:00:35.411912: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:00:35.411912: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:00:35.457215: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:00:35.457215: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:06:55.259268: Inicializacion de la Aplicacion
+INFO:root: 2024-10-30 11:06:55.451837: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:06:55.452383: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:06:55.490037: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:06:55.490037: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:08:26.243575: Inicializacion de la Aplicacion
+INFO:root: 2024-10-30 11:08:26.354641: No se ha encontrado la img FrontEnd\img\api.png
+INFO:root: 2024-10-30 11:08:26.354641: couldn't open "FrontEnd\img\api.png": no such file or directory
+INFO:root: 2024-10-30 11:08:26.420959: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:08:26.420959: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:08:26.455563: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:08:26.455563: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:09:31.371248: Inicializacion de la Aplicacion
+INFO:root: 2024-10-30 11:09:31.555235: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:09:31.555235: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:09:31.595381: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:09:31.595381: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:11:02.258396: Inicializacion de la Aplicacion
+INFO:root: 2024-10-30 11:11:02.467900: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:11:02.467900: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:11:02.506940: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:11:02.506940: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:11:13.597290: Inicializacion de la Aplicacion
+INFO:root: 2024-10-30 11:11:13.777383: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:11:13.777383: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:11:13.812527: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:11:13.812527: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:13:15.900357: Inicializacion de la Aplicacion
+INFO:root: 2024-10-30 11:13:16.091681: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:13:16.092696: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:13:16.129141: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:13:16.129141: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:13:44.283583: Inicializacion de la Aplicacion
+INFO:root: 2024-10-30 11:13:44.485391: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:13:44.486391: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:13:44.522121: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:13:44.522121: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:15:04.676467: Inicializacion de la Aplicacion
+INFO:root: 2024-10-30 11:15:04.867589: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:15:04.867589: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:15:04.903307: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:15:04.903307: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:20:26.858875: Inicializacion de la Aplicacion
+INFO:root: 2024-10-30 11:20:27.049924: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:20:27.049924: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:20:27.090639: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:20:27.090639: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:30:28.711170: Inicializacion de la Aplicacion
+INFO:root: 2024-10-30 11:30:28.924099: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:30:28.924099: assert\QRes.exe /l
+INFO:root: 2024-10-30 11:30:28.965675: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 11:30:28.965675: assert\QRes.exe /l
+INFO:root: 2024-10-30 13:00:23.881858: Inicializacion de la Aplicacion
+INFO:root: 2024-10-30 13:00:24.123790: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 13:00:24.123790: assert\QRes.exe /l
+INFO:root: 2024-10-30 13:00:24.168149: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-10-30 13:00:24.168149: assert\QRes.exe /l

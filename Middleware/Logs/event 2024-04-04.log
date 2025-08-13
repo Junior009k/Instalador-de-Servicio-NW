@@ -1,0 +1,251 @@
+INFO:root: 2024-04-04 08:27:59.157270: Inicializacion de la Aplicacion
+INFO:root: 2024-04-04 08:27:59.478074: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 08:27:59.478074: assert\QRes.exe /l
+INFO:root: 2024-04-04 08:27:59.501295: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 08:27:59.501295: assert\QRes.exe /l
+INFO:root: 2024-04-04 08:28:04.236859: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-04 08:28:08.362219: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys/Sidesys
+INFO:root: 2024-04-04 08:28:12.837642: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-04 08:28:12.838652: La carpeta Middleware  existe
+INFO:root: 2024-04-04 08:28:12.839652: La carpeta FrontEnd  existe
+INFO:root: 2024-04-04 08:28:12.839652: La carpeta Middleware  existe
+INFO:root: 2024-04-04 08:28:12.840652: La carpeta FrontEnd  existe
+INFO:root: 2024-04-04 08:28:12.840652: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-04 08:28:12.840652: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-04 08:28:12.840652: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 08:28:12.850665: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 08:28:12.850665: Se cambio la cadena de texto address="net.tcp://127.0.0.1:11211/ApplicationService/
+INFO:root: 2024-04-04 08:28:12.850665: por la cadena de texto address="net.tcp://localhost:00011/ApplicationService/
+INFO:root: 2024-04-04 08:28:12.851664: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-04 08:28:12.851664: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 08:28:12.859710: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 08:28:12.859710: Se cambio la cadena de texto address="net.tcp://127.0.0.1:10504/Scheduling/
+INFO:root: 2024-04-04 08:28:12.859710: por la cadena de texto address="net.tcp://localhost:00004/Scheduling/
+INFO:root: 2024-04-04 08:28:12.859710: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-04 08:28:12.859710: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 08:28:12.871753: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 08:28:12.871753: Se cambio la cadena de texto address="net.tcp://127.0.0.1:10504/SchedulingDetail/
+INFO:root: 2024-04-04 08:28:12.871753: por la cadena de texto address="net.tcp://localhost:00004/SchedulingDetail/
+INFO:root: 2024-04-04 08:28:12.871753: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-04 08:28:12.871753: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 08:28:12.881173: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 08:28:12.881762: Se cambio la cadena de texto address="net.tcp://localhost:00011/ApplicationService/
+INFO:root: 2024-04-04 08:28:12.881762: por la cadena de texto address="net.tcp://localhost:00011/ApplicationService/
+INFO:root: 2024-04-04 08:28:12.881762: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-04 08:28:12.881762: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Service.config
+INFO:root: 2024-04-04 08:28:12.882882: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-04 08:28:12.883083: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-04 08:28:12.883083: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Service.config
+INFO:root: 2024-04-04 08:28:12.883805: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-04 08:28:12.883805: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-04 08:28:12.883805: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Service.config
+INFO:root: 2024-04-04 08:28:12.884874: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-04 08:28:12.884874: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-04 08:28:12.885095: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Service.config
+INFO:root: 2024-04-04 08:28:12.885603: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-04 08:28:12.885603: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-04 08:28:12.885603: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Service.config
+INFO:root: 2024-04-04 08:28:12.886161: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-04 08:28:12.886161: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-04 08:28:12.886161: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Service.config
+INFO:root: 2024-04-04 08:28:12.887174: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-04 08:37:06.886774: Inicializacion de la Aplicacion
+INFO:root: 2024-04-04 08:37:07.007040: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 08:37:07.007040: assert\QRes.exe /l
+INFO:root: 2024-04-04 08:37:07.026591: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 08:37:07.026591: assert\QRes.exe /l
+INFO:root: 2024-04-04 08:37:15.106198: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-04 08:37:18.330866: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys/Sidesys
+INFO:root: 2024-04-04 08:37:23.255617: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-04 08:37:23.256625: La carpeta Middleware  existe
+INFO:root: 2024-04-04 08:37:23.257624: La carpeta FrontEnd  existe
+INFO:root: 2024-04-04 08:37:23.257624: La carpeta Middleware  existe
+INFO:root: 2024-04-04 08:37:23.258624: La carpeta FrontEnd  existe
+INFO:root: 2024-04-04 08:37:23.258624: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-04 08:37:23.258624: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-04 08:37:23.258624: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 08:37:23.261625: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 08:37:23.261625: Se cambio la cadena de texto address="net.tcp://localhost:00011/ApplicationService/
+INFO:root: 2024-04-04 08:37:23.261625: por la cadena de texto address="net.tcp://localhost:67811/ApplicationService/
+INFO:root: 2024-04-04 08:37:23.261625: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 08:37:23.275161: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 08:37:23.275161: Se cambio la cadena de texto address="net.tcp://localhost:00004/Scheduling/
+INFO:root: 2024-04-04 08:37:23.275161: por la cadena de texto address="net.tcp://localhost:67804/Scheduling/
+INFO:root: 2024-04-04 08:37:23.275161: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 08:37:23.284165: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 08:37:23.284165: Se cambio la cadena de texto address="net.tcp://localhost:00004/SchedulingDetail/
+INFO:root: 2024-04-04 08:37:23.284165: por la cadena de texto address="net.tcp://localhost:67804/SchedulingDetail/
+INFO:root: 2024-04-04 08:37:23.284165: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 08:37:23.292163: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 08:37:23.292163: Se cambio la cadena de texto address="net.tcp://localhost:67811/ApplicationService/
+INFO:root: 2024-04-04 08:37:23.292163: por la cadena de texto address="net.tcp://localhost:67811/ApplicationService/
+INFO:root: 2024-04-04 08:37:23.292163: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 08:37:23.296234: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 08:37:23.296748: Se cambio la cadena de texto address="net.tcp://127.0.0.1:11211/ApplicationService/
+INFO:root: 2024-04-04 08:37:23.296748: por la cadena de texto address="net.tcp://localhost:67811/ApplicationService/
+INFO:root: 2024-04-04 08:37:23.296748: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 08:37:23.310236: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 08:37:23.310236: Se cambio la cadena de texto baseAddress="http://127.0.0.1:9518/Design_Time_Addresses/Sidesys.Services/ApplicationService/"
+INFO:root: 2024-04-04 08:37:23.310236: por la cadena de texto baseAddress="http://localhost:6788/Design_Time_Addresses/Sidesys.Services/ApplicationService/"
+INFO:root: 2024-04-04 08:37:23.310236: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 08:37:23.320106: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 08:37:23.320106: Se cambio la cadena de texto address="net.tcp://127.0.0.1:10504/Scheduling/"
+INFO:root: 2024-04-04 08:37:23.320106: por la cadena de texto address="net.tcp://localhost:67804/Scheduling/"
+INFO:root: 2024-04-04 08:37:23.320106: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 08:37:23.334347: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 08:37:23.334347: Se cambio la cadena de texto baseAddress="http://127.0.0.1:10505/Design_Time_Addresses/Appointment.Core.SchedulingOperation/SchedulingOperationService/
+INFO:root: 2024-04-04 08:37:23.335355: por la cadena de texto baseAddress="http://localhost:67805/Design_Time_Addresses/Appointment.Core.SchedulingOperation/SchedulingOperationService/
+INFO:root: 2024-04-04 08:37:23.335355: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 08:37:23.348137: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 08:37:23.348137: Se cambio la cadena de texto address="net.tcp://127.0.0.1:10504/SchedulingDetail/"
+INFO:root: 2024-04-04 08:37:23.348137: por la cadena de texto address="net.tcp://localhost:67804/SchedulingDetail/"
+INFO:root: 2024-04-04 08:37:23.348137: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 08:37:23.358417: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 08:37:23.359430: Se cambio la cadena de texto baseAddress="http://127.0.0.1:10505/Design_Time_Addresses/Appointment.Core.SchedulingOperation/SchedulingOperationDetailService/
+INFO:root: 2024-04-04 08:37:23.359430: por la cadena de texto baseAddress="http://localhost:67805/Design_Time_Addresses/Appointment.Core.SchedulingOperation/SchedulingOperationDetailService/
+INFO:root: 2024-04-04 14:55:09.727477: Inicializacion de la Aplicacion
+INFO:root: 2024-04-04 14:55:09.876739: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 14:55:09.876739: assert\QRes.exe /l
+INFO:root: 2024-04-04 14:55:09.896849: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 14:55:09.896849: assert\QRes.exe /l
+INFO:root: 2024-04-04 14:55:25.421574: Inicializacion de la Aplicacion
+INFO:root: 2024-04-04 14:55:25.552885: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 14:55:25.553406: assert\QRes.exe /l
+INFO:root: 2024-04-04 14:55:25.571852: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 14:55:25.571852: assert\QRes.exe /l
+INFO:root: 2024-04-04 14:57:55.290339: Inicializacion de la Aplicacion
+INFO:root: 2024-04-04 14:57:55.405241: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 14:57:55.405241: assert\QRes.exe /l
+INFO:root: 2024-04-04 14:57:55.426479: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 14:57:55.426479: assert\QRes.exe /l
+INFO:root: 2024-04-04 14:59:10.949328: Inicializacion de la Aplicacion
+INFO:root: 2024-04-04 14:59:11.077979: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 14:59:11.077979: assert\QRes.exe /l
+INFO:root: 2024-04-04 14:59:11.101084: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 14:59:11.101084: assert\QRes.exe /l
+INFO:root: 2024-04-04 15:08:45.465382: Inicializacion de la Aplicacion
+INFO:root: 2024-04-04 15:08:45.582839: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 15:08:45.582839: assert\QRes.exe /l
+INFO:root: 2024-04-04 15:08:45.604020: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 15:08:45.604020: assert\QRes.exe /l
+INFO:root: 2024-04-04 15:09:51.552588: Inicializacion de la Aplicacion
+INFO:root: 2024-04-04 15:09:51.680635: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 15:09:51.680635: assert\QRes.exe /l
+INFO:root: 2024-04-04 15:09:51.704289: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 15:09:51.704289: assert\QRes.exe /l
+INFO:root: 2024-04-04 15:10:52.426559: Inicializacion de la Aplicacion
+INFO:root: 2024-04-04 15:10:52.537154: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 15:10:52.537154: assert\QRes.exe /l
+INFO:root: 2024-04-04 15:10:52.557255: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 15:10:52.557255: assert\QRes.exe /l
+INFO:root: 2024-04-04 15:11:10.420284: Inicializacion de la Aplicacion
+INFO:root: 2024-04-04 15:11:10.529793: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 15:11:10.529793: assert\QRes.exe /l
+INFO:root: 2024-04-04 15:11:10.551484: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 15:11:10.551484: assert\QRes.exe /l
+INFO:root: 2024-04-04 15:13:35.252842: Inicializacion de la Aplicacion
+INFO:root: 2024-04-04 15:13:35.364947: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 15:13:35.364947: assert\QRes.exe /l
+INFO:root: 2024-04-04 15:13:35.386099: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 15:13:35.386099: assert\QRes.exe /l
+INFO:root: 2024-04-04 15:18:11.242861: Inicializacion de la Aplicacion
+INFO:root: 2024-04-04 15:18:11.354196: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 15:18:11.354196: assert\QRes.exe /l
+INFO:root: 2024-04-04 15:18:11.375299: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-04 15:18:11.375299: assert\QRes.exe /l
+INFO:root: 2024-04-04 15:22:00.234295: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-04 15:22:03.534180: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys/Sidesys
+INFO:root: 2024-04-04 15:22:11.950821: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-04 15:22:11.952343: La carpeta Middleware  existe
+INFO:root: 2024-04-04 15:22:11.952343: La carpeta FrontEnd  existe
+INFO:root: 2024-04-04 15:22:11.953342: La carpeta Middleware  existe
+INFO:root: 2024-04-04 15:22:11.954342: La carpeta FrontEnd  existe
+INFO:root: 2024-04-04 15:22:11.954342: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-04 15:22:11.954342: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-04 15:22:11.954342: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 15:22:11.964349: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 15:22:11.964349: Se cambio la cadena de texto address="net.tcp://localhost:67811/ApplicationService/
+INFO:root: 2024-04-04 15:22:11.964349: por la cadena de texto address="net.tcp://locura:55511/ApplicationService/
+INFO:root: 2024-04-04 15:22:11.964349: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 15:22:11.974384: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 15:22:11.974384: Se cambio la cadena de texto address="net.tcp://localhost:67804/Scheduling/
+INFO:root: 2024-04-04 15:22:11.974384: por la cadena de texto address="net.tcp://locura:55504/Scheduling/
+INFO:root: 2024-04-04 15:22:11.974384: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 15:22:11.982893: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 15:22:11.982893: Se cambio la cadena de texto address="net.tcp://localhost:67804/SchedulingDetail/
+INFO:root: 2024-04-04 15:22:11.982893: por la cadena de texto address="net.tcp://locura:55504/SchedulingDetail/
+INFO:root: 2024-04-04 15:22:11.982893: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 15:22:11.993769: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 15:22:11.993769: Se cambio la cadena de texto address="net.tcp://locura:55511/ApplicationService/
+INFO:root: 2024-04-04 15:22:11.993769: por la cadena de texto address="net.tcp://locura:55511/ApplicationService/
+INFO:root: 2024-04-04 15:22:11.993769: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 15:22:12.003938: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 15:22:12.003938: Se cambio la cadena de texto address="net.tcp://localhost:67811/ApplicationService/
+INFO:root: 2024-04-04 15:22:12.003938: por la cadena de texto address="net.tcp://locura:55511/ApplicationService/
+INFO:root: 2024-04-04 15:22:12.003938: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 15:22:12.014185: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 15:22:12.015199: Se cambio la cadena de texto baseAddress="http://localhost:6788/Design_Time_Addresses/Sidesys.Services/ApplicationService/"
+INFO:root: 2024-04-04 15:22:12.015364: por la cadena de texto baseAddress="http://locura:5558/Design_Time_Addresses/Sidesys.Services/ApplicationService/"
+INFO:root: 2024-04-04 15:22:12.015364: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 15:22:12.026679: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 15:22:12.027682: Se cambio la cadena de texto address="net.tcp://localhost:67804/Scheduling/"
+INFO:root: 2024-04-04 15:22:12.027682: por la cadena de texto address="net.tcp://locura:55504/Scheduling/"
+INFO:root: 2024-04-04 15:22:12.027682: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 15:22:12.038689: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 15:22:12.038689: Se cambio la cadena de texto baseAddress="http://localhost:67805/Design_Time_Addresses/Appointment.Core.SchedulingOperation/SchedulingOperationService/
+INFO:root: 2024-04-04 15:22:12.038689: por la cadena de texto baseAddress="http://locura:55505/Design_Time_Addresses/Appointment.Core.SchedulingOperation/SchedulingOperationService/
+INFO:root: 2024-04-04 15:22:12.038689: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 15:22:12.049282: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 15:22:12.049282: Se cambio la cadena de texto address="net.tcp://localhost:67804/SchedulingDetail/"
+INFO:root: 2024-04-04 15:22:12.049282: por la cadena de texto address="net.tcp://locura:55504/SchedulingDetail/"
+INFO:root: 2024-04-04 15:22:12.049282: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 15:22:12.061379: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 15:22:12.061379: Se cambio la cadena de texto baseAddress="http://localhost:67805/Design_Time_Addresses/Appointment.Core.SchedulingOperation/SchedulingOperationDetailService/
+INFO:root: 2024-04-04 15:22:12.061379: por la cadena de texto baseAddress="http://locura:55505/Design_Time_Addresses/Appointment.Core.SchedulingOperation/SchedulingOperationDetailService/
+INFO:root: 2024-04-04 15:22:26.195238: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-04 15:22:26.196252: La carpeta Middleware  existe
+INFO:root: 2024-04-04 15:22:26.197245: La carpeta FrontEnd  existe
+INFO:root: 2024-04-04 15:22:26.197245: La carpeta Middleware  existe
+INFO:root: 2024-04-04 15:22:26.198246: La carpeta FrontEnd  existe
+INFO:root: 2024-04-04 15:22:26.198246: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-04 15:22:26.198246: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-04 15:22:26.198246: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 15:22:26.201248: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 15:22:26.201760: Se cambio la cadena de texto address="net.tcp://locura:55511/ApplicationService/
+INFO:root: 2024-04-04 15:22:26.201760: por la cadena de texto address="net.tcp://localhost:55511/ApplicationService/
+INFO:root: 2024-04-04 15:22:26.201760: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 15:22:26.210770: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 15:22:26.210770: Se cambio la cadena de texto address="net.tcp://locura:55504/Scheduling/
+INFO:root: 2024-04-04 15:22:26.210770: por la cadena de texto address="net.tcp://localhost:55504/Scheduling/
+INFO:root: 2024-04-04 15:22:26.210770: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 15:22:26.219871: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 15:22:26.220783: Se cambio la cadena de texto address="net.tcp://locura:55504/SchedulingDetail/
+INFO:root: 2024-04-04 15:22:26.220783: por la cadena de texto address="net.tcp://localhost:55504/SchedulingDetail/
+INFO:root: 2024-04-04 15:22:26.220783: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-04 15:22:26.228782: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-04 15:22:26.228782: Se cambio la cadena de texto address="net.tcp://localhost:55511/ApplicationService/
+INFO:root: 2024-04-04 15:22:26.228782: por la cadena de texto address="net.tcp://localhost:55511/ApplicationService/
+INFO:root: 2024-04-04 15:22:26.228782: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 15:22:26.239530: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 15:22:26.239530: Se cambio la cadena de texto address="net.tcp://locura:55511/ApplicationService/
+INFO:root: 2024-04-04 15:22:26.239530: por la cadena de texto address="net.tcp://localhost:55511/ApplicationService/
+INFO:root: 2024-04-04 15:22:26.239530: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 15:22:26.250519: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 15:22:26.250519: Se cambio la cadena de texto baseAddress="http://locura:5558/Design_Time_Addresses/Sidesys.Services/ApplicationService/"
+INFO:root: 2024-04-04 15:22:26.251031: por la cadena de texto baseAddress="http://localhost:5558/Design_Time_Addresses/Sidesys.Services/ApplicationService/"
+INFO:root: 2024-04-04 15:22:26.251031: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 15:22:26.260208: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 15:22:26.260208: Se cambio la cadena de texto address="net.tcp://locura:55504/Scheduling/"
+INFO:root: 2024-04-04 15:22:26.260208: por la cadena de texto address="net.tcp://localhost:55504/Scheduling/"
+INFO:root: 2024-04-04 15:22:26.260208: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 15:22:26.271471: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 15:22:26.271471: Se cambio la cadena de texto baseAddress="http://locura:55505/Design_Time_Addresses/Appointment.Core.SchedulingOperation/SchedulingOperationService/
+INFO:root: 2024-04-04 15:22:26.271471: por la cadena de texto baseAddress="http://localhost:55505/Design_Time_Addresses/Appointment.Core.SchedulingOperation/SchedulingOperationService/
+INFO:root: 2024-04-04 15:22:26.271471: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 15:22:26.283482: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 15:22:26.283482: Se cambio la cadena de texto address="net.tcp://locura:55504/SchedulingDetail/"
+INFO:root: 2024-04-04 15:22:26.283482: por la cadena de texto address="net.tcp://localhost:55504/SchedulingDetail/"
+INFO:root: 2024-04-04 15:22:26.283482: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys/Middleware/Appointment/bin/ServiceModelConfig/Services.config
+INFO:root: 2024-04-04 15:22:26.293483: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\Sidesys\Middleware\Appointment\bin\ServiceModelConfig\Services.config de forma exitosa
+INFO:root: 2024-04-04 15:22:26.293483: Se cambio la cadena de texto baseAddress="http://locura:55505/Design_Time_Addresses/Appointment.Core.SchedulingOperation/SchedulingOperationDetailService/
+INFO:root: 2024-04-04 15:22:26.293483: por la cadena de texto baseAddress="http://localhost:55505/Design_Time_Addresses/Appointment.Core.SchedulingOperation/SchedulingOperationDetailService/

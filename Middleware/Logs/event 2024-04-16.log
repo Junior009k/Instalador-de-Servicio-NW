@@ -1,0 +1,232 @@
+INFO:root: 2024-04-16 11:50:05.268385: Inicializacion de la Aplicacion
+INFO:root: 2024-04-16 11:50:05.385010: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-16 11:50:05.385010: assert\QRes.exe /l
+INFO:root: 2024-04-16 11:50:05.407398: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-16 11:50:05.407398: assert\QRes.exe /l
+INFO:root: 2024-04-16 11:50:10.371915: Se comienza la ejecucion deL diagnostico de las colas de mensajerias
+INFO:root: 2024-04-16 11:50:10.371915: Validando la cola de mensajerias
+INFO:root: 2024-04-16 11:50:10.371915:Empezando el proceso de envio de mensajes
+INFO:root: 2024-04-16 11:50:10.372925:empezando la consulta en poweshell
+INFO:root: 2024-04-16 11:50:10.372925:
+                          # Nombre de la cola MSMQ a la que deseas enviar el mensaje
+                          $colaMSMQ = 'hjklh'
+                          # Crea una instancia del objeto Message y establece el cuerpo del mensaje
+                          $mensaje = New-Object System.Messaging.Message
+                          $mensaje.Body = "Este es un mensaje de prueba."
+
+                         
+                          $cola = New-Object System.Messaging.MessageQueue $colaMSMQ
+
+                          # Envía el mensaje a la cola
+                          $cola.Send($mensaje)
+                          
+                          Write-Host "Mensaje enviado correctamente a la cola MSMQ."
+                          
+ERROR:root: 2024-04-16 11:50:12.183250:error al realizar la consulta en powershell Excepci¢n al llamar a "Send" con los argumentos "1": "La longitud no puede ser inferior a cero.
+Nombre del par metro: length"
+En l¡nea: 13 Car cter: 27
++                           $cola.Send($mensaje)
++                           ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException
+ 
+
+INFO:root: 2024-04-16 11:50:12.183250: Excepci¢n al llamar a "Send" con los argumentos "1": "La longitud no puede ser inferior a cero.
+Nombre del par metro: length"
+En l¡nea: 13 Car cter: 27
++                           $cola.Send($mensaje)
++                           ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException
+ 
+
+INFO:root: 2024-04-16 11:50:12.188273:Empezando el proceso de recepcion de mensajes
+INFO:root: 2024-04-16 11:50:12.188273:empezando la consulta en poweshell
+INFO:root: 2024-04-16 11:50:12.188273:
+                          # Nombre de la cola MSMQ a la que deseas enviar el mensaje
+                          $queuePath= 'hjklh'
+                          # Conectar a la cola
+                            $queue = New-Object System.Messaging.MessageQueue $queuePath
+
+                            # Establecer el formato del mensaje para poder leer el cuerpo del mensaje como un string
+                            $queue.Formatter = New-Object System.Messaging.XmlMessageFormatter([String[]]@("System.String"))
+
+                            try 
+                            {
+                                $message = $queue.Receive([System.TimeSpan]::FromSeconds(70))
+                                Write-Host "Mensaje recibido: $($message.Body)"
+                            } 
+                            catch 
+                            {
+                                Write-Host "No se pudo recibir el mensaje.  $_"
+                            }
+
+
+                            # Cerrar la conexión con la cola
+                            $queue.Close()
+                            
+INFO:root: 2024-04-16 11:50:13.552034: No se pudo recibir el mensaje.  Excepci¢n al llamar a "Receive" con los argumentos "1": "La longitud no puede ser inferior a cero.
+Nombre del par metro: length"
+
+INFO:root: 2024-04-16 11:51:24.905963: Inicializacion de la Aplicacion
+INFO:root: 2024-04-16 11:51:25.020161: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-16 11:51:25.020161: assert\QRes.exe /l
+INFO:root: 2024-04-16 11:51:25.041025: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-16 11:51:25.041025: assert\QRes.exe /l
+INFO:root: 2024-04-16 11:51:29.160020: Se comienza la ejecucion deL diagnostico de las colas de mensajerias
+INFO:root: 2024-04-16 11:51:29.160560: Validando la cola de mensajerias
+INFO:root: 2024-04-16 11:51:29.160560:Empezando el proceso de envio de mensajes
+INFO:root: 2024-04-16 11:51:29.160560:empezando la consulta en poweshell
+INFO:root: 2024-04-16 11:51:29.160560:
+                          # Nombre de la cola MSMQ a la que deseas enviar el mensaje
+                          $colaMSMQ = 'asdffasd'
+                          # Crea una instancia del objeto Message y establece el cuerpo del mensaje
+                          $mensaje = New-Object System.Messaging.Message
+                          $mensaje.Body = "Este es un mensaje de prueba."
+
+                         
+                          $cola = New-Object System.Messaging.MessageQueue $colaMSMQ
+
+                          # Envía el mensaje a la cola
+                          $cola.Send($mensaje)
+                          
+                          Write-Host "Mensaje enviado correctamente a la cola MSMQ."
+                          
+ERROR:root: 2024-04-16 11:51:30.709420:error al realizar la consulta en powershell Excepci¢n al llamar a "Send" con los argumentos "1": "La longitud no puede ser inferior a cero.
+Nombre del par metro: length"
+En l¡nea: 13 Car cter: 27
++                           $cola.Send($mensaje)
++                           ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException
+ 
+
+INFO:root: 2024-04-16 11:51:30.709420: Excepci¢n al llamar a "Send" con los argumentos "1": "La longitud no puede ser inferior a cero.
+Nombre del par metro: length"
+En l¡nea: 13 Car cter: 27
++                           $cola.Send($mensaje)
++                           ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException
+ 
+
+INFO:root: 2024-04-16 11:51:30.714433:Empezando el proceso de recepcion de mensajes
+INFO:root: 2024-04-16 11:51:30.714433:empezando la consulta en poweshell
+INFO:root: 2024-04-16 11:51:30.714433:
+                          # Nombre de la cola MSMQ a la que deseas enviar el mensaje
+                          $queuePath= 'asdffasd'
+                          # Conectar a la cola
+                            $queue = New-Object System.Messaging.MessageQueue $queuePath
+
+                            # Establecer el formato del mensaje para poder leer el cuerpo del mensaje como un string
+                            $queue.Formatter = New-Object System.Messaging.XmlMessageFormatter([String[]]@("System.String"))
+
+                           
+                            $message = $queue.Receive([System.TimeSpan]::FromSeconds(70))
+                            Write-Host "Mensaje recibido: $($message.Body)"
+                            
+                            
+
+
+                            # Cerrar la conexión con la cola
+                            $queue.Close()
+                            
+ERROR:root: 2024-04-16 11:51:32.150583:error al realizar la consulta en powershell Excepci¢n al llamar a "Receive" con los argumentos "1": "La longitud no puede ser inferior a cero.
+Nombre del par metro: length"
+En l¡nea: 12 Car cter: 29
++ ...             $message = $queue.Receive([System.TimeSpan]::FromSeconds( ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException
+ 
+
+INFO:root: 2024-04-16 11:51:32.150583: Excepci¢n al llamar a "Receive" con los argumentos "1": "La longitud no puede ser inferior a cero.
+Nombre del par metro: length"
+En l¡nea: 12 Car cter: 29
++ ...             $message = $queue.Receive([System.TimeSpan]::FromSeconds( ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException
+ 
+
+INFO:root: 2024-04-16 11:53:00.468076: Inicializacion de la Aplicacion
+INFO:root: 2024-04-16 11:53:00.583634: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-16 11:53:00.583634: assert\QRes.exe /l
+INFO:root: 2024-04-16 11:53:00.603656: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-16 11:53:00.603656: assert\QRes.exe /l
+INFO:root: 2024-04-16 11:53:24.976613: Se comienza la ejecucion deL diagnostico de las colas de mensajerias
+INFO:root: 2024-04-16 11:53:24.976613: Validando la cola de mensajerias
+INFO:root: 2024-04-16 11:53:24.976613:Empezando el proceso de envio de mensajes
+INFO:root: 2024-04-16 11:53:24.976613:empezando la consulta en poweshell
+INFO:root: 2024-04-16 11:53:24.976613:
+                          # Nombre de la cola MSMQ a la que deseas enviar el mensaje
+                          $colaMSMQ = 'jhgjgh'
+                          # Crea una instancia del objeto Message y establece el cuerpo del mensaje
+                          $mensaje = New-Object System.Messaging.Message
+                          $mensaje.Body = "Este es un mensaje de prueba."
+
+                         
+                          $cola = New-Object System.Messaging.MessageQueue $colaMSMQ
+
+                          # Envía el mensaje a la cola
+                          $cola.Send($mensaje)
+                          
+                          Write-Host "Mensaje enviado correctamente a la cola MSMQ."
+                          
+ERROR:root: 2024-04-16 11:53:26.548635:error al realizar la consulta en powershell Excepci¢n al llamar a "Send" con los argumentos "1": "La longitud no puede ser inferior a cero.
+Nombre del par metro: length"
+En l¡nea: 13 Car cter: 27
++                           $cola.Send($mensaje)
++                           ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException
+ 
+
+INFO:root: 2024-04-16 11:53:26.548635: Excepci¢n al llamar a "Send" con los argumentos "1": "La longitud no puede ser inferior a cero.
+Nombre del par metro: length"
+En l¡nea: 13 Car cter: 27
++                           $cola.Send($mensaje)
++                           ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException
+ 
+
+INFO:root: 2024-04-16 11:53:26.548635:Empezando el proceso de recepcion de mensajes
+INFO:root: 2024-04-16 11:53:26.553145:empezando la consulta en poweshell
+INFO:root: 2024-04-16 11:53:26.553145:
+                          # Nombre de la cola MSMQ a la que deseas enviar el mensaje
+                          $queuePath= 'jhgjgh'
+                          # Conectar a la cola
+                            $queue = New-Object System.Messaging.MessageQueue $queuePath
+
+                            # Establecer el formato del mensaje para poder leer el cuerpo del mensaje como un string
+                            $queue.Formatter = New-Object System.Messaging.XmlMessageFormatter([String[]]@("System.String"))
+
+                           
+                            $message = $queue.Receive([System.TimeSpan]::FromSeconds(70))
+                            Write-Host "Mensaje recibido: $($message.Body)"
+                            
+                            
+
+
+                            # Cerrar la conexión con la cola
+                            $queue.Close()
+                            
+ERROR:root: 2024-04-16 11:53:28.016121:error al realizar la consulta en powershell Excepci¢n al llamar a "Receive" con los argumentos "1": "La longitud no puede ser inferior a cero.
+Nombre del par metro: length"
+En l¡nea: 12 Car cter: 29
++ ...             $message = $queue.Receive([System.TimeSpan]::FromSeconds( ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException
+ 
+
+INFO:root: 2024-04-16 11:53:28.016121: Excepci¢n al llamar a "Receive" con los argumentos "1": "La longitud no puede ser inferior a cero.
+Nombre del par metro: length"
+En l¡nea: 12 Car cter: 29
++ ...             $message = $queue.Receive([System.TimeSpan]::FromSeconds( ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException
+ 
+

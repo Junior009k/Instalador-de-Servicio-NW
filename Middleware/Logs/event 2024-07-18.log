@@ -1,0 +1,328 @@
+INFO:root: 2024-07-18 08:19:12.137740: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:19:12.750357: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:19:12.750357: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:19:12.778888: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:19:12.778888: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:20:24.393121: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:20:24.505614: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:20:24.505614: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:20:24.528087: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:20:24.528087: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:20:45.890631: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:20:46.006200: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:20:46.006200: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:20:46.027230: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:20:46.027230: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:21:40.870489: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:21:40.997348: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:21:40.997348: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:21:41.019172: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:21:41.019172: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:24:59.550937: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:24:59.664013: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:24:59.665011: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:24:59.686075: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:24:59.686075: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:39:44.869778: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:39:44.989679: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:39:44.989679: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:39:45.012510: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:39:45.012510: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:39:58.558539: Se ejecuta el metodo startingTest
+INFO:root: 2024-07-18 08:40:27.780813: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:40:27.898360: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:40:27.898360: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:40:27.918370: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:40:27.919883: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:40:41.743582: Se ejecuta el metodo startingTest
+INFO:root: 2024-07-18 08:40:41.744582: Inicializacion del tnc
+INFO:root: 2024-07-18 08:40:41.753589: powershell tnc 192.168.45.256 -port 
+INFO:root: 2024-07-18 08:40:41.753589: <os._wrap_close object at 0x000001FF616DF710>
+INFO:root: 2024-07-18 08:40:41.753589: Finalizacion del unblockFolder
+INFO:root: 2024-07-18 08:40:44.189960: Se ejecuta el metodo startingTest
+INFO:root: 2024-07-18 08:40:44.189960: Inicializacion del tnc
+INFO:root: 2024-07-18 08:40:44.193969: powershell tnc 192.168.45.256 -port 
+INFO:root: 2024-07-18 08:40:44.193969: <os._wrap_close object at 0x000001FF616DFC50>
+INFO:root: 2024-07-18 08:40:44.193969: Finalizacion del unblockFolder
+INFO:root: 2024-07-18 08:41:45.967897: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:41:46.082433: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:41:46.082433: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:41:46.102899: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:41:46.102899: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:41:59.209084: Se ejecuta el metodo startingTest
+INFO:root: 2024-07-18 08:41:59.209084: Inicializacion del tnc
+INFO:root: 2024-07-18 08:41:59.218697: powershell tnc 192.168.145.200 -port 810
+INFO:root: 2024-07-18 08:41:59.219206: <os._wrap_close object at 0x000002409DC0FBD0>
+INFO:root: 2024-07-18 08:41:59.219206: Finalizacion del tnc
+INFO:root: 2024-07-18 08:47:45.311046: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:47:45.451714: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:47:45.451714: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:47:45.472607: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:47:45.472607: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:48:02.823046: Se ejecuta el metodo startingTest
+INFO:root: 2024-07-18 08:48:02.823046: Inicializacion del tnc
+INFO:root: 2024-07-18 08:48:02.823046:empezando la consulta en poweshell
+INFO:root: 2024-07-18 08:48:02.823046:powershell tnc localhost -port 80
+INFO:root: 2024-07-18 08:48:09.680867: powershell tnc localhost -port 80
+INFO:root: 2024-07-18 08:48:09.680867: 
+
+ComputerName     : localhost
+RemoteAddress    : ::1
+RemotePort       : 80
+InterfaceAlias   : Loopback Pseudo-Interface 1
+SourceAddress    : ::1
+TcpTestSucceeded : True
+
+
+
+
+INFO:root: 2024-07-18 08:48:09.680867: Finalizacion del tnc
+INFO:root: 2024-07-18 08:55:43.678837: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:55:43.804154: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:55:43.804154: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:55:43.824737: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:55:43.824737: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:55:58.376636: Se ejecuta el metodo startingTest
+INFO:root: 2024-07-18 08:55:58.376636: Inicializacion del tnc
+INFO:root: 2024-07-18 08:55:58.376636:empezando la consulta en poweshell
+INFO:root: 2024-07-18 08:55:58.376636:powershell tnc localhost -port 80
+INFO:root: 2024-07-18 08:56:05.795347: powershell tnc localhost -port 80
+INFO:root: 2024-07-18 08:56:05.796359: 
+
+ComputerName     : localhost
+RemoteAddress    : ::1
+RemotePort       : 80
+InterfaceAlias   : Loopback Pseudo-Interface 1
+SourceAddress    : ::1
+TcpTestSucceeded : True
+
+
+
+
+INFO:root: 2024-07-18 08:56:05.796359: Finalizacion del tnc
+INFO:root: 2024-07-18 08:56:15.907908: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:56:16.041617: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:56:16.041617: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:56:16.064001: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:56:16.065001: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:57:07.485214: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:57:07.617789: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:57:07.617789: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:57:07.641871: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:57:07.642354: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:57:28.817697: Se ejecuta el metodo startingTest
+INFO:root: 2024-07-18 08:57:28.818706: Inicializacion del tnc
+INFO:root: 2024-07-18 08:57:28.818706:empezando la consulta en poweshell
+INFO:root: 2024-07-18 08:57:28.818706:powershell tnc 192.168.145.154 -port 80
+INFO:root: 2024-07-18 08:58:10.750442: powershell tnc 192.168.145.154 -port 80
+INFO:root: 2024-07-18 08:58:10.750442: ADVERTENCIA: TCP connect to (192.168.145.154 : 80) failed
+ADVERTENCIA: Ping to 192.168.145.154 failed with status: TimedOut
+
+
+ComputerName           : 192.168.145.154
+RemoteAddress          : 192.168.145.154
+RemotePort             : 80
+InterfaceAlias         : Wi-Fi
+SourceAddress          : 192.168.1.26
+PingSucceeded          : False
+PingReplyDetails (RTT) : 0 ms
+TcpTestSucceeded       : False
+
+
+
+
+INFO:root: 2024-07-18 08:58:10.750442: Finalizacion del tnc
+INFO:root: 2024-07-18 08:58:50.821688: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:58:50.946957: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:58:50.946957: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:58:50.969758: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:58:50.969758: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:59:33.398697: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 08:59:33.529361: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:59:33.529361: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:59:33.552436: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 08:59:33.552436: assert\QRes.exe /l
+INFO:root: 2024-07-18 08:59:47.327813: Se ejecuta el metodo startingTest
+INFO:root: 2024-07-18 08:59:47.327813: Inicializacion del tnc
+INFO:root: 2024-07-18 08:59:47.327813:empezando la consulta en poweshell
+INFO:root: 2024-07-18 08:59:47.327813:powershell tnc localhost -port 80
+INFO:root: 2024-07-18 08:59:54.776170: powershell tnc localhost -port 80
+INFO:root: 2024-07-18 08:59:54.777165: 
+
+ComputerName     : localhost
+RemoteAddress    : ::1
+RemotePort       : 80
+InterfaceAlias   : Loopback Pseudo-Interface 1
+SourceAddress    : ::1
+TcpTestSucceeded : True
+
+
+
+
+INFO:root: 2024-07-18 08:59:54.777165: Finalizacion del tnc
+INFO:root: 2024-07-18 09:02:06.820462: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 09:02:06.935414: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:02:06.935414: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:02:06.957625: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:02:06.957625: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:02:32.621394: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 09:02:32.738799: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:02:32.738799: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:02:32.758805: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:02:32.759804: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:02:57.232659: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 09:02:57.344498: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:02:57.344498: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:02:57.367635: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:02:57.367635: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:03:54.316858: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 09:03:54.429454: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:03:54.429454: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:03:54.449990: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:03:54.449990: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:04:18.534994: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 09:04:18.651000: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:04:18.652000: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:04:18.671930: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:04:18.671930: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:04:31.760141: Se ejecuta el metodo startingTest
+INFO:root: 2024-07-18 09:04:31.760141: Inicializacion del tnc
+INFO:root: 2024-07-18 09:04:31.760141:empezando la consulta en poweshell
+INFO:root: 2024-07-18 09:04:31.760141:powershell tnc 192.168.145.200 -port 80
+INFO:root: 2024-07-18 09:05:13.778851: powershell tnc 192.168.145.200 -port 80
+INFO:root: 2024-07-18 09:05:13.779860: ADVERTENCIA: TCP connect to (192.168.145.200 : 80) failed
+ADVERTENCIA: Ping to 192.168.145.200 failed with status: TimedOut
+
+
+ComputerName           : 192.168.145.200
+RemoteAddress          : 192.168.145.200
+RemotePort             : 80
+InterfaceAlias         : Wi-Fi
+SourceAddress          : 192.168.1.26
+PingSucceeded          : False
+PingReplyDetails (RTT) : 0 ms
+TcpTestSucceeded       : False
+
+
+
+
+INFO:root: 2024-07-18 09:05:13.779860: Finalizacion del tnc
+INFO:root: 2024-07-18 09:06:12.304230: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 09:06:12.457872: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:06:12.458876: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:06:12.489156: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:06:12.489156: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:06:24.884293: Se ejecuta el metodo startingTest
+INFO:root: 2024-07-18 09:06:24.884293: Inicializacion del tnc
+INFO:root: 2024-07-18 09:06:24.884293:empezando la consulta en poweshell
+INFO:root: 2024-07-18 09:06:24.884293:powershell tnc 192.168.145.200 -port 80
+INFO:root: 2024-07-18 09:07:06.812198: powershell tnc 192.168.145.200 -port 80
+INFO:root: 2024-07-18 09:07:06.813230: ADVERTENCIA: TCP connect to (192.168.145.200 : 80) failed
+ADVERTENCIA: Ping to 192.168.145.200 failed with status: TimedOut
+
+
+ComputerName           : 192.168.145.200
+RemoteAddress          : 192.168.145.200
+RemotePort             : 80
+InterfaceAlias         : Wi-Fi
+SourceAddress          : 192.168.1.26
+PingSucceeded          : False
+PingReplyDetails (RTT) : 0 ms
+TcpTestSucceeded       : False
+
+
+
+
+INFO:root: 2024-07-18 09:07:06.813230: Finalizacion del tnc
+INFO:root: 2024-07-18 09:07:36.419984: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 09:07:36.533973: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:07:36.533973: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:07:36.555010: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:07:36.555010: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:07:49.135793: Se ejecuta el metodo startingTest
+INFO:root: 2024-07-18 09:07:49.135793: Inicializacion del tnc
+INFO:root: 2024-07-18 09:07:49.135793:empezando la consulta en poweshell
+INFO:root: 2024-07-18 09:07:49.135793:powershell tnc 192.168.145.200 -port 80
+INFO:root: 2024-07-18 09:08:31.377950: powershell tnc 192.168.145.200 -port 80
+INFO:root: 2024-07-18 09:08:31.377950: ADVERTENCIA: TCP connect to (192.168.145.200 : 80) failed
+ADVERTENCIA: Ping to 192.168.145.200 failed with status: TimedOut
+
+
+ComputerName           : 192.168.145.200
+RemoteAddress          : 192.168.145.200
+RemotePort             : 80
+InterfaceAlias         : Wi-Fi
+SourceAddress          : 192.168.1.26
+PingSucceeded          : False
+PingReplyDetails (RTT) : 0 ms
+TcpTestSucceeded       : False
+
+
+
+
+INFO:root: 2024-07-18 09:08:31.377950: Finalizacion del tnc
+INFO:root: 2024-07-18 09:09:02.595918: Se ejecuta el metodo startingTest
+INFO:root: 2024-07-18 09:09:02.596928: Inicializacion del tnc
+INFO:root: 2024-07-18 09:09:02.596928:empezando la consulta en poweshell
+INFO:root: 2024-07-18 09:09:02.596928:powershell tnc LOCALHOST -port 80
+INFO:root: 2024-07-18 09:09:09.660485: powershell tnc LOCALHOST -port 80
+INFO:root: 2024-07-18 09:09:09.660485: 
+
+ComputerName     : LOCALHOST
+RemoteAddress    : ::1
+RemotePort       : 80
+InterfaceAlias   : Loopback Pseudo-Interface 1
+SourceAddress    : ::1
+TcpTestSucceeded : True
+
+
+
+
+INFO:root: 2024-07-18 09:09:09.660485: Finalizacion del tnc
+INFO:root: 2024-07-18 09:10:18.252684: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 09:10:18.387138: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:10:18.387138: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:10:18.411701: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:10:18.411701: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:10:24.644128: Se ejecuta el metodo startingTest
+ERROR:root: 2024-07-18 09:10:24.644128: No se puede modificar La validacion del test sin especificar el nombre el nombre del usuario
+ERROR:root: 2024-07-18 09:10:28.635694: No se puede modificar La validacion del test sin especificar el nombre el nombre del usuario
+INFO:root: 2024-07-18 09:10:32.526730: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 09:10:32.640610: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:10:32.640610: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:10:32.663135: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:10:32.663135: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:10:36.204548: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 09:10:36.324626: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:10:36.326133: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:10:36.345915: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 09:10:36.346913: assert\QRes.exe /l
+INFO:root: 2024-07-18 09:27:32.131832: Se ejecuta el metodo startingTest
+INFO:root: 2024-07-18 09:27:32.131832: Inicializacion del tnc
+INFO:root: 2024-07-18 09:27:32.131832:empezando la consulta en poweshell
+INFO:root: 2024-07-18 09:27:32.131832:powershell tnc 192.168.145.226 -port 80
+INFO:root: 2024-07-18 09:28:14.283574: powershell tnc 192.168.145.226 -port 80
+INFO:root: 2024-07-18 09:28:14.284574: ADVERTENCIA: TCP connect to (192.168.145.226 : 80) failed
+ADVERTENCIA: Ping to 192.168.145.226 failed with status: TimedOut
+
+
+ComputerName           : 192.168.145.226
+RemoteAddress          : 192.168.145.226
+RemotePort             : 80
+InterfaceAlias         : Wi-Fi
+SourceAddress          : 192.168.1.26
+PingSucceeded          : False
+PingReplyDetails (RTT) : 0 ms
+TcpTestSucceeded       : False
+
+
+
+
+INFO:root: 2024-07-18 09:28:14.284574: Finalizacion del tnc
+INFO:root: 2024-07-18 13:20:03.380416: Inicializacion de la Aplicacion
+INFO:root: 2024-07-18 13:20:03.574794: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 13:20:03.574794: assert\QRes.exe /l
+INFO:root: 2024-07-18 13:20:03.597455: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-07-18 13:20:03.597455: assert\QRes.exe /l
+INFO:root: 2024-07-18 13:20:18.993028: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-07-18 13:20:21.987148: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.116/Codigo Fuente

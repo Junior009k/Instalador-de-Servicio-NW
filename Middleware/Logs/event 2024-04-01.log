@@ -1,0 +1,447 @@
+INFO:root: 2024-04-01 08:19:34.376394: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 08:19:34.736292: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:19:34.736292: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:19:34.751626: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:19:34.751626: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:19:53.203072: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-01 08:20:00.677518: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys
+INFO:root: 2024-04-01 08:20:04.971890: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-01 08:20:04.973901: La carpeta Middleware  existe
+ERROR:root: 2024-04-01 08:20:04.973901: La carpeta FrontEnd no existe
+INFO:root: 2024-04-01 08:20:04.973901: La carpeta Middleware  existe
+ERROR:root: 2024-04-01 08:20:04.974901: La carpeta FrontEnd no existe
+INFO:root: 2024-04-01 08:20:04.974901: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-01 08:22:22.003972: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 08:22:22.159214: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:22:22.159214: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:22:22.174771: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:22:22.179736: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:22:37.861403: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-01 08:22:40.784454: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys
+INFO:root: 2024-04-01 08:22:41.713032: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-01 08:22:41.714042: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:22:41.714042: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:22:41.715041: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:22:41.715041: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:22:41.716049: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-01 08:25:43.358934: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 08:25:43.493025: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:25:43.493025: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:25:43.514051: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:25:43.514051: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:25:54.063446: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-01 08:25:56.691526: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys
+INFO:root: 2024-04-01 08:25:57.544528: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-01 08:25:57.548056: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:25:57.549056: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:25:57.550061: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:25:57.551069: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:25:57.551069: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-01 08:25:57.551069: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:25:57.551069: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:25:57.552056: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:25:57.552056: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:25:57.552056: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:25:57.552056: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:25:57.552056: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:25:57.552056: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:25:57.552056: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:25:57.552056: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:25:57.552056: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:25:57.552056: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:25:57.552056: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:25:57.552056: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:25:57.552056: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:25:57.552056: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:25:57.552056: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:25:57.552056: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:25:57.553082: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:25:57.553082: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:25:57.553082: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:25:57.553082: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:25:57.553082: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:25:57.553082: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:25:57.553082: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:25:57.553082: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:25:57.553082: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:25:57.553082: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:25:57.553082: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:25:57.553082: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:26:05.717241: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 08:26:05.827262: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:26:05.827262: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:26:05.846319: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:26:05.846319: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:26:09.582938: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 08:26:09.687747: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:26:09.687747: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:26:09.707823: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:26:09.707823: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:26:15.623838: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 08:26:15.728699: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:26:15.728699: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:26:15.750297: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:26:15.751297: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:26:22.451597: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-01 08:26:25.147744: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys
+INFO:root: 2024-04-01 08:26:26.741826: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-01 08:26:26.742927: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:26:26.743464: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:26:26.744001: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:26:26.744543: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:26:26.744543: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-01 08:26:26.744543: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:26:26.744543: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:26:26.745074: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:26:26.745074: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:26:26.745074: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:26:26.745074: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:26:26.745074: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:26:26.745074: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:26:26.745074: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:26:26.745074: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:26:26.745074: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:26:26.745074: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:26:26.745609: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:26:26.745609: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:26:26.745609: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:26:26.745609: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:26:26.745609: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:26:26.745609: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:26:26.745609: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:26:26.745609: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:26:26.745609: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:26:26.746132: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:26:26.746132: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:26:26.746132: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:26:26.746132: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:26:26.746132: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:26:26.746132: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:26:26.746132: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:26:26.746132: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:26:26.746132: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:44:15.872527: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 08:44:16.005874: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:44:16.006874: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:44:16.028185: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:44:16.028185: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:44:47.840809: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-01 08:44:50.174679: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys
+INFO:root: 2024-04-01 08:44:50.985781: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-01 08:44:50.986950: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:44:50.987512: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:44:50.988018: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:44:50.988609: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:44:50.988609: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-01 08:44:50.989120: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:44:50.989120: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:44:50.989120: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:44:50.989120: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:44:50.989120: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:44:50.989120: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:44:50.989660: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:44:50.989660: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:44:50.989738: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:44:50.989738: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:44:50.989738: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:44:50.989738: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:44:50.989738: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:44:50.989738: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:44:50.989738: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:44:50.989738: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:44:50.989738: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:44:50.990245: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:44:50.990245: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:44:50.990245: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:44:50.990245: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:44:50.990245: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:44:50.990245: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:44:50.990245: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:44:50.990245: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:44:50.990778: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:44:50.990778: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:44:50.990778: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:44:50.990778: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:44:50.990778: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:44:56.112534: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 08:44:56.226737: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:44:56.226737: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:44:56.247252: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:44:56.247252: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:44:59.080795: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 08:44:59.215545: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:44:59.215545: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:44:59.236606: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:44:59.236606: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:46:19.352835: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 08:46:19.452737: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:46:19.452737: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:46:19.475542: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:46:19.475542: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:46:32.623594: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-01 08:46:35.346358: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys
+INFO:root: 2024-04-01 08:46:36.738489: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-01 08:46:36.739965: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:46:36.741064: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:46:36.741672: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:46:36.742326: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:46:36.742838: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-01 08:46:36.743018: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:46:36.743018: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:46:36.743018: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:46:36.743018: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:46:36.743018: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:46:36.743533: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:46:36.743533: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:46:36.743533: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:46:36.743533: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:46:36.743533: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:46:36.743533: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:46:36.743533: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:46:36.743533: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:46:36.743533: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:46:36.744133: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:46:36.744133: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:46:36.744133: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:46:36.744133: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:46:36.744133: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:46:36.744133: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:46:36.744133: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:46:36.744640: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:46:36.744640: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:46:36.744715: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:46:36.744715: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:46:36.744715: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:46:36.744715: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:46:36.744715: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:46:36.744715: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:46:36.744715: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:47:56.834721: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 08:47:56.950218: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:47:56.950218: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:47:56.971283: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:47:56.971340: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:48:01.637332: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-01 08:48:03.783379: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys
+INFO:root: 2024-04-01 08:48:05.099710: Se comienza a modificar  los puertos de citas
+ERROR:root: 2024-04-01 08:48:05.099710: No se puede modificar los puertos sin especificar el nombre el numero del puerto
+INFO:root: 2024-04-01 08:48:06.435925: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:48:06.436937: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:48:06.437934: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:48:06.437934: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:48:06.437934: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-01 08:48:06.437934: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:48:06.437934: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:48:06.438934: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:48:06.438934: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:48:06.438934: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:48:06.439934: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:48:06.439934: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:48:06.439934: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:48:06.440934: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:48:06.440934: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:48:06.440934: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:48:06.440934: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:48:06.440934: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:48:06.440934: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:48:06.441936: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:48:06.441936: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:48:06.441936: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:48:06.442936: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:48:06.442936: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:48:06.442936: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:48:06.443934: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:48:06.443934: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:48:06.443934: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:48:06.444934: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:48:06.444934: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:48:06.444934: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:48:06.445936: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:48:06.445936: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:48:06.445936: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:48:06.446933: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:51:23.905326: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 08:51:24.017868: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:51:24.017868: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:51:24.039098: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 08:51:24.039098: assert\QRes.exe /l
+INFO:root: 2024-04-01 08:51:33.351662: Se comienza a modificar  los puertos de citas
+ERROR:root: 2024-04-01 08:51:33.351662: No se puede modificar los puertos sin especificar el nombre el numero del puerto
+ERROR:root: 2024-04-01 08:51:34.640385: No se puede modificar los puertos sin especificar el nombre la ruta
+ERROR:root: 2024-04-01 08:51:35.557349: La carpeta Middleware no existe
+ERROR:root: 2024-04-01 08:51:35.557858: No se puede modificar los puertos sin especificar el nombre tiene que estar en la carpeta del aplicativo
+INFO:root: 2024-04-01 08:51:38.022655: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-01 08:51:40.736596: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys
+INFO:root: 2024-04-01 08:51:41.514526: Se comienza a modificar  los puertos de citas
+ERROR:root: 2024-04-01 08:51:41.514526: No se puede modificar los puertos sin especificar el nombre el numero del puerto
+INFO:root: 2024-04-01 08:51:42.802035: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:51:42.802671: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:51:42.803432: La carpeta Middleware  existe
+INFO:root: 2024-04-01 08:51:42.803432: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 08:51:42.803959: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-01 08:51:42.803959: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:51:42.803959: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:51:42.804500: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:51:42.804500: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:51:42.804500: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:51:42.805022: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:51:42.805559: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:51:42.805559: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:51:42.806085: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:51:42.806085: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:51:42.806085: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:51:42.806770: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:51:42.806770: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:51:42.807278: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:51:42.807857: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:51:42.807857: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:51:42.807857: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:51:42.808444: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:51:42.808444: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:51:42.808444: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:51:42.808952: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:51:42.809485: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:51:42.809485: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:51:42.809485: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:51:42.809485: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:51:42.809485: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:51:42.810493: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 08:51:42.810493: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 08:51:42.810493: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 08:51:42.811506: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:11:19.102220: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 14:11:19.217774: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 14:11:19.217774: assert\QRes.exe /l
+INFO:root: 2024-04-01 14:11:19.237336: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 14:11:19.237336: assert\QRes.exe /l
+INFO:root: 2024-04-01 14:11:43.593393: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-01 14:11:46.037682: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys
+INFO:root: 2024-04-01 14:11:56.513884: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-01 14:11:56.514894: La carpeta Middleware  existe
+INFO:root: 2024-04-01 14:11:56.515894: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 14:11:56.515894: La carpeta Middleware  existe
+INFO:root: 2024-04-01 14:11:56.516893: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 14:11:56.516893: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-01 14:11:56.516893: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:11:56.516893: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-01 14:11:56.517892: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:11:56.517892: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:11:56.517892: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:11:56.518893: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:11:56.518893: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:11:56.518893: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:11:56.519897: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:11:56.519897: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:11:56.519897: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:11:56.520896: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:11:56.520896: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:11:56.520896: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:11:56.521895: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:11:56.521895: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:11:56.521895: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:11:56.522900: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:11:56.522900: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:11:56.522900: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:11:56.522900: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:11:56.523896: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:11:56.523896: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:11:56.523896: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:11:56.523896: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:11:56.523896: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:11:56.524894: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:11:56.524894: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:11:56.524894: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:11:56.526899: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:14:50.919630: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 14:14:51.031563: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 14:14:51.031563: assert\QRes.exe /l
+INFO:root: 2024-04-01 14:14:51.051080: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 14:14:51.051080: assert\QRes.exe /l
+INFO:root: 2024-04-01 14:15:03.507015: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-01 14:15:06.396092: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys
+INFO:root: 2024-04-01 14:15:13.307581: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-01 14:15:13.308593: La carpeta Middleware  existe
+INFO:root: 2024-04-01 14:15:13.309589: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 14:15:13.309589: La carpeta Middleware  existe
+INFO:root: 2024-04-01 14:15:13.310590: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 14:15:13.310590: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-01 14:15:13.310590: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:15:13.310590: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-01 14:15:13.312598: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-01 14:15:13.312598: Se cambio la cadena de texto address="net.tcp://127.0.0.1:11211/ApplicationService/
+INFO:root: 2024-04-01 14:15:13.312598: por la cadena de texto address="net.tcp://localhost:03111/ApplicationService/
+INFO:root: 2024-04-01 14:15:13.312598: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:15:13.312598: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:15:13.313598: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:15:13.313598: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:15:13.313598: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:15:13.314602: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:15:13.314602: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:15:13.314602: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:15:13.315601: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:15:13.315601: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:15:13.315601: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:15:13.316604: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:15:13.316604: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:15:13.316604: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:15:13.317600: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:15:13.317600: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:15:13.317600: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:15:13.318600: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:15:13.318600: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:15:13.318600: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:15:13.319605: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:15:13.319605: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:15:13.319605: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:15:13.320605: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:15:13.321604: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:15:13.321604: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:15:13.321604: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:16:58.936886: Inicializacion de la Aplicacion
+INFO:root: 2024-04-01 14:16:59.041510: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 14:16:59.041510: assert\QRes.exe /l
+INFO:root: 2024-04-01 14:16:59.062332: Inicializacion del configurador de ajuste de resolucion
+INFO:root: 2024-04-01 14:16:59.062332: assert\QRes.exe /l
+INFO:root: 2024-04-01 14:17:10.743839: Se ejecuta el metodo startingCreationScript
+INFO:root: 2024-04-01 14:17:13.176210: Script generado en la ruta .bat
+INFO:root: 2024-04-01 14:17:13.176210 
+INFO:root: 2024-04-01 14:17:31.253918: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2024-04-01 14:17:33.877560: Se selecciono el directorio C:/APPS/006- Proyecto Instalador de servicio/Instalador Servicio Unicos V0.110/Codigo Fuente/Sidesys
+INFO:root: 2024-04-01 14:17:34.591247: Se comienza a modificar  los puertos de citas
+INFO:root: 2024-04-01 14:17:34.592788: La carpeta Middleware  existe
+INFO:root: 2024-04-01 14:17:34.592788: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 14:17:34.593787: La carpeta Middleware  existe
+INFO:root: 2024-04-01 14:17:34.593787: La carpeta FrontEnd  existe
+INFO:root: 2024-04-01 14:17:34.593787: Paso todas las pruebas, comenzando proceso de modificacion de los puertos
+INFO:root: 2024-04-01 14:17:34.593787: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:17:34.593787: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/FrontEnd/Appointment/ConfigFiles/Client.config
+INFO:root: 2024-04-01 14:17:34.595789: Ha sido modificado el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys\FrontEnd\Appointment\ConfigFiles\Client.config de forma exitosa
+INFO:root: 2024-04-01 14:17:34.595789: Se cambio la cadena de texto address="net.tcp://127.0.0.1:11211/ApplicationService/
+INFO:root: 2024-04-01 14:17:34.595789: por la cadena de texto address="net.tcp://localhost:03111/ApplicationService/
+INFO:root: 2024-04-01 14:17:34.595789: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:17:34.595789: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:17:34.596789: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:17:34.596789: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:17:34.596789: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:17:34.597792: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:17:34.597792: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:17:34.597792: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:17:34.598790: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:17:34.598790: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:17:34.598790: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:17:34.598790: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:17:34.599790: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:17:34.599790: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:17:34.599790: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:17:34.599790: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:17:34.599790: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:17:34.600791: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:17:34.600791: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:17:34.600791: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:17:34.601875: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:17:34.601875: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:17:34.601875: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:17:34.601875: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2024-04-01 14:17:34.602888: Se inicia con el proceso de cambio de puerto en Citas
+INFO:root: 2024-04-01 14:17:34.602888: Se comienza a modificar el  archivo C:\APPS\006- Proyecto Instalador de servicio\Instalador Servicio Unicos V0.110\Codigo Fuente\Sidesys/Middleware/STE/bin/serviceModelConfig/services.config
+INFO:root: 2024-04-01 14:17:34.602888: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco

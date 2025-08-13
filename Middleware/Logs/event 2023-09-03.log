@@ -1,0 +1,1085 @@
+INFO:root: 2023-09-03 15:17:29.509930: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 15:17:49.367238: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/CUSTOM/Banco Pormerica - e-Flow v4.1.3 - Citas v2.13.1 - C2.0 donde se identificaran los reportes
+INFO:root: 2023-09-03 15:17:49.367238: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\CUSTOM\Banco Pormerica - e-Flow v4.1.3 - Citas v2.13.1 - C2.0\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+ERROR:root: 2023-09-03 15:17:50.090287: La carpeta STE no existe
+INFO:root: 2023-09-03 15:17:50.090287:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\CUSTOM\Banco Pormerica - e-Flow v4.1.3 - Citas v2.13.1 - C2.0\FrontEnd\STE
+INFO:root: 2023-09-03 15:17:50.105914:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:17:50.105914:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:17:51.439809:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:17:51.439809:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:17:52.257520:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\CUSTOM\Banco Pormerica - e-Flow v4.1.3 - Citas v2.13.1 - C2.0\FrontEnd\STE
+INFO:root: 2023-09-03 15:17:52.257520:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:17:52.257520:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:17:53.234290:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:17:53.234290:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 15:17:54.231361: No se encontro aplicacion o site asociado a este paquete
+ERROR:root: 2023-09-03 15:17:54.416129: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:17:54.416129: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:17:54.416129: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:17:54.416129: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:17:54.416129: Hubo un error al identificar los udls 
+INFO:root: 2023-09-03 15:18:01.836633: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/CUSTOM donde se identificaran los reportes
+INFO:root: 2023-09-03 15:18:01.836633: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\CUSTOM\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+ERROR:root: 2023-09-03 15:18:02.474901: La carpeta STE no existe
+INFO:root: 2023-09-03 15:18:02.474901:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\CUSTOM\FrontEnd\STE
+INFO:root: 2023-09-03 15:18:02.474901:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:18:02.474901:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:18:03.540233:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:18:03.540233:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:18:04.411310:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\CUSTOM\FrontEnd\STE
+INFO:root: 2023-09-03 15:18:04.411310:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:18:04.411310:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:18:05.313546:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:18:05.313546:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 15:18:06.184663: No se encontro aplicacion o site asociado a este paquete
+ERROR:root: 2023-09-03 15:18:06.184663: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:18:06.184663: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:18:06.184663: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:18:06.184663: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:18:06.184663: Hubo un error al identificar los udls 
+INFO:root: 2023-09-03 15:18:29.598544: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:18:29.598544: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:18:29.829772: Nombre: e-Flow Banco Promerica MiddleWare Service
+INFO:root: 2023-09-03 15:18:29.829772: Estado: Stopped
+INFO:root: 2023-09-03 15:18:29.829772: Tipo de inicio: Manual
+INFO:root: 2023-09-03 15:18:29.829772: Descripción: None
+INFO:root: 2023-09-03 15:18:29.829772: Ruta del archivo ejecutable: C:/Entornos/Banco Promerica - 01/PRODUCCION/Middleware/STE/bin/Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:18:29.829772:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:18:29.829772:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:18:29.829772:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:18:30.817411:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:18:30.817411:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:18:31.650743:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:18:31.650743:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:18:31.650743:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:18:32.490662:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:18:32.490662:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:30:20.264928: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 15:30:26.941266: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:30:26.941266: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:30:27.231202: Nombre: e-Flow Banco Promerica MiddleWare Service
+INFO:root: 2023-09-03 15:30:27.246826: Estado: Stopped
+INFO:root: 2023-09-03 15:30:27.246826: Tipo de inicio: Manual
+INFO:root: 2023-09-03 15:30:27.246826: Descripción: None
+INFO:root: 2023-09-03 15:30:27.246826: Ruta del archivo ejecutable: C:/Entornos/Banco Promerica - 01/PRODUCCION/Middleware/STE/bin/Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:30:27.247834:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:30:27.247834:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:30:27.247834:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:30:36.744688:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:30:36.744688:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:30:37.599703:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:30:37.599703:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:30:37.599703:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:30:38.616296:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:30:38.616296:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:30:41.720432: Se selecciono el directorio  donde se identificaran los reportes
+INFO:root: 2023-09-03 15:30:41.720432: Empezando a identificar el servicio de la ruta \Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+ERROR:root: 2023-09-03 15:30:42.305974: La carpeta STE no existe
+INFO:root: 2023-09-03 15:30:42.305974:buscando site que coincidan con la ruta \FrontEnd\STE
+INFO:root: 2023-09-03 15:30:42.305974:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:30:42.305974:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:30:43.292471:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:30:43.292471:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:30:44.295069:buscando site que coincidan con la ruta \FrontEnd\STE
+INFO:root: 2023-09-03 15:30:44.295069:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:30:44.295069:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:30:45.498500:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:30:45.498500:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 15:30:46.591083: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:30:46.592084: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:30:46.594080: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:30:46.594080: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:30:46.594080: Hubo un error al identificar los udls 
+INFO:root: 2023-09-03 15:30:52.145254: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:30:52.145254: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:30:52.376658: Nombre: e-Flow Banco Promerica MiddleWare Service
+INFO:root: 2023-09-03 15:30:52.376658: Estado: Stopped
+INFO:root: 2023-09-03 15:30:52.376658: Tipo de inicio: Manual
+INFO:root: 2023-09-03 15:30:52.376658: Descripción: None
+INFO:root: 2023-09-03 15:30:52.376658: Ruta del archivo ejecutable: C:/Entornos/Banco Promerica - 01/PRODUCCION/Middleware/STE/bin/Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:30:52.376658:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:30:52.376658:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:30:52.376658:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:30:53.393818:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:30:53.393818:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:30:54.318290:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:30:54.318290:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:30:54.318290:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:30:55.182912:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:30:55.182912:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:33:29.155055: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 15:33:38.136721: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:33:38.136721: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\Appointment\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:33:38.621842: Nombre: e-Flow Banco Promerica Citas MiddleWare Service
+INFO:root: 2023-09-03 15:33:38.621842: Estado: Stopped
+INFO:root: 2023-09-03 15:33:38.621842: Tipo de inicio: Manual
+INFO:root: 2023-09-03 15:33:38.621842: Descripción: None
+INFO:root: 2023-09-03 15:33:38.621842: Ruta del archivo ejecutable: C:/Entornos/Banco Promerica - 01/PRODUCCION/Middleware/Appointment/bin/Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:33:38.621842:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\Appointment
+INFO:root: 2023-09-03 15:33:38.621842:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:33:38.621842:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:34:02.643658:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:34:02.643658:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:34:03.476737:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\Appointment
+INFO:root: 2023-09-03 15:34:03.476737:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:34:03.476737:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:34:04.310075:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:34:04.310075:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:34:05.285145: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:34:05.286145: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:34:05.286145: wrong # args: should be ".!frame32.!entry8 insert index text"
+INFO:root: 2023-09-03 15:36:00.662117: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 15:36:17.362651: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:36:17.362651: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:36:18.099511: Nombre: e-Flow MiddleWare Service
+INFO:root: 2023-09-03 15:36:18.100511: Estado: Stopped
+INFO:root: 2023-09-03 15:36:18.100511: Tipo de inicio: Manual
+INFO:root: 2023-09-03 15:36:18.100511: Descripción: None
+INFO:root: 2023-09-03 15:36:18.100511: Ruta del archivo ejecutable: C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:36:18.138490:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 15:36:18.138490:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:36:18.138490:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:36:19.880657:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:36:19.880657:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:36:20.814225:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 15:36:20.814225:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:36:20.814225:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:36:21.808012:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:36:21.808012:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:36:22.795770: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:36:22.795770: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:36:22.796769: wrong # args: should be ".!frame35.!entry insert index text"
+INFO:root: 2023-09-03 15:36:22.798767: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:36:22.798767: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:36:22.798767: wrong # args: should be ".!frame35.!entry2 insert index text"
+INFO:root: 2023-09-03 15:36:22.800767: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:36:22.801766: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:36:22.801766: wrong # args: should be ".!frame35.!entry3 insert index text"
+INFO:root: 2023-09-03 15:36:22.802767: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:36:22.802767: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:36:22.802767: wrong # args: should be ".!frame35.!entry4 insert index text"
+INFO:root: 2023-09-03 15:43:50.019893: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 15:43:57.534170: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:43:57.534170: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:43:58.189067: La carpeta STE  existe
+INFO:root: 2023-09-03 15:45:32.403491: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 15:45:39.489506: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:45:39.489506: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:45:40.144797: La carpeta STE  existe
+INFO:root: 2023-09-03 15:45:40.144797:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:45:40.144797:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:45:40.144797:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:45:51.711610:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:45:51.711610:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:45:52.614030:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:45:52.614030:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:45:52.614030:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:45:53.538090:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:45:53.538090:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:46:39.717519: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 15:46:45.554984: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:46:45.554984: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:46:46.321257: La carpeta STE  existe
+INFO:root: 2023-09-03 15:46:46.321257:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:46:46.321257:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:46:46.321257:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:46:47.377579:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:46:47.377579:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:46:48.569486:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:46:48.569486:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:46:48.569486:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:46:49.424846:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:46:49.424846:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:47:05.258429: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:47:05.258429: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:47:05.490068: Nombre: e-Flow Banco Promerica MiddleWare Service
+INFO:root: 2023-09-03 15:47:05.490068: Estado: Stopped
+INFO:root: 2023-09-03 15:47:05.490068: Tipo de inicio: Manual
+INFO:root: 2023-09-03 15:47:05.490068: Descripción: None
+INFO:root: 2023-09-03 15:47:05.490068: Ruta del archivo ejecutable: C:/Entornos/Banco Promerica - 01/PRODUCCION/Middleware/STE/bin/Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:47:05.505693:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:47:05.505693:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:47:05.505693:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:47:06.461245:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:47:06.461245:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:47:07.247605:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:47:07.247605:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:47:07.247605:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:47:08.065350:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:47:08.065350:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:51:05.277395: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 15:51:11.354841: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:51:11.354841: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:51:11.639512: Nombre: e-Flow Banco Promerica MiddleWare Service
+INFO:root: 2023-09-03 15:51:11.639512: Estado: Stopped
+INFO:root: 2023-09-03 15:51:11.639512: Tipo de inicio: Manual
+INFO:root: 2023-09-03 15:51:11.639512: Descripción: None
+INFO:root: 2023-09-03 15:51:11.639512: Ruta del archivo ejecutable: C:/Entornos/Banco Promerica - 01/PRODUCCION/Middleware/STE/bin/Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:51:11.655138:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:51:11.655138:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:51:11.655138:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:51:12.657051:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:51:12.657051:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:51:13.478518:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 15:51:13.478518:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:51:13.478518:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:51:14.307856:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:51:14.307856:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:51:25.337476: Se selecciono el directorio C:/Entornos/Banco Promerica - 01 donde se identificaran los reportes
+INFO:root: 2023-09-03 15:51:25.337476: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+ERROR:root: 2023-09-03 15:51:25.938215: La carpeta STE no existe
+INFO:root: 2023-09-03 15:51:25.938215:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\FrontEnd\STE
+INFO:root: 2023-09-03 15:51:25.938215:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:51:25.938215:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:51:26.777795:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:51:26.777795:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:51:27.579704:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\FrontEnd\STE
+INFO:root: 2023-09-03 15:51:27.579704:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:51:27.579704:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:51:28.397382:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:51:28.397382:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 15:51:29.251607: No se encontro aplicacion o site asociado a este paquete
+ERROR:root: 2023-09-03 15:51:29.268256: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:51:29.268256: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:51:29.283904: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:51:29.284972: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:51:29.284972: Hubo un error al identificar los udls 
+INFO:root: 2023-09-03 15:52:59.171067: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 15:53:06.947873: Se selecciono el directorio C:/Entornos/Banco Promerica - 01 donde se identificaran los reportes
+INFO:root: 2023-09-03 15:53:06.947873: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\Middleware\Appointment\bin\Sidesys.Services.ApplicationService.exe
+ERROR:root: 2023-09-03 15:53:07.612009: La carpeta Appointment no existe
+INFO:root: 2023-09-03 15:53:07.612009:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\FrontEnd\Appointment
+INFO:root: 2023-09-03 15:53:07.612009:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:53:07.612009:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:53:08.482859:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:53:08.482859:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:53:09.284750:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\FrontEnd\Appointment
+INFO:root: 2023-09-03 15:53:09.284750:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:53:09.284750:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:53:10.102477:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:53:10.102477:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 15:53:10.973165: No se encontro aplicacion o site asociado a este paquete
+ERROR:root: 2023-09-03 15:53:11.013218: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:53:11.013218: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:53:11.015354: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:53:11.015354: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:53:11.015354: Hubo un error al identificar los udls 
+INFO:root: 2023-09-03 15:53:11.017359: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:53:11.017359: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:53:11.017359: wrong # args: should be ".!frame32.!entry insert index text"
+INFO:root: 2023-09-03 15:53:11.019358: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:53:11.019358: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:53:11.019358: wrong # args: should be ".!frame32.!entry2 insert index text"
+INFO:root: 2023-09-03 15:53:11.021323: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:53:11.021323: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:53:11.021323: wrong # args: should be ".!frame32.!entry3 insert index text"
+INFO:root: 2023-09-03 15:53:11.023328: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:53:11.023328: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:53:11.023328: wrong # args: should be ".!frame32.!entry4 insert index text"
+INFO:root: 2023-09-03 15:53:11.025324: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:53:11.025324: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:53:11.026325: wrong # args: should be ".!frame32.!entry5 insert index text"
+INFO:root: 2023-09-03 15:53:11.029332: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:53:11.030322: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:53:11.030322: wrong # args: should be ".!frame32.!entry7 insert index text"
+INFO:root: 2023-09-03 15:53:11.032023: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:53:11.032023: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:53:11.032023: wrong # args: should be ".!frame32.!entry6 insert index text"
+INFO:root: 2023-09-03 15:53:11.033894: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:53:11.033894: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:53:11.033894: wrong # args: should be ".!frame32.!entry8 insert index text"
+INFO:root: 2023-09-03 15:53:11.035896: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:53:11.035896: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:53:11.035896: wrong # args: should be ".!frame33.!entry insert index text"
+INFO:root: 2023-09-03 15:53:11.038059: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:53:11.038059: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:53:11.038059: wrong # args: should be ".!frame33.!entry2 insert index text"
+INFO:root: 2023-09-03 15:53:11.040063: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:53:11.040063: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:53:11.040063: wrong # args: should be ".!frame33.!entry3 insert index text"
+INFO:root: 2023-09-03 15:53:11.041077: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:53:11.041077: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:53:11.042063: wrong # args: should be ".!frame33.!entry4 insert index text"
+INFO:root: 2023-09-03 15:53:11.044060: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:53:11.045060: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:53:11.045060: wrong # args: should be ".!frame33.!entry5 insert index text"
+INFO:root: 2023-09-03 15:53:25.240962: Se selecciono el directorio  donde se identificaran los reportes
+INFO:root: 2023-09-03 15:53:25.240962: Empezando a identificar el servicio de la ruta \Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+ERROR:root: 2023-09-03 15:53:26.315297: La carpeta STE no existe
+INFO:root: 2023-09-03 15:53:26.315297:buscando site que coincidan con la ruta \FrontEnd\STE
+INFO:root: 2023-09-03 15:53:26.315297:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:53:26.316293:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:53:27.607965:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:53:27.607965:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:53:28.441287:buscando site que coincidan con la ruta \FrontEnd\STE
+INFO:root: 2023-09-03 15:53:28.441287:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:53:28.441287:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:53:29.312330:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:53:29.312330:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 15:53:30.199008: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:53:30.199008: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:53:30.214647: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:53:30.214647: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:53:30.214647: Hubo un error al identificar los udls 
+INFO:root: 2023-09-03 15:54:01.956194: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 15:54:08.881593: Se selecciono el directorio C:/Entornos/Banco Promerica - 01 donde se identificaran los reportes
+INFO:root: 2023-09-03 15:54:08.881593: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\Middleware\Appointment\bin\Sidesys.Services.ApplicationService.exe
+ERROR:root: 2023-09-03 15:54:09.514546: La carpeta Appointment no existe
+INFO:root: 2023-09-03 15:54:09.514546:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\FrontEnd\Appointment
+INFO:root: 2023-09-03 15:54:09.514546:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:54:09.514546:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:54:10.401079:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:54:10.401079:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:54:11.224107:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\FrontEnd\Appointment
+INFO:root: 2023-09-03 15:54:11.224107:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:54:11.224107:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:54:12.051922:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:54:12.051922:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 15:54:12.938605: No se encontro aplicacion o site asociado a este paquete
+ERROR:root: 2023-09-03 15:54:12.989977: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:54:12.989977: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:54:12.992747: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:54:12.992747: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:54:12.992747: Hubo un error al identificar los udls 
+INFO:root: 2023-09-03 15:54:12.995075: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:12.995075: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:12.995075: wrong # args: should be ".!frame32.!entry insert index text"
+INFO:root: 2023-09-03 15:54:12.996737: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:12.996737: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:12.996737: wrong # args: should be ".!frame32.!entry2 insert index text"
+INFO:root: 2023-09-03 15:54:12.998762: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:12.998762: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:12.998762: wrong # args: should be ".!frame32.!entry3 insert index text"
+INFO:root: 2023-09-03 15:54:13.000783: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:13.000783: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:13.000783: wrong # args: should be ".!frame32.!entry4 insert index text"
+INFO:root: 2023-09-03 15:54:13.002693: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:13.002693: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:13.002693: wrong # args: should be ".!frame32.!entry5 insert index text"
+INFO:root: 2023-09-03 15:54:13.005697: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:13.005697: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:13.005697: wrong # args: should be ".!frame32.!entry7 insert index text"
+INFO:root: 2023-09-03 15:54:13.007695: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:13.007695: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:13.007695: wrong # args: should be ".!frame32.!entry6 insert index text"
+INFO:root: 2023-09-03 15:54:13.010696: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:13.010696: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:13.010696: wrong # args: should be ".!frame32.!entry8 insert index text"
+INFO:root: 2023-09-03 15:54:13.013092: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:13.013092: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:13.013092: wrong # args: should be ".!frame33.!entry insert index text"
+INFO:root: 2023-09-03 15:54:13.014779: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:13.014779: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:13.014779: wrong # args: should be ".!frame33.!entry2 insert index text"
+INFO:root: 2023-09-03 15:54:13.016781: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:13.016781: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:13.016781: wrong # args: should be ".!frame33.!entry3 insert index text"
+INFO:root: 2023-09-03 15:54:13.019325: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:13.019325: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:13.019325: wrong # args: should be ".!frame33.!entry4 insert index text"
+INFO:root: 2023-09-03 15:54:13.021329: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:13.021329: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:13.022330: wrong # args: should be ".!frame33.!entry5 insert index text"
+INFO:root: 2023-09-03 15:54:24.524261: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:54:24.524261: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\Appointment\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:54:24.739913: Nombre: e-Flow Banco Promerica Citas MiddleWare Service
+INFO:root: 2023-09-03 15:54:24.739913: Estado: Stopped
+INFO:root: 2023-09-03 15:54:24.739913: Tipo de inicio: Manual
+INFO:root: 2023-09-03 15:54:24.739913: Descripción: None
+INFO:root: 2023-09-03 15:54:24.739913: Ruta del archivo ejecutable: C:/Entornos/Banco Promerica - 01/PRODUCCION/Middleware/Appointment/bin/Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:54:24.739913:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\Appointment
+INFO:root: 2023-09-03 15:54:24.739913:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:54:24.739913:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:54:25.726610:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:54:25.726610:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:54:26.606843:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\Appointment
+INFO:root: 2023-09-03 15:54:26.606843:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:54:26.606843:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:54:27.446371:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:54:27.446371:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:54:28.345606: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:54:28.345606: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:54:28.345606: wrong # args: should be ".!frame32.!entry8 insert index text"
+INFO:root: 2023-09-03 15:55:45.057090: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:55:45.057090: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+ERROR:root: 2023-09-03 15:55:45.780306: La carpeta OpinionPoll no existe
+INFO:root: 2023-09-03 15:55:45.780306:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 15:55:45.780306:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:55:45.780306:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:55:46.844835:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:55:46.844835:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:55:47.816086:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 15:55:47.816086:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:55:47.816086:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:55:48.818553:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:55:48.818553:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 15:55:49.667377: No se encontro aplicacion o site asociado a este paquete
+ERROR:root: 2023-09-03 15:55:49.673886: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:55:49.673886: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:55:49.673886: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 15:55:49.673886: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 15:55:49.673886: Hubo un error al identificar los udls 
+INFO:root: 2023-09-03 15:55:49.680673: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:55:49.680673: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:55:49.680673: wrong # args: should be ".!frame35.!entry insert index text"
+INFO:root: 2023-09-03 15:55:49.681673: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:55:49.682672: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:55:49.682672: wrong # args: should be ".!frame35.!entry2 insert index text"
+INFO:root: 2023-09-03 15:55:49.684670: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:55:49.684670: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:55:49.684670: wrong # args: should be ".!frame35.!entry3 insert index text"
+INFO:root: 2023-09-03 15:55:49.686673: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:55:49.686673: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:55:49.686673: wrong # args: should be ".!frame35.!entry4 insert index text"
+INFO:root: 2023-09-03 15:55:49.689659: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:55:49.689659: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:55:49.689659: wrong # args: should be ".!frame35.!entry5 insert index text"
+INFO:root: 2023-09-03 15:55:49.691663: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:55:49.691663: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:55:49.691663: wrong # args: should be ".!frame35.!entry6 insert index text"
+INFO:root: 2023-09-03 15:56:04.009782: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:56:04.009782: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:56:04.241440: Nombre: e-Flow MiddleWare Service
+INFO:root: 2023-09-03 15:56:04.241440: Estado: Stopped
+INFO:root: 2023-09-03 15:56:04.241440: Tipo de inicio: Manual
+INFO:root: 2023-09-03 15:56:04.241440: Descripción: None
+INFO:root: 2023-09-03 15:56:04.241440: Ruta del archivo ejecutable: C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:56:04.241440:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 15:56:04.241440:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:56:04.241440:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:56:05.174816:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:56:05.174816:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:56:05.961307:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 15:56:05.961307:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:56:05.961307:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:56:06.801177:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:56:06.801177:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:56:07.703325: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:56:07.703325: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:56:07.703325: wrong # args: should be ".!frame35.!entry insert index text"
+INFO:root: 2023-09-03 15:56:07.720431: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:56:07.720431: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:56:07.720431: wrong # args: should be ".!frame35.!entry2 insert index text"
+INFO:root: 2023-09-03 15:56:07.722431: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:56:07.723430: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:56:07.723430: wrong # args: should be ".!frame35.!entry3 insert index text"
+INFO:root: 2023-09-03 15:56:07.726428: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:56:07.726428: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:56:07.726428: wrong # args: should be ".!frame35.!entry4 insert index text"
+INFO:root: 2023-09-03 15:56:52.492536: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 15:56:59.757379: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:56:59.757379: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:57:00.026876: Nombre: e-Flow MiddleWare Service
+INFO:root: 2023-09-03 15:57:00.026876: Estado: Stopped
+INFO:root: 2023-09-03 15:57:00.026876: Tipo de inicio: Manual
+INFO:root: 2023-09-03 15:57:00.042497: Descripción: None
+INFO:root: 2023-09-03 15:57:00.042497: Ruta del archivo ejecutable: C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:57:00.042497:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 15:57:00.042497:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:57:00.042497:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:57:00.828782:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:57:00.828782:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:57:01.482974:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 15:57:01.482974:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:57:01.482974:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:57:02.184850:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:57:02.184850:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:57:02.899840: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:57:02.899840: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:57:02.899840: wrong # args: should be ".!frame35.!entry insert index text"
+INFO:root: 2023-09-03 15:57:02.901839: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:57:02.901839: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:57:02.901839: wrong # args: should be ".!frame35.!entry2 insert index text"
+INFO:root: 2023-09-03 15:57:02.904615: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:57:02.904615: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:57:02.904615: wrong # args: should be ".!frame35.!entry3 insert index text"
+INFO:root: 2023-09-03 15:57:02.906541: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:57:02.906541: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:57:02.906541: wrong # args: should be ".!frame35.!entry4 insert index text"
+INFO:root: 2023-09-03 15:58:09.536567: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 15:58:17.640921: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:58:17.640921: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:58:18.026385: Nombre: e-Flow MiddleWare Service
+INFO:root: 2023-09-03 15:58:18.026385: Estado: Stopped
+INFO:root: 2023-09-03 15:58:18.026385: Tipo de inicio: Manual
+INFO:root: 2023-09-03 15:58:18.026385: Descripción: None
+INFO:root: 2023-09-03 15:58:18.042009: Ruta del archivo ejecutable: C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:58:18.042009:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 15:58:18.042009:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:58:18.042009:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:58:19.224948:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:58:19.224948:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:58:20.147092:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 15:58:20.147092:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:58:20.147092:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:58:21.342717:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:58:21.342717:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:58:22.499791: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:58:22.500782: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:58:22.500782: wrong # args: should be ".!frame35.!entry insert index text"
+INFO:root: 2023-09-03 15:58:22.502781: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:58:22.503782: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:58:22.503782: wrong # args: should be ".!frame35.!entry2 insert index text"
+INFO:root: 2023-09-03 15:58:22.507787: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:58:22.508778: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:58:22.508778: wrong # args: should be ".!frame35.!entry3 insert index text"
+INFO:root: 2023-09-03 15:58:22.510776: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:58:22.510776: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:58:22.510776: wrong # args: should be ".!frame35.!entry4 insert index text"
+INFO:root: 2023-09-03 15:58:42.379165: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 15:58:52.069606: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 15:58:52.069606: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:58:52.406569: Nombre: e-Flow MiddleWare Service
+INFO:root: 2023-09-03 15:58:52.406569: Estado: Stopped
+INFO:root: 2023-09-03 15:58:52.407569: Tipo de inicio: Manual
+INFO:root: 2023-09-03 15:58:52.407569: Descripción: None
+INFO:root: 2023-09-03 15:58:52.407569: Ruta del archivo ejecutable: C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 15:58:52.409568:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 15:58:52.409568:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:58:52.409568:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 15:58:53.423065:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:58:53.424065:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 15:58:54.291298:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 15:58:54.291298:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:58:54.291298:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 15:58:55.046219:empezando la consulta en poweshell
+INFO:root: 2023-09-03 15:58:55.061844:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 15:58:55.807445: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:58:55.807445: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:58:55.807445: wrong # args: should be ".!frame35.!entry insert index text"
+INFO:root: 2023-09-03 15:58:55.809199: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:58:55.809199: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:58:55.809199: wrong # args: should be ".!frame35.!entry2 insert index text"
+INFO:root: 2023-09-03 15:58:55.812204: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:58:55.812204: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:58:55.813190: wrong # args: should be ".!frame35.!entry3 insert index text"
+INFO:root: 2023-09-03 15:58:55.814192: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 15:58:55.814192: No se ha cargado el dato
+ERROR:root: 2023-09-03 15:58:55.814192: wrong # args: should be ".!frame35.!entry4 insert index text"
+INFO:root: 2023-09-03 16:00:29.997495: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 16:00:36.772393: Se selecciono el directorio C:/Entornos/Senasa - 03 donde se identificaran los reportes
+INFO:root: 2023-09-03 16:00:36.772393: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+ERROR:root: 2023-09-03 16:00:37.942963: La carpeta OpinionPoll no existe
+INFO:root: 2023-09-03 16:00:37.942963:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:00:37.942963:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:00:37.942963:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:00:38.860664:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:00:38.860664:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:00:39.763011:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:00:39.763011:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:00:39.763011:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:00:40.580698:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:00:40.580698:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 16:00:41.466702: No se encontro aplicacion o site asociado a este paquete
+ERROR:root: 2023-09-03 16:00:41.518683: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 16:00:41.518683: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 16:00:41.523680: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 16:00:41.523680: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 16:00:41.523680: Hubo un error al identificar los udls 
+INFO:root: 2023-09-03 16:00:41.526676: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:00:41.526676: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:00:41.526676: wrong # args: should be ".!frame35.!entry insert index text"
+INFO:root: 2023-09-03 16:00:41.528677: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:00:41.528677: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:00:41.528677: wrong # args: should be ".!frame35.!entry2 insert index text"
+INFO:root: 2023-09-03 16:00:41.529675: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:00:41.530674: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:00:41.530674: wrong # args: should be ".!frame35.!entry3 insert index text"
+INFO:root: 2023-09-03 16:00:41.531677: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:00:41.532673: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:00:41.532673: wrong # args: should be ".!frame35.!entry4 insert index text"
+INFO:root: 2023-09-03 16:00:41.533676: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:00:41.534672: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:00:41.534672: wrong # args: should be ".!frame35.!entry5 insert index text"
+INFO:root: 2023-09-03 16:00:41.536673: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:00:41.536673: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:00:41.536673: wrong # args: should be ".!frame35.!entry6 insert index text"
+INFO:root: 2023-09-03 16:00:47.631313: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:00:47.631313: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:00:47.901051: Nombre: e-Flow MiddleWare Service
+INFO:root: 2023-09-03 16:00:47.901051: Estado: Stopped
+INFO:root: 2023-09-03 16:00:47.901051: Tipo de inicio: Manual
+INFO:root: 2023-09-03 16:00:47.901051: Descripción: None
+INFO:root: 2023-09-03 16:00:47.901051: Ruta del archivo ejecutable: C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:00:47.901051:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:00:47.901051:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:00:47.901051:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:00:49.040668:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:00:49.040668:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:00:49.942970:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:00:49.942970:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:00:49.942970:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:00:50.798433:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:00:50.798433:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 16:00:51.722015: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:00:51.723013: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:00:51.723013: wrong # args: should be ".!frame35.!entry insert index text"
+INFO:root: 2023-09-03 16:00:51.724033: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:00:51.725015: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:00:51.725015: wrong # args: should be ".!frame35.!entry2 insert index text"
+INFO:root: 2023-09-03 16:00:51.729014: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:00:51.729014: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:00:51.729014: wrong # args: should be ".!frame35.!entry3 insert index text"
+INFO:root: 2023-09-03 16:00:51.731025: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:00:51.732010: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:00:51.732010: wrong # args: should be ".!frame35.!entry4 insert index text"
+INFO:root: 2023-09-03 16:01:01.892727: Se selecciono el directorio  donde se identificaran los reportes
+INFO:root: 2023-09-03 16:01:01.892727: Empezando a identificar el servicio de la ruta \Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+ERROR:root: 2023-09-03 16:01:02.644582: La carpeta OpinionPoll no existe
+INFO:root: 2023-09-03 16:01:02.644582:buscando site que coincidan con la ruta \FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:01:02.644582:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:01:02.644582:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:01:03.698057:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:01:03.698057:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:01:04.515793:buscando site que coincidan con la ruta \FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:01:04.515793:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:01:04.515793:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:01:05.364686:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:01:05.364686:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 16:01:06.220178: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 16:01:06.220178: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 16:01:06.235801: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 16:01:06.235801: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 16:01:06.235801: Hubo un error al identificar los udls 
+INFO:root: 2023-09-03 16:01:06.239385: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:01:06.239385: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:01:06.239385: wrong # args: should be ".!frame35.!entry insert index text"
+INFO:root: 2023-09-03 16:01:06.242383: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:01:06.243385: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:01:06.243385: wrong # args: should be ".!frame35.!entry2 insert index text"
+INFO:root: 2023-09-03 16:01:06.247381: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:01:06.247381: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:01:06.248380: wrong # args: should be ".!frame35.!entry3 insert index text"
+INFO:root: 2023-09-03 16:01:06.250382: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:01:06.250382: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:01:06.250382: wrong # args: should be ".!frame35.!entry4 insert index text"
+INFO:root: 2023-09-03 16:01:06.252377: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:01:06.252377: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:01:06.252377: wrong # args: should be ".!frame35.!entry5 insert index text"
+INFO:root: 2023-09-03 16:01:06.254379: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:01:06.254379: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:01:06.254379: wrong # args: should be ".!frame35.!entry6 insert index text"
+INFO:root: 2023-09-03 16:02:03.549582: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 16:02:10.711199: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:02:10.711199: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\Appointment\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:02:11.350232: La carpeta Appointment  existe
+INFO:root: 2023-09-03 16:02:11.350232:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\Appointment
+INFO:root: 2023-09-03 16:02:11.350232:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:02:11.350232:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:02:13.588900:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:02:13.588900:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:02:14.259499:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\Appointment
+INFO:root: 2023-09-03 16:02:14.259499:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:02:14.259499:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:02:14.945732:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:02:14.945732:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 16:02:15.646960: No se encontro aplicacion o site asociado a este paquete
+INFO:root: 2023-09-03 16:02:17.198989: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:02:17.198989: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:02:17.198989: wrong # args: should be ".!frame32.!entry3 insert index text"
+INFO:root: 2023-09-03 16:02:20.284551: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:02:20.284551: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:02:20.284551: wrong # args: should be ".!frame32.!entry8 insert index text"
+INFO:root: 2023-09-03 16:02:39.149508: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:02:39.149508: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:02:39.751523: La carpeta STE  existe
+INFO:root: 2023-09-03 16:02:39.751523:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:02:39.751523:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:02:39.751523:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:02:40.631400:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:02:40.631400:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:02:41.432974:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:02:41.432974:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:02:41.432974:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:02:42.304084:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:02:42.304084:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 16:02:43.159135: No se encontro aplicacion o site asociado a este paquete
+INFO:root: 2023-09-03 16:03:03.698860: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:03:03.698860: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:03:03.930648: Nombre: e-Flow Banco Promerica MiddleWare Service
+INFO:root: 2023-09-03 16:03:03.930648: Estado: Stopped
+INFO:root: 2023-09-03 16:03:03.930648: Tipo de inicio: Manual
+INFO:root: 2023-09-03 16:03:03.930648: Descripción: None
+INFO:root: 2023-09-03 16:03:03.930648: Ruta del archivo ejecutable: C:/Entornos/Banco Promerica - 01/PRODUCCION/Middleware/STE/bin/Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:03:03.930648:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:03:03.930648:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:03:03.930648:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:03:04.898782:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:03:04.898782:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:03:05.700694:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:03:05.700694:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:03:05.700694:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:03:06.518364:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:03:06.518364:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 16:03:57.074525: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 16:04:03.865583: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:04:03.865583: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:04:04.150828: Nombre: e-Flow Banco Promerica MiddleWare Service
+INFO:root: 2023-09-03 16:04:04.150828: Estado: Stopped
+INFO:root: 2023-09-03 16:04:04.150828: Tipo de inicio: Manual
+INFO:root: 2023-09-03 16:04:04.150828: Descripción: None
+INFO:root: 2023-09-03 16:04:04.150828: Ruta del archivo ejecutable: C:/Entornos/Banco Promerica - 01/PRODUCCION/Middleware/STE/bin/Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:04:04.150828:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:04:04.150828:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:04:04.150828:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:04:05.090777:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:04:05.106405:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:04:05.908320:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:04:05.908320:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:04:05.908320:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:04:06.741326:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:04:06.741326:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 16:04:47.285698: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 16:04:55.990134: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:04:55.990134: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:04:56.306566: Nombre: e-Flow Banco Promerica MiddleWare Service
+INFO:root: 2023-09-03 16:04:56.306566: Estado: Stopped
+INFO:root: 2023-09-03 16:04:56.306566: Tipo de inicio: Manual
+INFO:root: 2023-09-03 16:04:56.306566: Descripción: None
+INFO:root: 2023-09-03 16:04:56.306566: Ruta del archivo ejecutable: C:/Entornos/Banco Promerica - 01/PRODUCCION/Middleware/STE/bin/Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:04:56.306566:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:04:56.306566:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:04:56.306566:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:04:57.346668:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:04:57.346668:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:04:58.249013:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:04:58.249013:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:04:58.249013:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:04:59.198211:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:04:59.198211:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 16:05:29.399612: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 16:05:36.101415: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:05:36.101415: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:05:36.370389: Nombre: e-Flow Banco Promerica MiddleWare Service
+INFO:root: 2023-09-03 16:05:36.370389: Estado: Stopped
+INFO:root: 2023-09-03 16:05:36.370389: Tipo de inicio: Manual
+INFO:root: 2023-09-03 16:05:36.370389: Descripción: None
+INFO:root: 2023-09-03 16:05:36.370389: Ruta del archivo ejecutable: C:/Entornos/Banco Promerica - 01/PRODUCCION/Middleware/STE/bin/Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:05:36.370389:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:05:36.370389:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:05:36.370389:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:05:37.341773:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:05:37.341773:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:05:38.190800:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:05:38.190800:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:05:38.190800:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:05:39.046272:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:05:39.046272:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 16:05:53.064728: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 16:06:01.459958: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:06:01.459958: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:06:01.738466: Nombre: e-Flow Banco Promerica MiddleWare Service
+INFO:root: 2023-09-03 16:06:01.738466: Estado: Stopped
+INFO:root: 2023-09-03 16:06:01.738466: Tipo de inicio: Manual
+INFO:root: 2023-09-03 16:06:01.738466: Descripción: None
+INFO:root: 2023-09-03 16:06:01.738466: Ruta del archivo ejecutable: C:/Entornos/Banco Promerica - 01/PRODUCCION/Middleware/STE/bin/Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:06:01.754107:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:06:01.754107:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:06:01.754107:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:06:02.778169:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:06:02.778169:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:06:03.664740:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:06:03.664740:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:06:03.664740:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:06:04.613944:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:06:04.613944:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 16:06:42.155793: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 16:06:49.528386: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:06:49.528386: Empezando a identificar el servicio de la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+ERROR:root: 2023-09-03 16:06:50.145129: La carpeta OpinionPoll no existe
+INFO:root: 2023-09-03 16:06:50.145129:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:06:50.145129:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:06:50.145129:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:06:51.031639:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:06:51.031639:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:06:51.833829:buscando site que coincidan con la ruta C:\Entornos\Banco Promerica - 01\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:06:51.833829:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:06:51.833829:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:06:52.657999:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:06:52.657999:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 16:06:53.522358: No se encontro aplicacion o site asociado a este paquete
+ERROR:root: 2023-09-03 16:06:53.570868: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 16:06:53.570868: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 16:06:53.572958: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 16:06:53.572958: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 16:06:53.572958: Hubo un error al identificar los udls 
+INFO:root: 2023-09-03 16:06:53.577849: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:06:53.577849: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:06:53.577849: wrong # args: should be ".!frame35.!entry insert index text"
+INFO:root: 2023-09-03 16:06:53.580011: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:06:53.580011: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:06:53.580011: wrong # args: should be ".!frame35.!entry2 insert index text"
+INFO:root: 2023-09-03 16:06:53.581983: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:06:53.581983: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:06:53.581983: wrong # args: should be ".!frame35.!entry3 insert index text"
+INFO:root: 2023-09-03 16:06:53.583896: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:06:53.583896: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:06:53.583896: wrong # args: should be ".!frame35.!entry4 insert index text"
+INFO:root: 2023-09-03 16:06:53.585897: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:06:53.585897: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:06:53.585897: wrong # args: should be ".!frame35.!entry5 insert index text"
+INFO:root: 2023-09-03 16:06:53.587988: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:06:53.587988: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:06:53.587988: wrong # args: should be ".!frame35.!entry6 insert index text"
+INFO:root: 2023-09-03 16:07:04.251975: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:07:04.251975: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:07:04.483024: Nombre: e-Flow MiddleWare Service
+INFO:root: 2023-09-03 16:07:04.483024: Estado: Stopped
+INFO:root: 2023-09-03 16:07:04.483024: Tipo de inicio: Manual
+INFO:root: 2023-09-03 16:07:04.489531: Descripción: None
+INFO:root: 2023-09-03 16:07:04.489531: Ruta del archivo ejecutable: C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:07:04.489531:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:07:04.489531:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:07:04.489531:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:07:05.453694:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:07:05.453694:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:07:06.271426:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:07:06.271426:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:07:06.271426:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:07:07.095633:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:07:07.095633:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 16:07:07.990175: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:07:07.991175: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:07:07.991175: wrong # args: should be ".!frame35.!entry insert index text"
+INFO:root: 2023-09-03 16:07:07.992173: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:07:07.993173: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:07:07.993173: wrong # args: should be ".!frame35.!entry2 insert index text"
+INFO:root: 2023-09-03 16:07:07.995171: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:07:07.995171: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:07:07.995171: wrong # args: should be ".!frame35.!entry3 insert index text"
+INFO:root: 2023-09-03 16:07:07.998170: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:07:07.999172: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:07:07.999172: wrong # args: should be ".!frame35.!entry4 insert index text"
+INFO:root: 2023-09-03 16:08:21.290555: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 16:08:30.992031: Se selecciono el directorio C:/Entornos/Senasa - 03 donde se identificaran los reportes
+INFO:root: 2023-09-03 16:08:30.992031: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\Middleware\Appointment\bin\Sidesys.Services.ApplicationService.exe
+ERROR:root: 2023-09-03 16:08:31.640835: La carpeta Appointment no existe
+INFO:root: 2023-09-03 16:08:31.640835:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\FrontEnd\Appointment
+INFO:root: 2023-09-03 16:08:31.640835:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:08:31.640835:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:08:32.342919:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:08:32.342919:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:08:33.013511:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\FrontEnd\Appointment
+INFO:root: 2023-09-03 16:08:33.013511:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:08:33.013511:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:08:33.699603:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:08:33.699603:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 16:08:34.379331: No se encontro aplicacion o site asociado a este paquete
+ERROR:root: 2023-09-03 16:08:34.418316: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 16:08:34.418316: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 16:08:34.419903: No se ha identificado correctamente el udl, por favor revisarlos
+ERROR:root: 2023-09-03 16:08:34.419903: (-2147352567, 'Exception occurred.', (0, 'ADODB.Stream', 'File could not be opened.', 'C:\\WINDOWS\\HELP\\ADO270.CHM', 1240642, -2146825286), None)
+ERROR:root: 2023-09-03 16:08:34.419903: Hubo un error al identificar los udls 
+INFO:root: 2023-09-03 16:08:34.420769: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:34.420769: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:34.421773: wrong # args: should be ".!frame32.!entry insert index text"
+INFO:root: 2023-09-03 16:08:34.423040: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:34.423040: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:34.423040: wrong # args: should be ".!frame32.!entry2 insert index text"
+INFO:root: 2023-09-03 16:08:34.425053: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:34.426039: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:34.426039: wrong # args: should be ".!frame32.!entry3 insert index text"
+INFO:root: 2023-09-03 16:08:34.428039: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:34.428039: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:34.428039: wrong # args: should be ".!frame32.!entry4 insert index text"
+INFO:root: 2023-09-03 16:08:34.430039: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:34.430039: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:34.430039: wrong # args: should be ".!frame32.!entry5 insert index text"
+INFO:root: 2023-09-03 16:08:34.430984: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:34.431987: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:34.431987: wrong # args: should be ".!frame32.!entry7 insert index text"
+INFO:root: 2023-09-03 16:08:34.432986: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:34.432986: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:34.432986: wrong # args: should be ".!frame32.!entry6 insert index text"
+INFO:root: 2023-09-03 16:08:34.433985: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:34.433985: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:34.433985: wrong # args: should be ".!frame32.!entry8 insert index text"
+INFO:root: 2023-09-03 16:08:34.435287: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:34.435287: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:34.435287: wrong # args: should be ".!frame33.!entry insert index text"
+INFO:root: 2023-09-03 16:08:34.436399: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:34.436399: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:34.436399: wrong # args: should be ".!frame33.!entry2 insert index text"
+INFO:root: 2023-09-03 16:08:34.437695: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:34.437695: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:34.437695: wrong # args: should be ".!frame33.!entry3 insert index text"
+INFO:root: 2023-09-03 16:08:34.438885: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:34.438885: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:34.438885: wrong # args: should be ".!frame33.!entry4 insert index text"
+INFO:root: 2023-09-03 16:08:34.439892: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:34.439892: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:34.439892: wrong # args: should be ".!frame33.!entry5 insert index text"
+INFO:root: 2023-09-03 16:08:44.681949: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:08:44.681949: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\Appointment\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:08:45.361621: La carpeta Appointment  existe
+INFO:root: 2023-09-03 16:08:45.361621:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\Appointment
+INFO:root: 2023-09-03 16:08:45.361621:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:08:45.361621:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:08:46.201003:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:08:46.201003:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:08:46.987436:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\Appointment
+INFO:root: 2023-09-03 16:08:46.987436:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:08:46.987436:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:08:47.766989:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:08:47.766989:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 16:08:48.606873: No se encontro aplicacion o site asociado a este paquete
+INFO:root: 2023-09-03 16:08:48.627694: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:48.628695: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:48.628695: wrong # args: should be ".!frame32.!entry3 insert index text"
+INFO:root: 2023-09-03 16:08:48.644684: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:08:48.644684: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:08:48.644684: wrong # args: should be ".!frame32.!entry8 insert index text"
+INFO:root: 2023-09-03 16:09:07.903397: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 16:09:14.920778: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:09:14.920778: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\STE\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:09:15.553778: La carpeta STE  existe
+INFO:root: 2023-09-03 16:09:15.553778:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:09:15.553778:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:09:15.553778:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:09:16.424622:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:09:16.424622:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:09:17.232056:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\STE
+INFO:root: 2023-09-03 16:09:17.232056:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:09:17.232056:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:09:18.152431:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:09:18.152431:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 16:09:19.061744: No se encontro aplicacion o site asociado a este paquete
+INFO:root: 2023-09-03 16:09:34.734844: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:09:34.734844: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\Appointment\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:09:35.336285: La carpeta Appointment  existe
+INFO:root: 2023-09-03 16:09:35.336285:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\Appointment
+INFO:root: 2023-09-03 16:09:35.336285:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:09:35.336285:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:09:36.175899:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:09:36.175899:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:09:37.046955:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\Appointment
+INFO:root: 2023-09-03 16:09:37.046955:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:09:37.046955:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:09:37.879955:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:09:37.879955:Get-WebSite | select name,state,enabledprotocols
+ERROR:root: 2023-09-03 16:09:38.766794: No se encontro aplicacion o site asociado a este paquete
+INFO:root: 2023-09-03 16:09:38.780171: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:09:38.781170: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:09:38.781170: wrong # args: should be ".!frame32.!entry3 insert index text"
+INFO:root: 2023-09-03 16:09:38.795696: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:09:38.795696: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:09:38.795696: wrong # args: should be ".!frame32.!entry8 insert index text"
+INFO:root: 2023-09-03 16:09:49.397202: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:09:49.397202: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:09:49.613179: Nombre: e-Flow MiddleWare Service
+INFO:root: 2023-09-03 16:09:49.613179: Estado: Stopped
+INFO:root: 2023-09-03 16:09:49.613179: Tipo de inicio: Manual
+INFO:root: 2023-09-03 16:09:49.613179: Descripción: None
+INFO:root: 2023-09-03 16:09:49.613179: Ruta del archivo ejecutable: C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:09:49.613179:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:09:49.613179:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:09:49.613179:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:09:50.577841:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:09:50.577841:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:09:51.364275:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:09:51.364275:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:09:51.364275:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:09:52.235264:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:09:52.235264:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 16:09:53.154858: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:09:53.155856: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:09:53.155856: wrong # args: should be ".!frame35.!entry insert index text"
+INFO:root: 2023-09-03 16:09:53.157856: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:09:53.157856: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:09:53.157856: wrong # args: should be ".!frame35.!entry2 insert index text"
+INFO:root: 2023-09-03 16:09:53.159855: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:09:53.159855: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:09:53.159855: wrong # args: should be ".!frame35.!entry3 insert index text"
+INFO:root: 2023-09-03 16:09:53.161853: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:09:53.162852: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:09:53.162852: wrong # args: should be ".!frame35.!entry4 insert index text"
+INFO:root: 2023-09-03 16:10:09.561367: Se ejecuta la funcion loadOptionService
+INFO:root: 2023-09-03 16:10:09.561367: Inicializacion del manejador de servicio
+INFO:root:sc start "e-Flow MiddleWare Service"
+INFO:root: 2023-09-03 16:18:12.377585: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 16:18:20.039943: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION donde se identificaran los reportes
+INFO:root: 2023-09-03 16:18:20.039943: Empezando a identificar el servicio de la ruta C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:18:20.440798: Nombre: e-Flow MiddleWare Service
+INFO:root: 2023-09-03 16:18:20.440798: Estado: Running
+INFO:root: 2023-09-03 16:18:20.440798: Tipo de inicio: Manual
+INFO:root: 2023-09-03 16:18:20.440798: Descripción: None
+INFO:root: 2023-09-03 16:18:20.440798: Ruta del archivo ejecutable: C:\Entornos\Senasa - 03\PRODUCCION\Middleware\OpinionPoll\bin\Sidesys.Services.ApplicationService.exe
+INFO:root: 2023-09-03 16:18:20.447304:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:18:20.447304:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:18:20.447304:Get-WebApplication | select physicalPath
+INFO:root: 2023-09-03 16:18:22.166996:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:18:22.166996:Get-WebApplication | select path,applicationPool,enabledprotocols
+INFO:root: 2023-09-03 16:18:22.831037:buscando site que coincidan con la ruta C:\Entornos\Senasa - 03\PRODUCCION\FrontEnd\OpinionPoll
+INFO:root: 2023-09-03 16:18:22.831037:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:18:22.831037:Get-WebSite | select id,physicalPath
+INFO:root: 2023-09-03 16:18:23.516923:empezando la consulta en poweshell
+INFO:root: 2023-09-03 16:18:23.516923:Get-WebSite | select name,state,enabledprotocols
+INFO:root: 2023-09-03 16:18:24.333037: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:18:24.333037: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:18:24.333037: wrong # args: should be ".!frame35.!entry insert index text"
+INFO:root: 2023-09-03 16:18:24.335036: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:18:24.335036: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:18:24.335036: wrong # args: should be ".!frame35.!entry2 insert index text"
+INFO:root: 2023-09-03 16:18:24.336037: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:18:24.336037: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:18:24.336037: wrong # args: should be ".!frame35.!entry3 insert index text"
+INFO:root: 2023-09-03 16:18:24.337053: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+ERROR:root: 2023-09-03 16:18:24.337053: No se ha cargado el dato
+ERROR:root: 2023-09-03 16:18:24.338034: wrong # args: should be ".!frame35.!entry4 insert index text"
+INFO:root: 2023-09-03 18:20:59.948104: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 18:29:50.576168: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 18:37:41.952194: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 18:52:53.995806: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 18:53:11.898971: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 18:53:32.071193: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 18:54:00.562849: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 18:54:34.545324: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 18:57:05.058303: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 18:59:11.723420: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:10:57.597844: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:11:06.605436: Se esta examinando el archivo
+INFO:root: 2023-09-03 19:20:15.532228: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:20:22.642410: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-09-03 19:20:24.601274: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION/Middleware/STE/bin
+INFO:root: 2023-09-03 19:28:19.007472: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:28:22.897820: Se esta examinando el archivo
+INFO:root: 2023-09-03 19:31:06.934449: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:31:12.796022: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-09-03 19:31:14.783641: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION/Middleware/STE/bin
+INFO:root: 2023-09-03 19:31:32.307527: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:31:55.511236: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:32:00.195880: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-09-03 19:32:02.487596: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION/Middleware/STE/bin
+INFO:root: 2023-09-03 19:32:35.271136: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:32:38.905371: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-09-03 19:32:40.688098: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION/Middleware/STE/bin
+INFO:root: 2023-09-03 19:39:10.771967: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:39:16.259911: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-09-03 19:39:18.407703: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION/Middleware/STE/bin
+INFO:root: 2023-09-03 19:39:32.699133: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:39:38.018713: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-09-03 19:39:40.255402: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION/Middleware/STE/bin
+INFO:root: 2023-09-03 19:43:11.355150: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:44:15.304768: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:44:19.986577: Se esta seleccionando el directorio para la creacion de la aplicacion
+INFO:root: 2023-09-03 19:44:21.884642: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION/Middleware/STE/bin
+INFO:root: 2023-09-03 19:59:25.890006: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:59:41.490511: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 19:59:57.234416: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 20:00:04.565269: Se esta seleccionando el directorio para la carga de hora y minutos del proceso historico
+INFO:root: 2023-09-03 20:00:08.661381: Se selecciono el directorio C:/Entornos/Senasa - 03/PRODUCCION
+INFO:root: 2023-09-03 20:00:08.661381: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-09-03 20:00:08.670517: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-09-03 20:00:17.382010: Se esta seleccionando el directorio para la carga de hora y minutos del proceso historico
+INFO:root: 2023-09-03 20:00:23.329159: Se selecciono el directorio C:/Entornos/Superintendencia - 04/PRODUCCION
+INFO:root: 2023-09-03 20:00:23.335665: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-09-03 20:00:23.337483: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-09-03 20:00:42.114676: Se esta seleccionando el directorio para la carga de hora y minutos del proceso historico
+INFO:root: 2023-09-03 20:00:49.288072: Se selecciono el directorio C:/Entornos/Banco Promerica - 01/PRODUCCION
+INFO:root: 2023-09-03 20:00:54.014531: Se esta seleccionando el directorio para la carga de hora y minutos del proceso historico
+INFO:root: 2023-09-03 20:01:07.265210: Se selecciono el directorio C:/Entornos/APS/1. Proceso de instalacion
+INFO:root: 2023-09-03 20:01:07.265210: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-09-03 20:01:07.272936: El path no ha podido ser cambiado, asegurese que dentro del campo ha modificar no halla espacio en blanco
+INFO:root: 2023-09-03 20:04:23.200306: Inicializacion de la Aplicacion
+INFO:root: 2023-09-03 20:04:28.256297: Se esta seleccionando el directorio para la carga de la sesion en consola
+INFO:root: 2023-09-03 20:04:30.778773: Se selecciono el directorio C:/Entornos/APS/1. Proceso de instalacion
